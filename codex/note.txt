@@ -1,0 +1,2 @@
+This is where all data based things go like traits, abilities, items, etc.
+(Model in MVC)
