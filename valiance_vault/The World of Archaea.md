@@ -1,10 +1,10 @@
-The standard setting for Valiance is Archaea, and ancient seascape dotted with living continents and titanic primordial beings. Recently, it has also become the home of the Archaean people.
+The standard setting for Valiance is Archaea, and ancient seascape dotted with living continents and titanic primordial beings. Recently, it has also become the home of the Archaean peoples.
 
 
 TODO: Migrate this
-## 1.2  The World
+## 1.2 The World
 
-Valiance is set on the barrier: a vast ocean dotted with small continents that are home to all manner of mundane and fantastical beings. The barrier is the home of the Archians, a wildly varied peoples that thrive in this unpredictable, dangerous world. Among these Archians exist our valiants. While not terribly numerous, they are undeniably a political, economic, and sometimes social force on the barrier. The valiants that survive their deadly profession are granted wealth beyond their wildest dreams, in return for a few brief stints of unconditional servitude.
+Valiance is set on the barrier: a vast ocean dotted with small continents that are home to all manner of mundane and fantastical beings. The barrier is the home of the Archaeans, a wildly varied peoples that thrive in this unpredictable, dangerous world. Among these Archaeans exist our valiants. While not terribly numerous, they are undeniably a political, economic, and sometimes social force on the barrier. The valiants that survive their deadly profession are granted wealth beyond their wildest dreams, in return for a few brief stints of unconditional servitude.
 
 For a more comprehensive view of the world of Valiance, check out the Valiance Lore document.
 
