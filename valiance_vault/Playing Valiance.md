@@ -16,4 +16,14 @@ Players may adjust their characters' actions as the scene plays out. This is eff
 
 ### Rounding
 In any case where calculations result in a fraction, the result is rounded down.
-####
+#### ??
+TODO: sections each with links to the more comprehensive docs for that
+Also each compendium should be separated into the data (traits and abilities) and the rules associated (equip limits, archetype investments, etc.)
+
+General rules here, deep dives into systems in:
+[[Narrative Gameplay]]
+[[Combat Gameplay]]
+[[Your Valiant]]
+
+
+And some somewhat seperate ref to [[The World of Archaea]] as another way to get there other than from the top lev
