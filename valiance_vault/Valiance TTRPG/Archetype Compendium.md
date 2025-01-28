@@ -17,9 +17,9 @@ All origins contain a brief background and a social connection. It’s recommend
 
 #### Global Aspirant Utility Effect
 
-|   |
-|---|
-|A Past Life<br><br>There’s a lot packed into a life, more than could ever be known by anyone else. Once per contract, when you are attempting a check, you may establish a detail about your life before valiance and gain +1 to the check. This is added in addition to any check bonuses. The established detail becomes canon, though any bonuses it would give to future checks count as a utility effect bonus.|
+|                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| A Past Life<br><br>There’s a lot packed into a life, more than could ever be known by anyone else. Once per contract, when you are attempting a check, you may establish a detail about your life before valiance and gain +1 to the check. This is added in addition to any check bonuses. The established detail becomes canon, though any bonuses it would give to future checks count as a utility effect bonus. |
 
   
 

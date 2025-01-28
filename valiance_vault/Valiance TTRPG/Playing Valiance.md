@@ -26,4 +26,4 @@ General rules here, deep dives into systems in:
 [[Your Valiant]]
 
 
-And some somewhat seperate ref to [[The World of Archaea]] as another way to get there other than from the top lev
+And some somewhat seperate ref to [[The World]] as another way to get there other than from the top lev

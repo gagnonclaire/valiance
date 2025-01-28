@@ -1,0 +1,5 @@
+Catch all for phenomena that evade understanding. Classic example include primordial beings and their seemingly endless wells of energy, the forces that power the cosmos, and the enigmatic nature of the depths.
+
+Humans have a natural intuition to these forces, and control over them can be developed with practice. Academic studies into arcane forces yield few quantitative results, but aren't without fruit. An understanding built through millennia of experience have aided in the application of the arcane in modern society, even if the mechanisms behind these applications are poorly understood.
+
+There are traces of arcane forces in every part of the natural world. Control over the arcane allows for not only mystical feats, but also the augmentation of the physical self to perform beyond normal physiological capabilities.
