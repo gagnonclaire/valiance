@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The World.md",
+                "file": "Valiance TTRPG/Lineage Compendium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The World"
+              "title": "Lineage Compendium"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/The Arcane.md",
+                "file": "Valiance TTRPG/Notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Arcane"
+              "title": "Notepad"
             }
           },
           {
@@ -199,26 +199,28 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5278327f76feb483",
+  "active": "99cf48627d443c79",
   "lastOpenFiles": [
+    "Lore/Notepad.md",
+    "Valiance TTRPG/Notepad.md",
+    "Lore/The Arcane.md",
+    "Valiance TTRPG/Lineage Compendium.md",
+    "Valiance TTRPG/Equipment Compendium.md",
+    "Valiance TTRPG/Enemy Archetypes.md",
+    "Valiance TTRPG/Combat Gameplay.md",
+    "Valiance TTRPG/Narrative Gameplay.md",
+    "Valiance TTRPG/Archetype Compendium.md",
+    "Valiance TTRPG/Playing Valiance.md",
     "Valiance TTRPG/Valiance.md",
     "Valiance TTRPG/Utility Effect Compendium.md",
-    "Valiance TTRPG/Your Valiant.md",
-    "Valiance TTRPG/Equipment Compendium.md",
-    "Valiance TTRPG/Narrative Gameplay.md",
-    "Valiance TTRPG/Lineage Compendium.md",
-    "Valiance TTRPG/Playing Valiance.md",
-    "Valiance TTRPG/Combat Gameplay.md",
-    "Valiance TTRPG/Archetype Compendium.md",
-    "Valiance TTRPG/Enemy Archetypes.md",
     "Lore/The World.md",
+    "Lore/Energy Shaping.md",
+    "Assets/Shalica.png",
+    "Daugther/Daughter.md",
+    "Valiance TTRPG/Your Valiant.md",
     "Assets/Pasted image 20241024222849.png",
     "Assets/Pasted image 20241024223137.png",
     "Assets/Pasted image 20241024223156.png",
-    "Assets/Shalica.png",
-    "Lore/The Arcane.md",
-    "Lore/Energy Shaping.md",
-    "Daugther/Daughter.md",
     "Valiance TTRPG",
     "Lore",
     "Assets",

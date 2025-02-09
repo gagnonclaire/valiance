@@ -33,8 +33,6 @@ The truck came to an abrupt stop, and the fourth operative spoke plainly.
 
 2
 
-
-
 -
 
 Four figures crept like shadows through the humid summer night along an unkempt trail. At the end of the overgrown path sat a small house, old but cared for, much unlike the road that led to it. 

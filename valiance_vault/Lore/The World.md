@@ -23,7 +23,7 @@ There are other local currencies across the seas, but their value is almost alwa
 
 #### Bloody Enticement
 
-In developed regions, the median net income is around ƭ40,000, enough to afford a modest living in an urban center. With seasonal rent averaging ƭ5,000, and a budget meal costing a few Tin a piece, most people have little to no savings and live anxiously from season to season.
+In developed regions, the median net income is around ƭ40,000, enough to afford a very modest lifestyle in an urban center. With seasonal rent averaging ƭ5,000, and a budget meal costing a few Tin a piece, most people have little to no savings and live anxiously from season to season.
 
 The lackluster standard of living is enough to placate the common person, but certain bold and desperate individuals turn to valiancy. The work is deadly, but even novices in the field are promised tens of thousands of Tin for a single contract.
 
