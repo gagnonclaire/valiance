@@ -1,5 +1,9 @@
 Cosmos (order) above, depths (chaos) below, surface is mostly saltwater dotted with floating primordial islands. 
 
+Center of the world is the anchor, extending one mile above and below sea level. 1m miles above sea level, at the center, is the sun/moon (academically referred to as the cosmic core), with nothing but empty space above The cosmic core acts like a spotlight on a roughly 24-hour cycle of heating and cooling It does not move.
+
+1m miles below is the deep core. At roughly 100 miles of depth the saltwater ocean becomes solid ice, expanding downwards infinitely. The depth of the liquid ocean decreases further away from the center of the world due to a general decrease in temperature, eventually becoming a solid plane of ice endlessly extending in all directions.
+
 Energy is introduced to the world via several mechanisms, with the most prominent being the sun and moon (the same object in different phases), the bubbling of energy up from the depths, and via the hearts of primordial beings. Energy fades as it diffuses as away from the center of the world. At the edges of the world (not literal edges but a term for where the light of the sun does not reach) energy disappears at such a rate that most beings native to the world become frail and withered.
 
 Civilization is (and has been) focused about the anchor, an indestructible and immovable monolith that sits at the center of the sea. The anchor is exactly below the sun and exactly above the heart of the depths.
@@ -7,6 +11,12 @@ Civilization is (and has been) focused about the anchor, an indestructible and i
 The Shalican Empire is the most extensive modern nation. While the figurehead has been reduced to a ceremonial role and governance is primarily performed by the Imperial Ministry, a collection of regional representatives. The empire's imperialist tendencies have caught up with it in these times of scarcity, and it maintains a tenuous grasp on its many colonies in the near seas.
 
 Many near sea nations are regaining sovereignty and joining the modern world, while far sea colonies serve as the last human frontier.
+
+
+
+Every year starts and ends with the Inversion, a strange celestial event that sees the cosmic core eclipsed and the sky darkened. At the end of the last day of winter, a dark spot in the center of the moon appears. It slowly grows until completely eclipsing the core, at which point no stars are visible in the sky. Time seems to stop during this period, only to start again when the process eventually reverses and the first day of spring begins.
+
+The Inversion is a significant event in nearly every culture in the world. Some host celebrations for the duration, some host somber remembrances. Others hold more esoteric rituals. The exact nature of the event is unclear, with philosophers and researchers across the ages attempting to explain it. Even measuring time during the Inversion is difficult, with attempts giving wildly different results from year to year. 
 
 OLD STUFF ------------------------------------------------------------------------------------------------
 ### Cruel Circumstances
@@ -195,7 +205,7 @@ In their natural state, primordial hearts are gray stones that glow dully. Their
 
 *Rain fell upon him like perlim lances from the heavens, cooling his singed flesh. He'd seen stars die. Just fall, right out of the fucking sky. But nothing compared to this.
 
-In front of the old sailor floated the corpse of a god. A great, still leviathan shimmering in the downpour. The only visible mark upon its limp body was a titanic gash, still smoldering around the edges.*
+*In front of the old sailor floated the corpse of a god. A great, still leviathan shimmering in the downpour. The only visible mark upon its limp body was a titanic gash, still smoldering around the edges.*
 
 *Back in safe harbors, the sailor sat amongst old friends. Since his return, he'd been drowned in inquiries about his journey to the unlit seas, and how much those valiants paid him to travel there. He had no answers for them, just an empty gaze and a broken mind.*
 
@@ -381,7 +391,7 @@ Ithia, the Gray Titan, was the second primordial to join the council. Ithia was 
 With the very lands that constituted the barrier in on the architect’s grand project, the first child continued its task with a bolstered confidence.
  
 
-#### Be’khan, the Eldest Moss
+#### Be’khan, the Elder Moss
 
 The third primordial to gain a seat at the council sought out the first child on its own volition, after word of the council began spreading across the barrier by Ithia. Be’khan, the Eldest Moss, is the firstborn of an ancient primordial that long ago sacrificed itself to spread its children across the barrier. Be’khan offered his services as a representative of the plant-like primordials that have long flourished across the barrier.
 

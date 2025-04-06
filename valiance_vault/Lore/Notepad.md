@@ -64,3 +64,37 @@ EM for short
 or maybe something else because thatalso is
 
 rename cosmos to the heavens, cosmic beings to celestial beings
+
+
+
+
+They stood together on the balcony, where they didn't have to compete with the distant chatter of mingling socialites. One of them exhaled slowly, allowing their visible breath to disperse into the cold autumn air before speaking.
+
+"This is a dream, isn't it?"
+
+"Of course."
+
+A slight smile split the face of the dreamer.
+
+
+
+Do you ever wonder if there is a god,
+and we're simply not part of the bigger picture?
+
+That somewhere out there the chosen children carry their some divine directive.
+A grand work that was started long before we arrived.
+And will continue long after we've left.
+
+
+
+
+
+
+
+
+
+
+
+We are on page `= this.file.name`.
+
+`=`
