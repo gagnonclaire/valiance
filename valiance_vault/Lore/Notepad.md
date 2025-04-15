@@ -89,12 +89,4 @@ And will continue long after we've left.
 
 
 
-
-
-
-
-
-
-We are on page `= this.file.name`.
-
-`=`
+Before the second child, all primordials were titanic and entirely unlike the primordials seen in the modern day. Only Tekka's spawn resembled the current primordials, and they were the exception. The third child's crusade had shattered all the primordials that refused to work with the council, leaving tiny fragments of hearts strewn across the world. These hearts would grow into smaller, more plentiful primordials.

@@ -12,13 +12,11 @@ The Shalican Empire is the most extensive modern nation. While the figurehead ha
 
 Many near sea nations are regaining sovereignty and joining the modern world, while far sea colonies serve as the last human frontier.
 
-
-
 Every year starts and ends with the Inversion, a strange celestial event that sees the cosmic core eclipsed and the sky darkened. At the end of the last day of winter, a dark spot in the center of the moon appears. It slowly grows until completely eclipsing the core, at which point no stars are visible in the sky. Time seems to stop during this period, only to start again when the process eventually reverses and the first day of spring begins.
 
 The Inversion is a significant event in nearly every culture in the world. Some host celebrations for the duration, some host somber remembrances. Others hold more esoteric rituals. The exact nature of the event is unclear, with philosophers and researchers across the ages attempting to explain it. Even measuring time during the Inversion is difficult, with attempts giving wildly different results from year to year. 
 
-OLD STUFF ------------------------------------------------------------------------------------------------
+# OLD STUFF
 ### Cruel Circumstances
 
 The geopolitics of the world are driven chiefly by a severe lack of resources, an obvious consequence of a world consisting almost entirely of vast oceans. This lack of resources almost always leads to material inequalities, and for many people there is little hope of societal mobility because of this. Most individuals turn to valiancy as an escape from this fate. They risk their lives on behalf of the wealthy elite in a desperate attempt to pull themselves from a life of thankless labor. Most of them, unfortunately, die long before they achieve that goal.
