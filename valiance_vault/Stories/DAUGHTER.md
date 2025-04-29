@@ -1,4 +1,4 @@
-#### The First Daughter
+#### Daughter
 
 The forest vale was foggy this autumn morning. There was a stream running through a clearing here, its soft trickling muffled by the cold blanket covering the valley.
 
@@ -20,17 +20,17 @@ She sat bloody and alone in the dark, fixated on the dull glow of the captured s
 
 Four sequential charges erupted at each corner of the gate, the resulting implosions annihilating the heavy locks holding the outer shielding in place. A combination of impact drills and fusion torches worked their way into the sanctum beyond the gate. There, the team of three operatives found what they were looking for. A hulking machine rendered inert, its two experimental power cores neatly packaged on the floor. And their primary target, held in its inner casing by a bloody mess of a woman.
 
-Nobody spoke, leaving only the blaring of alarms. The team collected what they had come for.
+Nobody spoke, leaving only the blaring of alarms. The team began collecting what they had come here for.
 
 "Power core one and two, in good condition."
 
-"Singularity casing installed in the transportation cell, ready to go."
+"Singularity installed in the transportation cell, ready to go."
 
-One of the operatives paused as the team prepared to exfiltrate.
+One of the operatives paused as the team prepared to exfiltrate as one member took one last look at the kneeling woman, her hands now empty.
 
 "What about her?"
 
-The three exchanged quick glances before another answered.
+The three exchanged quick glances before an answer came.
 
 "She's not on the list."
 

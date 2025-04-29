@@ -1,14 +1,15 @@
 ---
 {
 	"name": "standard-shield",
-	"tags": [ "equipment", "weapons" ],
+	"tags": [ "equipment", "weapon", "ability" ],
 	"tier": 0,
-	"base-weapon": null,
+	"base-item": null,
 	"primary-tag": {
 		"tag": "reaction",
 		"value": 1,
 	},
 	"secondary-tags": [],
+	"energy-cost": 0,
 	"effect": "gain 2 Resistance until the triggering ability resolves.",
 	"effect-trigger": "counter",
 	"check-effects": [],

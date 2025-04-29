@@ -1,9 +1,9 @@
 ---
 {
 	"name": "heavy-ranged-weapon",
-	"tags": [ "equipment", "weapons" ],
+	"tags": [ "equipment", "weapon", "ability" ],
 	"tier": 0,
-	"base-weapon": null,
+	"base-item": null,
 	"primary-tag": {
 		"tag": "action",
 		"value": 2,
@@ -25,6 +25,7 @@
 			"value-max": 6,
 		},
 	],
+	"energy-cost": 0,
 	"effect": "Deal 6 damage. This ability cannot be used while you are engaged.",
 	"effect-trigger": null,
 	"check-effects": [

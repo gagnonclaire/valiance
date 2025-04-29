@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daugther/Daughter.md",
+                "file": "Valiance TTRPG/Combat Gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daughter"
+              "title": "Combat Gameplay"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valiance TTRPG/Weapons/Tier 0/Standard Shield.md",
+                "file": "Valiance TTRPG/Equipment Compendium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard Shield"
+              "title": "Equipment Compendium"
             }
           }
         ]
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "global",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,44 +188,45 @@
   },
   "active": "99cf48627d443c79",
   "lastOpenFiles": [
-    "Lore/Energy Shaping.md",
-    "Lore/Notepad.md",
-    "Lore/The Arcane.md",
-    "Lore/The World.md",
-    "Daugther/Daughter.md",
-    "Valiance TTRPG/Weapons/Tier 0/Standard Shield.md",
-    "Valiance TTRPG/Weapons/Tier 0/Standard Melee Weapon.md",
-    "Valiance TTRPG/Weapons/Tier 0/Standard Ranged Weapon.md",
-    "Valiance TTRPG/Weapons/Tier 0/Heavy Ranged Weapon.md",
-    "Valiance TTRPG/Weapons/Tier 0/Heavy Melee Weapon.md",
+    "Valiance TTRPG/Playing Valiance.md",
+    "Valiance TTRPG/Weapons/Tier 2/Peacekeeper Baton.md",
+    "Valiance TTRPG/Weapons/Tier 2/Lead Core Maul.md",
+    "Valiance TTRPG/Weapons/Tier 2/Trusty Buckler.md",
     "Valiance TTRPG/Equipment Compendium.md",
-    "Valiance TTRPG/Weapons/Weapon Compendium.md",
-    "Valiance TTRPG/Archetype Compendium.md",
-    "Valiance TTRPG/Tier 0 Weapons.md",
-    "Valiance TTRPG/Weapons/Tier 0/Heavy Ranged Weapon 1 1 1 1.md",
-    "Valiance TTRPG/Weapons/Tier 0/Heavy Ranged Weapon 1 1 1.md",
-    "Valiance TTRPG/Weapons/Tier 0",
-    "Valiance TTRPG/Weapons",
+    "Valiance TTRPG/Weapons/Tier 2/Bolt Thrower.md",
+    "Valiance TTRPG/Weapons/Tier 1/Repurposed Door.md",
+    "Valiance TTRPG/Weapons/Tier 1/Plate Breaker.md",
+    "Valiance TTRPG/Weapons/Tier 1/Gunslinger Revolver.md",
+    "Valiance TTRPG/Weapons/Tier 1/Black Market Special.md",
+    "Valiance TTRPG/Weapons/Tier 1/Berserk Blade.md",
+    "Valiance TTRPG/Notepad.md",
+    "Valiance TTRPG/Weapons/Tier 2/Imperial Rifle Type II.md",
+    "Valiance TTRPG/Weapons/Tier 0/Standard Shield.md",
+    "Valiance TTRPG/Weapons/Tier 0/Heavy Ranged Weapon.md",
+    "Valiance TTRPG/Weapons/Tier 2",
+    "Valiance TTRPG/Combat Gameplay.md",
     "Valiance TTRPG/Your Valiant.md",
     "Valiance TTRPG/Valiance.md",
-    "2021-08-17.md",
+    "Valiance TTRPG/Weapons/Tier 0/Standard Ranged Weapon.md",
+    "Valiance TTRPG/Weapons/Tier 0/Standard Melee Weapon.md",
+    "Valiance TTRPG/Weapons/Tier 0/Heavy Melee Weapon.md",
+    "Valiance TTRPG/Weapons/Rearm.md",
+    "Valiance TTRPG/Weapons/Weapon Compendium.md",
+    "Valiance TTRPG/Archetype Compendium.md",
+    "Valiance TTRPG/Weapons/Tier 1",
+    "Stories/DAUGHTER.md",
+    "Lore/Energy Shaping.md",
+    "Valiance TTRPG/Weapons/Tier 0",
+    "Valiance TTRPG/Weapons",
     "codex/note.txt",
     "codex",
     "Assets/Shalica.png",
-    "Valiance TTRPG/Narrative Gameplay.md",
     "Untitled",
-    "Valiance TTRPG/Playing Valiance.md",
     "Assets/Pasted image 20241024223156.png",
-    "Valiance TTRPG/Enemy Archetypes.md",
-    "Valiance TTRPG/Notepad.md",
-    "Valiance TTRPG/Lineage Compendium.md",
-    "Valiance TTRPG/Combat Gameplay.md",
-    "Valiance TTRPG/Utility Effect Compendium.md",
     "Assets/Pasted image 20241024222849.png",
     "Assets/Pasted image 20241024223137.png",
     "Valiance TTRPG",
     "Lore",
-    "Assets",
-    "Daugther"
+    "Assets"
   ]
 }

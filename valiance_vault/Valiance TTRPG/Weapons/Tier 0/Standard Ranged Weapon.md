@@ -1,9 +1,9 @@
 ---
 {
 	"name": "standard-ranged-weapon",
-	"tags": [ "equipment", "weapons" ],
+	"tags": [ "equipment", "weapon", "ability" ],
 	"tier": 0,
-	"base-weapon": null,
+	"base-item": null,
 	"primary-tag": {
 		"tag": "action",
 		"value": 1,
@@ -25,6 +25,7 @@
 			"value-max": 4,
 		},
 	],
+	"energy-cost": 0,
 	"effect": "Deal 4 damage. This ability cannot be used while you are engaged.",
 	"effect-trigger": null,
 	"check-effects": [

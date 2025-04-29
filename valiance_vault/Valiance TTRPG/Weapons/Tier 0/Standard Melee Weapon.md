@@ -1,9 +1,9 @@
 ---
 {
 	"name": "standard-melee-weapon",
-	"tags": [ "equipment", "weapons" ],
+	"tags": [ "equipment", "weapon", "ability" ],
 	"tier": 0,
-	"base-weapon": null,
+	"base-item": null,
 	"primary-tag": {
 		"tag": "action",
 		"value": 1,
@@ -25,6 +25,7 @@
 			"value-max": null,
 		},
 	],
+	"energy-cost": 0,
 	"effect": "Deal 4 damage.",
 	"effect-trigger": null,
 	"check-effects": [

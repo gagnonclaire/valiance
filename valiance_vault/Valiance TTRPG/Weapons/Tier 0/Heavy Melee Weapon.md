@@ -1,9 +1,9 @@
 ---
 {
 	"name": "heavy-melee-weapon",
-	"tags": [ "equipment", "weapons" ],
+	"tags": [ "equipment", "weapon", "ability" ],
 	"tier": 0,
-	"base-weapon": null,
+	"base-item": null,
 	"primary-tag": {
 		"tag": "action",
 		"value": 2,
@@ -25,6 +25,7 @@
 			"value-max": null,
 		},
 	],
+	"energy-cost": 0,
 	"effect": "Deal 6 damage.",
 	"effect-trigger": null,
 	"check-effects": [

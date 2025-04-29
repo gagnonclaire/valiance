@@ -31,3 +31,5 @@
 - rename grab cause it's not really a grab
 
 - hold?, stagger the target  if you are no longer adjacent to the target clear this ailment
+
+Conditions for enemy character surrendering, like when they are staggered with no way out. Can be accepted by the party to speed up combat and save resources, or denied for fun
