@@ -16,6 +16,8 @@ Every year starts and ends with the Inversion, a strange celestial event that se
 
 The Inversion is a significant event in nearly every culture in the world. Some host celebrations for the duration, some host somber remembrances. Others hold more esoteric rituals. The exact nature of the event is unclear, with philosophers and researchers across the ages attempting to explain it. Even measuring time during the Inversion is difficult, with attempts giving wildly different results from year to year. 
 
+Physical laws of the world are imposed by the cosmos. The strange and arcane are a consequence of the deep. Both are at play in the world between, creating a constant dance between the mundane and inexplicable. Energy shaping is considered the most stable of these phenomena, and has been extensively studied and applied in modern technology. Anything more arcane is the domain of eccentrics and occultists.
+
 # OLD STUFF
 ### Cruel Circumstances
 

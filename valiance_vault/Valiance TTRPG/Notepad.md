@@ -33,3 +33,11 @@
 - hold?, stagger the target  if you are no longer adjacent to the target clear this ailment
 
 Conditions for enemy character surrendering, like when they are staggered with no way out. Can be accepted by the party to speed up combat and save resources, or denied for fun
+
+Mark mechanic
+	character target abilities can only target a markedf character as long as the user can see a marked character
+	
+character vs tile target
+	like it sounds, abilities defined 'target character' or 'target tile'
+		damage dealt to tiles is dealt to characters on that tile
+			allow multihit for big characters?
