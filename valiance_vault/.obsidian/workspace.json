@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Timeline.md",
+                "file": "Lore/Notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timeline"
+              "title": "Notepad"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valiance TTRPG/Equipment Compendium.md",
+                "file": "Valiance TTRPG/Notepad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equipment Compendium"
+              "title": "Notepad"
             }
           }
         ]
@@ -187,23 +187,23 @@
   },
   "active": "99cf48627d443c79",
   "lastOpenFiles": [
-    "Valiance TTRPG/Your Valiant.md",
+    "Lore/The World.md",
+    "Lore/Notepad.md",
+    "Lore/Timeline.md",
+    "Valiance TTRPG/Notepad.md",
     "Valiance TTRPG/Equipment Compendium.md",
+    "Valiance TTRPG/Your Valiant.md",
     "Untitled.canvas",
     "Valiance TTRPG/Lineage Compendium.md",
-    "Lore/Timeline.md",
     "Lore/The Arcane.md",
     "Lore/Energy Shaping.md",
-    "Lore/The World.md",
     "Assets/Shalica.png",
     "Assets/Pasted image 20241024223156.png",
     "Assets/Pasted image 20241024223137.png",
     "Assets/Pasted image 20241024222849.png",
-    "Valiance TTRPG/Notepad.md",
     "Valiance TTRPG/Combat Gameplay.md",
     "Valiance TTRPG/Weapons/Tier 2/Trusty Buckler.md",
     "Valiance TTRPG/Weapons/Tier 1/Gunslinger Revolver.md",
-    "Lore/Notepad.md",
     "Valiance TTRPG/Weapons/Weapon Compendium.md",
     "Valiance TTRPG/Weapons/Rearm.md",
     "Valiance TTRPG/Archetype Compendium.md",

@@ -41,3 +41,11 @@ character vs tile target
 	like it sounds, abilities defined 'target character' or 'target tile'
 		damage dealt to tiles is dealt to characters on that tile
 			allow multihit for big characters?
+
+Strategies are used per round kinda like stances
+	Should they just be stances? Could balance them cause you couldn't use both
+	Strategies wouldn't be able to just be bonus shit, have to actually think about them and if a stance might be better
+
+Make stances more general, changes gameplay round by round
+	Enemy characters shouldn't be able to use stances or transforms (rename transformation)?
+	Yeah that makes the gm job much easier, missing enemy stuff feels bad

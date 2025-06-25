@@ -90,3 +90,15 @@ And will continue long after we've left.
 
 
 Before the second child, all primordials were titanic and entirely unlike the primordials seen in the modern day. Only Tekka's spawn resembled the current primordials, and they were the exception. The third child's crusade had shattered all the primordials that refused to work with the council, leaving tiny fragments of hearts strewn across the world. These hearts would grow into smaller, more plentiful primordials.
+
+
+see now, the stark indifference of the stars
+
+
+Change peacekeepers to Imperial Department of Security (IDS)
+	colloquial slang "Ids" for equivalent of feds, otherwise police/cops for local, even though locals are still under the IDS
+	Handles all internal security matters including overseeing local security (policing) departments. 
+	The Containment Unit (IDS-CU) specializes in handling anomalies, including aberrant (power not native to the world) and dreg (corruptions caused by the chaos emanating from the core) incursions. Very secretive and operates out of blacksites throughout imperial waters, and plenty of non-disclosed sites beyond. 
+	IDS handles criminal matters. A case is fairly simple, with IDS investigators and prosecutors presenting a case and public representatives (from a separate non-IDS dept.) acting as a counterbalance ensuring fair trials. Final decisions made by a judge from the (name pending, same department as arbiters) department
+
+(name pending) department handles civil cases, providing arbiters and arbitration rooms for civil hearings. Arbiters hear the case and decide on the outcome based on civil law and precedent. Usually this leads to financial compensation for damages, custody of dependents, or correction of material ownership. At worst, a case can be escalated to a criminal case and handed off to the IDS.

@@ -1,8 +1,8 @@
 Cosmos (order) above, depths (chaos) below, surface is mostly saltwater dotted with floating primordial islands. 
 
-Center of the world is the anchor, extending one mile above and below sea level. 1m miles above sea level, at the center, is the sun/moon (academically referred to as the cosmic core), with nothing but empty space above The cosmic core acts like a spotlight on a roughly 24-hour cycle of heating and cooling It does not move.
+Center of the world is the anchor, extending one mile above and below sea level. 1m miles above sea level, at the center, is the sun/moon (academically referred to as the cosmic engine), with nothing but empty space above The engine acts like a spotlight on a roughly 24-hour cycle of heating and cooling It does not move.
 
-1m miles below is the deep core. At roughly 100 miles of depth the saltwater ocean becomes solid ice, expanding downwards infinitely. The depth of the liquid ocean decreases further away from the center of the world due to a general decrease in temperature, eventually becoming a solid plane of ice endlessly extending in all directions.
+1m miles below is the core. At roughly 100 miles of depth the saltwater ocean becomes solid ice, expanding downwards infinitely. The depth of the liquid ocean decreases further away from the center of the world due to a general decrease in temperature, eventually becoming a solid plane of ice endlessly extending in all directions.
 
 Energy is introduced to the world via several mechanisms, with the most prominent being the sun and moon (the same object in different phases), the bubbling of energy up from the depths, and via the hearts of primordial beings. Energy fades as it diffuses as away from the center of the world. At the edges of the world (not literal edges but a term for where the light of the sun does not reach) energy disappears at such a rate that most beings native to the world become frail and withered.
 
