@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "global",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,10 +187,10 @@
   },
   "active": "99cf48627d443c79",
   "lastOpenFiles": [
-    "Lore/The World.md",
-    "Lore/Notepad.md",
-    "Lore/Timeline.md",
     "Valiance TTRPG/Notepad.md",
+    "Lore/Notepad.md",
+    "Lore/The World.md",
+    "Lore/Timeline.md",
     "Valiance TTRPG/Equipment Compendium.md",
     "Valiance TTRPG/Your Valiant.md",
     "Untitled.canvas",
