@@ -23,12 +23,12 @@ Cossim are strange, aloof people that appear rarely and unexpectedly on the barr
 
 ### Cossim Traits and Abilities
 
-|   |
-|---|
-|Cosmic Sight (2)<br><br>Stance<br><br>Gain Heartsense.<br><br>For brief moments, you can see the world for what it truly is.|
-|Cosmic Flash (1)<br><br>Action 1<br><br>Area 3, Check<br><br>Target characters are Blinded until the end of their next turn.<br><br>**Great (14)**: This ability cannot target its user.<br><br>The champion shone brightly at the head of the charge, a beacon to her allies and a blinding flash to her enemies.|
-|Shift<br><br>Reaction 0<br><br>_Global_: move instantaneously to an adjacent tile. This ability can only be used once per round.<br><br>Cossim never seem to be able to stay in one place for too long.|
-|Nova Counter<br><br>Reaction 0<br><br>Attack 2, Check<br><br>_You suffer a direct hit from an attack ability:_ deal 6 damage to the character that used the triggering ability.<br><br>**Good (10)**: deal an additional 2 damage<br><br>**Great (14)**: deal an additional 4 damage<br><br>**Perfect (18)**: deal an additional 6 damage. All damage dealt by this ability is piercing damage.<br><br>The last wishes of dying stars are always so violent.|
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Cosmic Sight (2)<br><br>Stance<br><br>Gain Heartsense.<br><br>For brief moments, you can see the world for what it truly is.                                                                                                                                                                                                                                                                                                                                 |
+| Cosmic Flash (1)<br><br>Action 1<br><br>Area 3, Check<br><br>Target characters are Blinded until the end of their next turn.<br><br>**Great (14)**: This ability cannot target its user.<br><br>The champion shone brightly at the head of the charge, a beacon to her allies and a blinding flash to her enemies.                                                                                                                                           |
+| Cosmic Shift<br><br>Reaction 0<br><br>_Global_: shift to an adjacent tile. This ability can only be used once per round.<br><br>Cossim never seem to be able to stay in one place for too long.                                                                                                                                                                                                                                                              |
+| Nova Counter<br><br>Reaction 0<br><br>Attack 2, Check<br><br>_You suffer a direct hit from an attack ability:_ deal 6 damage to the character that used the triggering ability.<br><br>**Good (10)**: deal an additional 2 damage<br><br>**Great (14)**: deal an additional 4 damage<br><br>**Perfect (18)**: deal an additional 6 damage. All damage dealt by this ability is piercing damage.<br><br>The last wishes of dying stars are always so violent. |
 
 ### Cossim Utility Effect
 
@@ -107,12 +107,12 @@ Equal parts beautiful and deadly, the Ingra are accomplished artists and warrior
 
 ### Ingra Traits and Abilities
 
-|   |
-|---|
-|Aspect of the Vulture (2)<br><br>Stance<br><br>When targeting an Exposed character with a Check ability, an Exposed stack is not removed after damage is dealt. You can only target enemy characters if they are Exposed.<br><br>In three quick movements the skirmisher was on top of the gunner, her dagger already plunged deeply into his abdomen.|
-|Glassheart<br><br>Stance<br><br>You are Hastened while you maintain this Stance. This status cannot be cleared while you maintain this Stance. You become Exposed 1 when you use this stance.<br><br>Perfect but fragile, beautiful but deadly.|
-|Sway<br><br>Reaction 0<br><br>Blitz, Range 1<br><br>_Your turn begins or ends:_ move instantaneously to an unoccupied tile within range.<br><br>Such grace on the battlefield is a rare sight.|
-|Steady Psyche<br><br>Reaction 0<br><br>_You suffer a direct hit_: clear all of your ailments.<br><br>Even in the face of impossible odds, you must press forward.|
+|                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Aspect of the Vulture (2)<br><br>Stance<br><br>When targeting an Exposed character with a Check ability, an Exposed stack is not removed after damage is dealt. You can only target enemy characters if they are Exposed.<br><br>In three quick movements the skirmisher was on top of the gunner, her dagger already plunged deeply into his abdomen. |
+| Glassheart<br><br>Stance<br><br>You gain an additional action point during your turn. Apply exposed 1 to yourself when you use this ability. Your exposed points cannot be cleared<br><br>Perfect in its fragility.                                                                                                                                    |
+| Sway<br><br>Reaction 0<br><br>Blitz, Range 1<br><br>_Your turn begins or ends:_ move instantaneously to an unoccupied tile within range.<br><br>Such grace on the battlefield is a rare sight.                                                                                                                                                         |
+| Steady Psyche<br><br>Reaction 0<br><br>_You suffer a direct hit_: clear all of your ailments.<br><br>Even in the face of impossible odds, you must press forward.                                                                                                                                                                                      |
 
 ### Ingra Utility Effect
 

@@ -41,6 +41,13 @@ character vs tile target
 	like it sounds, abilities defined 'target character' or 'target tile'
 		damage dealt to tiles is dealt to characters on that tile
 			allow multihit for big characters?
+	target: character
+	target: self
+	target: tile
+	(etc.)
+
+use hit points instead of stamina, energy point instead of energy
+in general things that have current or variable values (hit points, damage points, etc.) are referred to as points
 
 Strategies are used per round kinda like stances
 	Should they just be stances? Could balance them cause you couldn't use both
@@ -70,3 +77,25 @@ Enemy rework:
 Rename instant movement to be less cumbersome
 field notes is a company resource?
 All statuses are stacking, -1 stack at end of turn
+
+rather than boosts use an advantage/fortune system? Like with adv 2 you roll 5d6 instead of 3d6 and take the 3 highest. Would alter the odds in a funny nonlinear way
+
+targets:
+	character - any character within range
+	area - any character occupying the target tiles
+	self - the character that used the ability
+
+no "multiple sources of abilities" stuff, if you have two of the same ability you can still only use it once per turn. Two weapon fighting allows you to stack traits and mix and match other effects instead
+
+Effects conditional on status
+	"do x to an energized character"
+	"do y to an energized 4 or higher character"
+	"do z to an energized 3 or lower character"
+	Can be used to impose soft caps on statuses, punish status stacking (by players or enemies), allow use of statuses as a resource ("")
+
+Trait: The Save ability clears an additional point of the selected status
+
+types of movement:
+	move (standard)
+	shift (instantaneous)
+	forced (self-explanatory)

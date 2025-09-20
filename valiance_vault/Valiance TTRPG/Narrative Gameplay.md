@@ -392,3 +392,16 @@ Some activities have various difficulties that change their check targets. Chara
 |**Study Forms**|No requirements beyond time invested.|The player may reinvest one of their character’s past archetype investments, changing some or all archetype options for that tier.|
 |**Take a Vacation**|The player must spend Tins equal to ?? times their tier to gain their choice of advantage.|The player’s character gains their choice of advantage field effect for the next contract.|
 |**Training Sessions**|No requirements beyond time invested.|The player may reallocate one of their character’s Attribute points.|
+
+
+TODO: adapt these for ability queues as well
+### Activity Queues
+All activities are queued in the order they are declared. While no activity is being raised by a player, the scene continues to play out as pending activities occur sequentially.
+
+The result of any given activity is ultimately determined by the player running the game.
+
+#### Impossible Activities
+Some activities will become impossible between the time they are stated and the point at which they would occur in the scene. These are usually ignored, having no effect on the scene.
+
+#### Adjusting Activities
+Players may adjust their characters' actions as the scene plays out. This is effectively a new activity that can be declared and added to the queue. Depending on the current events in the scene and previously queued activities, the adjustments may be more or less effective.
