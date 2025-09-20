@@ -66,14 +66,11 @@ or maybe something else because thatalso is
 rename cosmos to the heavens, cosmic beings to celestial beings
 
 
-
-
-They stood together on the balcony, where they didn't have to compete with the distant chatter of mingling socialites. One of them exhaled slowly, allowing their visible breath to disperse into the cold autumn air before speaking.
+They stood together on the balcony, where they didn't have to compete with the chatter of mingling socialites. One of them exhaled slowly, allowing their visible breath to disperse into the cold autumn air before speaking.
 
 "This is a dream, isn't it?"
 
-"Of course."
-
+"Of course it is."
 
 
 Do you ever wonder if there is a god,
@@ -82,9 +79,6 @@ and we're simply not part of the bigger picture?
 That somewhere out there the chosen children carry out some divine directive.
 A grand work that was started long before we arrived.
 And will continue long after we've left.
-
-
-
 
 
 Before the second child, all primordials were titanic and entirely unlike the primordials seen in the modern day. Only Tekka's spawn resembled the current primordials, and they were the exception. The third child's crusade had shattered all the primordials that refused to work with the council, leaving tiny fragments of hearts strewn across the world. These hearts would grow into smaller, more plentiful primordials.
@@ -100,7 +94,6 @@ Change peacekeepers to Imperial Department of Security (IDS)
 	IDS handles criminal matters. A case is fairly simple, with IDS investigators and prosecutors presenting a case and public representatives (from a separate non-IDS dept.) acting as a counterbalance ensuring fair trials. Final decisions made by a judge from the (name pending, same department as arbiters) department
 
 (name pending) department handles civil cases, providing arbiters and arbitration rooms for civil hearings. Arbiters hear the case and decide on the outcome based on civil law and precedent. Usually this leads to financial compensation for damages, custody of dependents, or correction of material ownership. At worst, a case can be escalated to a criminal case and handed off to the IDS.
-
 
 
 Primordial hearts release immense radiation under strain. Considered arcane, as nobody really has any idea how they work. 

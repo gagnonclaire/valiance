@@ -1010,7 +1010,7 @@ Unfortunately for the entrepreneurial hunters of the barrier, most primordials f
   
 
 # 3    The Brineflame Empire
-![[Pasted image 20241024222849.png]]
+![[Empire.png]]
 
 Originally an alliance between the Girt of Saphis and the Hjark of Southstar, the Brineflame Empire is the marriage of two masteries. The seafaring Girt’s commercial dominion over the vast oceans, when combined with the industrious Hjark’s mastery over land and forge, created a veritable force that has since expanded across the barrier magnitudes further than any other nation.
 
@@ -1374,7 +1374,7 @@ Carthian Watch units are uniquely capable against the forces of the deep. Due to
 
 ## 4.2  Sunspire
 
-![[Pasted image 20241024223156.png]]
+![[Sunspire.png]]
 The land that was once home of the original Selk now harbors a nation governed by the Sunspire orders. After the catastrophe of Avana, most surviving Selk returned to the safety of their homeland where they established a new order to protect themselves from their past mistakes.
 
 The strict order imposed in Sunspire makes it difficult for the nation to engage in trade and cooperation with other lands. Order agents block any trace of heretical technologies, such as those widely employed by Carthia, from entering Sunspire-controlled lands. Even outside of Sunspire borders, agents hunt those who study forbidden knowledge.
