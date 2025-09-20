@@ -294,17 +294,17 @@ Secondary tags apply to ability effects, standardizing common ability behaviors.
 
 Global abilities are universal abilities that can be used by any character. These include fundamental abilities such as moving. dropping focus on focused abilities or making improvised strikes.
 
-|   |   |
-|---|---|
-|Assist (1)<br><br>Action 1<br><br>Range 1-2<br><br>The target character gains a +1 bonus for their next ability check made during this round.<br><br>Need a hand?|   |
-|Evade (1)<br><br>Action 1<br><br>Range 1<br><br>Move instantaneously to an unoccupied tile within range.<br><br>Thinking quickly is only valuable if you also act quickly.|   |
-|Grab (1)<br><br>Action 1<br><br>Range 1<br><br>The target is Staggered. This ability cannot target characters that are one or more sizes larger than you. Staggered ailments applied by this ability are cleared if the character is no longer adjacent to you.<br><br>The brawler grabbed one of the horror’s strange appendages. She had no idea what this thing was, but it sure wasn’t going to be going anywhere.||
-|Improvised Strike<br><br>Action 1<br><br>Attack 1, Range 1<br><br>Deal 2 damage.<br><br>The champion fell, not to bullet or blade, but to a swift kick from a disarmed soldier.||
-|Interact<br><br>Action 1<br><br>Range 0-1<br><br>Interact with something within range, such as a door or objective tile. This ability can be used for any simple interactions not covered by other abilities. This ability can be used multiple times per turn.<br><br>The plan was simple: through the door coming up on her left, up the stairwell to the roof access, and lose the peacekeepers on the rooftops. She was arrested moments later, heavily concussed. The door was closed.||
-|Leap (1)<br><br>Action 2<br><br>Range 1-2<br><br>Move instantaneously to an unoccupied tile within range. You cannot use this ability while engaged.<br><br>Don’t forget to check the wind.||
-|Save (1)<br><br>Action 2<br><br>Range 1<br><br>Clear one ailment from the target character.<br><br>Get up! You’ll have plenty of time to die after we get paid!|   |
-|Shove (1)<br><br>Action 1<br><br>Range 1<br><br>Move a target instantaneously 1 tile directly away from you into an unoccupied tile. This ability cannot be used while you are Staggered. This ability cannot target characters that are one or more sizes larger than you.<br><br>The realm was not saved by a mythical hero or experimental super-weapon, but a desperate push at a fated moment.|   |
-|Sprint<br><br>Action 1<br><br>Move. This ability can be used multiple times per turn.<br><br>To be still is to be dead.|   |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Assist (1)<br><br>Action 1<br><br>Range 1-2<br><br>The target character gains a +1 bonus for their next ability check made during this round.<br><br>Need a hand?                                                                                                                                                                                                                                                                                                                           |     |
+| Evade (1)<br><br>Action 1<br><br>Range 1<br><br>Move instantaneously to an unoccupied tile within range.<br><br>Thinking quickly is only valuable if you also act quickly.                                                                                                                                                                                                                                                                                                                  |     |
+| Grab (1)<br><br>Action 1<br><br>Range 1<br><br>The target is Staggered. This ability cannot target characters that are one or more sizes larger than you. Staggered ailments applied by this ability are cleared if the character is no longer adjacent to you.<br><br>The brawler grabbed one of the horror’s strange appendages. She had no idea what this thing was, but it sure wasn’t going to be going anywhere.                                                                      |     |
+| Improvised Strike<br><br>Action 1<br><br>Attack 1, Range 1<br><br>Deal 2 damage.<br><br>The champion fell, not to bullet or blade, but to a swift kick from a disarmed soldier.                                                                                                                                                                                                                                                                                                             |     |
+| Interact<br><br>Action 1<br><br>Range 0-1<br><br>Interact with something within range, such as a door or objective tile. This ability can be used for any simple interactions not covered by other abilities. This ability can be used multiple times per turn.<br><br>The plan was simple: through the door coming up on her left, up the stairwell to the roof access, and lose the peacekeepers on the rooftops. She was arrested moments later, heavily concussed. The door was closed. |     |
+| Leap (1)<br><br>Action 2<br><br>Range 1-2<br><br>Move instantaneously to an unoccupied tile within range. You cannot use this ability while engaged.<br><br>Don’t forget to check the wind.                                                                                                                                                                                                                                                                                                 |     |
+| Save (1)<br><br>Action 2<br><br>Range 1<br><br>Clear one ailment from the target character.<br><br>Get up! You’ll have plenty of time to die after we get paid!                                                                                                                                                                                                                                                                                                                             |     |
+| Shove (1)<br><br>Action 1<br><br>Range 1<br><br>Move a target instantaneously 1 tile directly away from you into an unoccupied tile. This ability cannot be used while you are Staggered. This ability cannot target characters that are one or more sizes larger than you.<br><br>The realm was not saved by a mythical hero or experimental super-weapon, but a final, desperate reach                                                                                                    |     |
+| Sprint<br><br>Action 1<br><br>Move. This ability can be used multiple times per turn.<br><br>To be still is to be dead.                                                                                                                                                                                                                                                                                                                                                                     |     |
 
 #### The Valiant Gambit
 
@@ -496,41 +496,7 @@ Player characters that end a contract with less than their maximum Valiance suff
 ## 3.5  Combat Effects
 
 ### Statuses
-
-A Status is a temporary effect that can be applied individual characters during combat. They last until cleared by some effect. A single character can only have a single instance of each status effect.
-
-Certain effects give status immunities. If a character is immune to a status, that status cannot be applied to them. If a character gains immunity to a status, it clears all instances of that status from the character. Complete immunity causes a character to ignore all effects that that it didn’t create with one of its own traits or abilities.
-
-|   |   |
-|---|---|
-|**Tag**|**Description**|
-|**Ailment**|A Status that negatively affects the character that it is placed on.|
-|**Boon**|A Status that positively affects the character that it is placed on|
-|**Stacking**|A status with a variable value associated with it. If a character would suffer a Stacking status while they already have a status of the same type, they instead increase the value of the existing status by the value of the incoming status. Clearing a Stacking status normally clears 1 stack of the status. If a stacking status has 0 stacks, the status is removed from the character.|
-
-#### Boons
-
-|   |
-|---|
-|Empowered<br><br>Boon<br><br>When the character uses a Check ability they roll 6 dice and choose the highest 3.|
-|Energized [x]<br><br>Boon<br><br>When the character uses an ability with an energy cost they ignore then energy cost then remove 1 stack.|
-|Frenzied<br><br>Boon<br><br>The character gains a +2 bonus for all ability checks.|
-|Hastened<br><br>Boon<br><br>Gain an additional Action Point when you start your turn.|
-|Invisible<br><br>Boon<br><br>The character cannot be directly targeted without Heartsense. Their location is still known, and they can be affected by Area abilities.|
-|Protected [x]<br><br>Boon, Stacking<br><br>When you take damage, ignore the damage dealt and remove 1 stack.|
-
-  
-
-#### Ailments
-
-|                                                                                                                                                                                           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Blinded<br><br>Ailment<br><br>The character cannot target anything other than themselves or tiles they occupy unless they are using Heartsense.                                           |
-| Decaying [x]<br><br>Ailment, Stacking<br><br>The character suffers 2x Withering at the beginning of each of their turns, then 1 stack is removed.                                         |
-| Distracted<br><br>Ailment<br><br>The character cannot use Reaction abilities.                                                                                                             |
-| Exposed [x]<br><br>Ailment, Stacking<br><br>When targeted by a Check ability, treat the outcome as one level higher when applying the effects to the character. Then, 1 stack is removed. |
-| Staggered<br><br>Ailment<br><br>The character cannot move or move instantaneously. This ailment does not prevent forced movement.                                                         |
-| Taunted<br><br>Ailment<br><br>You do not benefit from ability check bonuses.                                                                                                              |
+[[Statuses]]
 
 ### Effect Resolution
 
