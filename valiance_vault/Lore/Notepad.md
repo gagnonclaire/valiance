@@ -116,3 +116,46 @@ Shaping: technically arcane but works so consistently and is widely accessible e
 Considered by some to be the fundamentals of the arcane, but as with all things arcane that theory is almost entirely vibes-based
 Can be trained like any other skill. Most don't bother in the same way people don't bother learning how to fix their own motor vehicles or home appliances. 
 
+
+Use lineage (and change to "ancestries") like nationalities, but like ancestral nationalities
+Nation of Selk, Selkin
+	- Capital Sunspire, "Selk" means the sun in Selkin
+	- One of the few nationalities that has survived throughout history, even if the society around it has changed 
+Old Nation of Saphir, Saphiran
+	- Capital Saphis, "Saph" refers to sapphire (the color not strictly the gemstone) in Saphiran
+	- One half o the "imperial" lineages, Saph still operates as a major imperial city and a cultural and mercantile hub
+Historical Nation of Marro, Marr
+	- Was replaced in its entirety by the nation of Carthia, one of the first major multicultural settlements
+	- Carthia comes from "Carth", and old Marr word for crossroads
+	- Marr people diffused into the various nations of the central sea, though some in Carthia still trace their ancestry back to the original Marr
+The Ing, Ingra
+	- Term nation used very loosely here, with "Ing", the word Ingra referred to themselves as, translating to family
+	- While lineages have blended over the millennia, the Ingra culture has proved resilient and Ingra settlements survive to the modern day
+Derga Kingdoms, Derge (g pronounced like a j)
+	- A collection of warring kingdoms situated in the mountains north of Carthia
+	- They fought not for land or resources but for supremacy, with the strongest kingdom acting as the rules of the Derga kingdoms
+	- "Derga" roughly translates to "winner" or "champion", and is the title given to the ruling kingdom (internally the Derge refer to each kingdom as a separate people, with Derga/Derge being the all-encompassing term)
+Hjark, Hjarren (hj pronounced like a y)
+	- Capital Hjarkveld, literally translating to "greatest mountain" in Hjarren (and "Hjarren" translating to "mountain people")
+	- Hardy and industrious, utilized natural resources in Shalica's Spine mountain range to become the first properly industrialized nation
+	- Hjarkveld fell during the Shalica conflict, surviving city of Southstar (named using the imperial tongue which was in wide use at this point) established as the new imperial hub on Shalica (until Alburn)
+	- One Half of the "imperial" lineages, used it's position on Shalica to expand the North Sea Alliance (which would later become the North Sea Empire and colloquially "the empire")
+Vyld Collective, Vyldan (y pronounced like ee)
+	- No true capital, the original Vyld Collective ("Vyld" meaning "forest", literally the "forest people") was a community spread across the northern woodlands of Shalica (back before the conflict when Shalica had northern woodlands)
+	- Longstanding but sort of uneasy peace between the Vyld and the Hjark (and eventually the North Sea Alliance/Empire)
+	- Plenty of Vyld left to settle in and around other nations but very few came to hang out with them (racism) (they were chill though and very welcoming)
+	- Genetically unstable with a host of animalistic mutations (source of a lot of the racism) and naturally intersex (source of even more racism)
+	- Arguably hit the hardest by the Shalican conflict even though they just tried to stay out of it, reduced their home to a small portion of ravaged woodland but they make do
+Cossim (just Cossim)
+	- Weird star people (no biological sex, no reproducing, biologically immortal) and not even a nation or an ancestry just a strange thing that happens
+	- Born very rarely (roughly 1 in 1 million) and completely arbitrarily
+	- Most of their ancestry is overwritten by whatever cosmic curse this is
+
+Corpse Oil
+	Oil harvested from the bodies of long dead leviathans. These leviathans were titanic primordials killed during the second child's crusade. The were bored into and their heart shattered, leaving their protobiological corpse to slowly congeal into an energy dense oil.
+	The corpses can be rarely found in the far seas, drifting in the dark waters. Some have become small wandering islands, hosting their own unique biospheres.
+	The oil drilled from continental bodies similar but far less fermented as it's drilled from the bodies of living Ithian primordials. It was only in recent history that this connection was made and that the continents were discovered to themselves be primordial beings.
+
+Nyla and Igro
+	The abyssal primordial Nyla is one of the few beings able to withstand the deepest depths of the seas. She feeds on dregs near the ice floor and is able to safely metabolize the corrupted matter. She is connected to the council via Igro, her only companion and one of the other beings able to survive that far below the surface. 
+	Igro is a unique primordial in that they have no static body. They are able to shed and rebuild forms around their heart at will, allowing them to adapt to the most extreme locales. Igro, realizing Nyla's important role in maintaining balance, brought her into the fold of the council the protect her from the wrath of the second child.
