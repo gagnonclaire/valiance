@@ -102,8 +102,12 @@ Primordial hearts release immense radiation under strain. Considered arcane, as 
 
 Dr. Elizabeth Vega, dual doctorates in both biochemistry and aberrant physiology.
 	Sharp of appearance and demeanor. Works for the IDS-CU. Her Intensity is balanced with a very human curiosity and a quiet disdain of utilitarian pragmaticism. Calculated, but not cold. Grew up with the pressure of an academic family. She doesn't go home for holidays. Went to a public college along with Lisette to piss her parents off (it worked) and eventually attended some very prestigious institutions (well after breaking contact with her family).
-Lisette, political refugee and unlicensed arc-technician.
-	Home in the near seas conquered, moved (was forcibly relocated) to Alburn as a we lass. Just enough vyld blood to be bullied in school. Grew up in a decent part of town with people she had absolutely nothing in common with, but made friends with fellow weirdo Elizabeth Vega (who envied her lack of a surname for certain reasons). Went to public school to become a machine technician, picked up the arcane bit afterwards. 
+Ceta (See-tuh, orr C for short) (NOT say-tuh), political refugee and unlicensed arc-technician turned valiant.
+	Home in the near seas conquered, moved (was forcibly relocated) to Alburn as a we lass. Just enough vyld blood to be bullied in school. Grew up in a decent part of town with people she had absolutely nothing in common with, but made friends with fellow weirdo Elizabeth Vega (who envied her lack of a surname for certain reasons). Went to public school to become a machine technician, picked up the arcane bit afterwards. An accident at work left the right side of her body heavily scarred. She received no compensation (long story) and turned to less savory work as a way to temporarily make ends meet (ended up not being temporary).
+	"I showed up here and was herded through their little lines like livestock. The asshole running the medical exams called me a little boy and I was like the fuck you mean boy? My parents (who I was currently separated from for the exam - no red flags there) told me not to think about it, but that piece of shit was basically my welcoming wagon. It didn't end there, all of these assholes at these state hospitals kept going on about my 'biology' like seriously? My biology is a bitch with horns, fuck off."
+
+Ceta's long story
+	Ceta worked at a leading arc-manufacturing company that she's not allowed to name or claim any association with. While performing a, off-shit machine refit a foreman showed up with a suit and some crazy ideas about an impromptu run on the line she was tending to. She told them to fuck off, the machine was locked out and the maintenance wouldn't be done in time for their little experiment. They bypassed her lockout and started the machine while she was elbow deep in it. A misaligned (or rather, in the process of being aligned) aperture erupted into shards of molten metal that left her permanently disfigured. The company blamed her for the mistake and loss of some their extremely expensive equipment. Eventually they settled and dropped their charges, but evaded any form of compensation and probiting any future interactions of any kind with the company.
 
 Aberrant: not native to this world 
 
@@ -159,3 +163,7 @@ Corpse Oil
 Nyla and Igro
 	The abyssal primordial Nyla is one of the few beings able to withstand the deepest depths of the seas. She feeds on dregs near the ice floor and is able to safely metabolize the corrupted matter. She is connected to the council via Igro, her only companion and one of the other beings able to survive that far below the surface. 
 	Igro is a unique primordial in that they have no static body. They are able to shed and rebuild forms around their heart at will, allowing them to adapt to the most extreme locales. Igro, realizing Nyla's important role in maintaining balance, brought her into the fold of the council the protect her from the wrath of the second child.
+
+In this world power is seized, protected, cultivated, delegated, and diluted in an endless river of violence driven by extreme scarcity. It's a world where the line between tough decisions and intentional cruelty is blurred to nonexistence. It's vast, beautiful, and it's home. 
+
+There are no condolences that can reach the dead

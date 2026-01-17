@@ -1,5 +1,3 @@
-#### Daughter
-
 The forest vale was foggy this autumn morning. There was a stream running through a clearing here, its soft trickling muffled by the cold blanket covering the valley.
 
 Twigs snapped and leaves crunched underfoot as a young girl skipped into the clearing. In muddy shoes and a hand-me-down coat, she surveyed the clearing, peering intently through the fog. Her cracked lips broke into a smile when she spotted an old twisting trunk on the opposite tree line. Just large enough to bear her weight, its gnarled branches formed an arboreal playground just above the forest floor.
@@ -10,64 +8,103 @@ The girl's stomach began to churn as she watched the thin crimson drip make its 
 
 -
 
-Under a warm morning sun, a young girl awoke at the edge of a clearing. With a bruised should and a fresh tear in her coat, she scrambled to her feet. Clutching a bloodied finger, she found her bearing and rushed out of the clearing. Her absence was most definitely noticed by now, and the consequences of that eclipsed her superficial injuries. As her rushed steps faded into the forest, the creek continued to bubble, happily unaware.
+Under a warm morning sun, a young girl awoke at the edge of a clearing. With a bruised shoulder and a new tear in her coat, she scrambled to her feet. Clutching a bloodied finger, she found her bearings and rushed out of the clearing. Her absence was most definitely noticed by now, and the consequences of that eclipsed her superficial injuries. As her rushed steps faded into the forest, the creek continued to bubble, happily unaware.
 
 -
 
-She sat bloody and alone in the dark, fixated on the dull glow of the captured singularity she now held. Outside of time and space, she wondered at how everything in her life led up to this. Every drop of blood she had shed, a crimson ocean to hold what? This small thing, hardly able to fill her palm? If the worth of her life had truly culminated with this, how could she feel anything other than disappointment? But in this infinite space between life and death, she made peace with that.
+She sat bloody and alone in the dark, fixated on the dull glow of the captured singularity she now held. Outside of time and space, she wondered at how everything in her life led up to this. Every drop of blood she had shed, a crimson ocean to hold what? This small thing, hardly able to fill her palm? If the her life had truly culminated with this, how could she feel anything other than disappointment? But in this infinite space between life and death, she made peace with that.
 
 -
 
-Four sequential charges erupted at each corner of the gate, the resulting implosions annihilating the heavy locks holding the outer shielding in place. A combination of impact drills and fusion torches worked their way into the sanctum beyond the gate. There, the team of three operatives found what they were looking for. A hulking machine rendered inert, its two experimental power cores neatly packaged on the floor. And their primary target, held in its inner casing by a bloody mess of a woman.
+Four sequential charges erupted at each corner of the gate, the resulting implosions annihilating the heavy locks holding the outer shielding in place. A combination of impact drills and fusion torches worked their way into the sanctum beyond the gate. There, A team of three found what they were looking for. 
 
-Nobody spoke, leaving only the blaring of alarms. The team began collecting what they had come here for.
+A hulking machine rendered inert, its two experimental power cores neatly packaged on the floor. And their primary target, held in its inner casing by a bloody mess of a woman.
+
+The team moved into the sanctum, taking inventory beneath the blaring of ancient sirens. 
 
 "Power core one and two, in good condition."
 
 "Singularity installed in the transportation cell, ready to go."
 
-One of the operatives paused as the team prepared to exfiltrate as one member took one last look at the kneeling woman, her hands now empty.
+One paused as the team prepared to exfiltrate, taking one last look at the woman. She knelt with empty hands, breathing short and shallow. 
 
 "What about her?"
 
-The three exchanged quick glances before an answer came.
+The three exchanged quick glances.
 
-"She's not on the list."
-
-#### Empress
-
-The daughter lies cradled in silky, crimson folds. Light from a high window illuminates webs of veins under her translucent skin. She sleeps soundly, sheltered from the cutting winds howling outside.
-
-The empress is away, her child left alone and unaware in her absence. The empress has been away for a very long time.
+"Not on the list."
 
 -
 
-The comfortable repetition of a constant rumble of heavy tires was broken by a crackling voice.
+The flashing lights of the city below briefly illuminated the details of a dimly lit office. A faded family photo on the desk, facing away from the man sitting at it. A gaudy certificate embellished with gold leaf hanging over his head. Bookshelves full of dusty, unlabeled books flanking him on either side. With a sigh and a hollow tone, he cut between her glances.
 
-"Five minutes out, get your shit together."
+"I take it the decor is to your liking?"
 
-In the back of the armored truck, four operatives gathered their equipment. The first operative, a woman with a gravely voice, spoke over the sounds of shuffling cartridges and tightening straps.
+The remark warranted no response. He looked past her towards the open door. She shifted slightly, centering herself back in his view.
 
-"Anyone else feel like something's off here? Like there's something strange about this one?"
+"Ok... If you can take a seat and we can-"
+"I'll stand."
 
-"No shit Syb, every job we do is so far beyond strange. That's like our whole thing. What's strange is you just now coming to that realization, what's strange is -"
+She crossed her arms and fixed her gaze. The skyline reflected off of the razor hanging at her hip, now exposed. Standard pattern, but clearly made from something other than simple surplus steel.
 
-"No need for that, let her explain."
+"Ok, that's uh, fine."
 
-The quiet interruption from the third operative's soft voice stilled the mounting tension, and the group leaned in unison as the truck took a sharp turn to the left. The soft rumbling of pavement gave way to rough country roads.
+He straightened his sleeves and gathered a small stack of papers. 
 
-"One minute."
+"It should all be here, I can make a copy after-"
+"I'll just take those."
 
-The tires ground against the gravel, the new soundscape resurrecting the sense of unease.
+A pause. He made a scene of searching his desk for something he could not find. When he surfaced, he was met with an expectant, outstretched hand. Old scars dug deep into the palm, and he followed them up a ravaged wrist until a snap pulled him back.
 
-"Ok so what about you Jay, any thoughts on this? You think this one's a bit strange, maybe even weird? Maybe, maybe even a little -"
+"Documents."
 
-The truck came to an abrupt stop, and the fourth operative spoke plainly.
+The man gathered himself and his papers, sleaves wrinkling around his arms. Standing from his desk, handed over the packet.
 
-"I think we're here."
+"If you need me, call-"
+"I won't"
+
+A sigh of relief was held back as to not betray any fear as the woman flipped through the folder idly. Her eyes stared through the pages until she raised them to meet a nervous gaze.
+
+"If you need me,"
+
+She paused, a slight smile revealing a flash of teeth.
+
+"Call me."
+
+With a careless twirl she exited, accompanied by one last metallic shimmer. As his guest disappeared into the dark halls beyond the open door, the man slumped back into his seat. A shaky hand grabbed at a note on the corner of his desk. Scanning through it again and again, he found himself with the same smile. There would undoubtedly be blood, and more than he had paid for.
 
 -
 
-Four figures crept like shadows through the humid summer night along an unkempt trail. At the end of the overgrown path sat a small house, old but cared for, much unlike the road that led to it. 
+The phone rang through an apartment, piercing the television static that had filled it. At the corner of the room, something shifted. The shuffling of fabric was followed by a muffled groan and another piercing ring. Heavy blankets hit the floor and wet footsteps approached the phone as it rang again. The flickering light of the television revealed a woman stained red, bleeding from a fresh wound at her side. A scarred hand staunched the flow while the other reached for the phone as it rang again.
 
-Among the trees, the sounds and lights of the city no more than a few miles north were all but nonexistent.
+"hello..?"
+"Ceta? Is that you?"
+"yeah..? this is my phone..."
+
+She strained under some unseen weight before continuing.
+
+"liz, now's not a great-"
+"Are you ok?! You sound like you're dying."
+"yeah"
+
+The sound of static once again filled the room.
+
+"liz i fucked up"
+"I'm coming over."
+
+-
+
+"liz, i fucked up"
+"I know, you told me. Now shut up and hold this on this your neck."
+
+She shoved a handful of gauze towards Ceta's chest. 
+
+"what's this"
+
+With equal parts frustration and exhaustion, Elizabeth spoke slowly between sutures.
+
+"For your neck. And stop talking, just focus on breathing."
+
+Finished with her hasty needlework, she looked up and adjusted Ceta's handful of gauze a few inches to her right to cover a nasty laceration.
+
+-
