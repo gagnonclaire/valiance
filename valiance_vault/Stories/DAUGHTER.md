@@ -94,17 +94,128 @@ The sound of static once again filled the room.
 
 -
 
-"liz, i fucked up"
-"I know, you told me. Now shut up and hold this on this your neck."
+The towering custodian advanced towards her. Slowly, intentionally.  The dormant machinery of the old manufactory whirred to life as it passed, and metallic debris rose from the ground around it. Ceta shifted in anticipation, readying her razor. A single blade, less than the length of her arm, raised in opposition towards a living machine built for hard, eternal labor. 
 
-She shoved a handful of gauze towards Ceta's chest. 
+It began with a single preemptive strike, finding no purchase in the clockwork flesh. The exchange of blows that followed was brief, but intense. Every clanging strike slowed the custodian, while Ceta quickened with every drop of her blood shed. 
 
-"what's this"
-
-With equal parts frustration and exhaustion, Elizabeth spoke slowly between sutures.
-
-"For your neck. And stop talking, just focus on breathing."
-
-Finished with her hasty needlework, she looked up and adjusted Ceta's handful of gauze a few inches to her right to cover a nasty laceration.
+The mechanical mind manifested something resembling desperation. The scrap that had accumulated around the combatants began to glow hot as it swirled, gathering about the custodian in an eviscerating shield. The shrapnel storm was answered with a lancing blow through its chest. Ichor like pitch seeped from its wounds as it fell to it's knees. With one final effort, Ceta ripped the razor from its dying body, stumbling backwards. She had been reduced to a walking collection of lacerations, but she was left standing while the custodian folded under its own dead weight.
 
 -
+
+"liz, i fucked up"
+"I know, you told me. Now shut up and hold this here."
+
+Elizabeth shoved a handful of gauze towards Ceta's bleeding neck. Exhausted, she spoke slowly between sutures.
+
+"Just keep still and focus on breathing."
+
+For some time, The two sat in silence on the cold tiles while Elizabeth neatly repacked her aid kit. Both the quiet and her focus were broken by a clumsy nudge on the shoulder. She sighed at the bloody print, too tired to object.
+
+"hey, thanks for patching me up doctor vega"
+"You know I hate that. And the specimens I work on are usually dead."
+"if i die would you work on me?"
+"What? That's not even funny. And ew, no."
+"it kind of - wait, usually?"
+"I don't wanna talk about it."
+"and ew? why ew? am i ew?"
+
+Elizabeth broke into a tired smile, the stagnant tension melting away. She returned the nudge, leaving a similar print. Color had already returned to Ceta, who was no stranger to death's doorstep.
+
+"You're not ew, I just would prefer if you stayed not dead. And I know -"
+"shshsh - i've literally never died before. it'll be ok."
+
+-
+
+bones were liquefied, flesh shredded to bloody scraps. all that was left, a smattering of electrical signal trudging through a dying body. it would be enough. it would have to be.
+
+-
+
+"hold on to this"
+
+She held a small device out towards her companion. A simple detonator.
+
+"What? Why would -"
+
+With her other arm throwing the second bag over her already burdened shoulder, she cut in,
+
+"keep it close, just in case"
+
+Too stunned to protest, Yvette tucked the strange offering into her armored vest.
+
+-
+
+The sputtering of a dying flare did a poor job of masking the struggle deeper in. In it's last flashes, a woman pulled a massive blade from the split skull of a shock trooper. A kill team of this size, this far into the subcity, was unheard of. Two shots rang out from below as the flare let loose its last flickers of light.
+
+Further and further inward, following the clamor. She stepped carefully over corpses, driven by primal adrenaline brought to heel by decades of experience. A fork in the road, with two more dead shock troopers standing sentinel. One of Ceta's bags, abandoned and split open to reveal several small, wrapped packages. Another deafening shot, a caliber far beyond what such close quarters would demand. Ears still ringing, she followed the shot left.
+
+More bodies, dozens now, of the best the IDs had to offer. And another of Ceta's bags and some strange shards that seemed to shimmer in defiance of the darkness. She trudged through the rivers of blood towards their source. Were it not for the clash of metal on metal, she would have assumed it flowed from her friend. Most of it probably still did, she thought, as she stepped over massive, sundered rifle and crossed the final threshold.
+
+-
+
+"give it"
+
+Ceta stood over the kill team captain's headless body, her right arm stretched backwards.
+
+"mine's busted"
+
+Broken from her stupor, Yvette reached a shaking hand into her vest. It was clear that much of the blood, now pooling at their feet, was from Ceta's endless well.
+
+"Are you ok?"
+
+No response came as Ceta snatched the detonator and, with a dramatic pause, closed the trigger.
+
+-
+
+"you smell nice"
+
+Yvette paused, stunned. She sat up straight, laugh cut short by a sharp pain.
+
+"I smell like blood and sweat"
+
+"yeah, the blood"
+
+"Excuse me?"
+
+"it smells floral, kind of like clover"
+
+"Clover?"
+
+"yeah, clover, it flowers -"
+
+"No - I know, but -"
+
+"underneath the metallic, everyone's got their own scent"
+
+Yvette swallowed, composing herself. Ceta cowered, her monstrous form reduced. 
+
+"mine just smells musty, kinda like mold, it's been worse since -"
+
+The words stopped dead in her throat and her gaze fell to the side. The low sound of water over stone filled the room, punctuated by deep groans of the megastructure above. Yvette leaned in with an exaggerated sigh, coaxing a smile from Ceta. After a brief hesitation, shoulders relaxed and lips met.
+
+-
+
+The two paused to catch their breath.
+
+"I can smell it now - your blood"
+
+Ceta pulled away.
+
+"It reminds me of the smell after it rains"
+
+"petrichor"
+
+"What?"
+
+"that's what it's called"
+
+Ceta smiled and shifted, taking pressure off of her wounds.
+
+"i -"
+
+The room fell silent, breathless.
+
+"i'm really happy you're here"
+
+Yvette laughed,
+
+"I love you too"
