@@ -215,7 +215,3 @@ Ceta smiled and shifted, taking pressure off of her wounds.
 The room fell silent, breathless.
 
 "i'm really happy you're here"
-
-Yvette laughed,
-
-"I love you too"

@@ -167,3 +167,10 @@ Nyla and Igro
 In this world power is seized, protected, cultivated, delegated, and diluted in an endless river of violence driven by extreme scarcity. It's a world where the line between tough decisions and intentional cruelty is blurred to nonexistence. It's vast, beautiful, and it's home. 
 
 There are no condolences that can reach the dead
+
+
+I struck at the heart
+it shook the world to its core
+
+a petrified monolith in a sanguine sea
+it bled
