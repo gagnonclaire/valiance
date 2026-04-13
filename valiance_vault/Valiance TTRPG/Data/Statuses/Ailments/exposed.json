@@ -1,0 +1,5 @@
+{
+  "name": "exposed",
+  "tags": ["status", "ailment"],
+  "effect": "When the character is targeted by a check ability, the result is increased by one level, then one point of exposed is cleared."
+}

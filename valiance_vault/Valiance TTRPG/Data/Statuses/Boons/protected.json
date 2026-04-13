@@ -1,0 +1,5 @@
+{
+  "name": "protected",
+  "tags": ["status", "boon"],
+  "effect": "When the character takes damage, they ignore all damage and instead clear one point of protected."
+}

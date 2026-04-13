@@ -1,0 +1,20 @@
+{
+  "name": "save",
+  "tags": ["global", "ability"],
+  "tier": 0,
+  "target": "character",
+  "energy-cost": 1,
+  "properties": [
+    {
+      "name": "action",
+      "value": 1
+    },
+    {
+      "name": "range",
+      "value": 1,
+      "secondary_value": 1
+    }
+  ],
+  "effect": "Clear one point of any ailment affecting the target character.",
+  "flavor-text": "Valiants rarely work alone, and for good reason."
+}

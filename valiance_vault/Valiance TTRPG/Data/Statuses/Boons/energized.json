@@ -1,0 +1,5 @@
+{
+  "name": "energized",
+  "tags": ["status", "boon"],
+  "effect": "When the character uses an ability, they may clear points of energized to reduce the EP cost by the number of points cleared."
+}

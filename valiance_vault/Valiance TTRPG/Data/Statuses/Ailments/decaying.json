@@ -1,0 +1,5 @@
+{
+  "name": "decaying",
+  "tags": ["status", "ailment"],
+  "effect": "At the end of the character's turn their armor is reduced by two for each point of decaying."
+}

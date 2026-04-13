@@ -1,0 +1,5 @@
+{
+  "name": "empowered",
+  "tags": ["status", "boon"],
+  "effect": "When the character deals damage with an attack ability, they may clear all points of empowered to increase the damage dealt by one for each point cleared."
+}

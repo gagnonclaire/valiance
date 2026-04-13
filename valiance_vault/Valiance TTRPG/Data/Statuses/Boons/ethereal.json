@@ -1,0 +1,5 @@
+{
+  "name": "evasive",
+  "tags": ["status", "boon"],
+  "effect": "When the character is targeted by an ability used by another character, the become immune to all of the ability's effects, then one point of exposed is cleared."
+}
