@@ -1,0 +1,17 @@
+{
+  "name": "earthshaker",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 3,
+  "base-item": "heavy-melee-weapon",
+  "target": "character",
+  "energy-cost": 2,
+  "properties": ["action 2", "area 2", "attack 1", "check", "range 1"],
+  "effect": "Deal 2 piercing damage. Target characters are moved instantaneously to an adjacent, unoccupied tile of your choice.",
+  "check-effects": [
+    {
+      "result": "great",
+      "effect": "Damage dealt by this ability is piercing damage."
+    }
+  ],
+  "flavor-text": "Strike the earth!"
+}

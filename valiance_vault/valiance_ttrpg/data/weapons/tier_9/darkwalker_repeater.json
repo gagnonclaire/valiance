@@ -1,0 +1,11 @@
+{
+  "name": "darkwalker-repeater",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 9,
+  "base-item": "standard-ranged-weapon",
+  "target": "self",
+  "energy-cost": 2,
+  "properties": ["action 0", "range 1-6"],
+  "effect": "Move instantaneously to a target tile. This ability can only target Obscured tiles. This ability may be used up to three times per turn.",
+  "flavor-text": "Those that shun the light of the stars deny themselves comfort in return for unnatural abilities."
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gunblade",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 6,
+  "base-item": "standard-melee-weapon",
+  "target": "character",
+  "energy-cost": 3,
+  "properties": ["action 1", "attack 1", "check", "range 1-2"],
+  "effect": "Deal 4 damage.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Deal an additional 1 damage."
+    },
+    {
+      "result": "great",
+      "effect": "Deal an additional 2 damage."
+    },
+    {
+      "result": "perfect",
+      "effect": "Deal an additional 3 damage. All damage dealt by this ability is piercing damage."
+    }
+  ],
+  "flavor-text": "Entirely impractical, and undeniably cool."
+}

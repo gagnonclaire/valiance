@@ -1,0 +1,25 @@
+{
+  "name": "warlocks-sidearm",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 7,
+  "base-item": "standard-ranged-weapon",
+  "target": "character",
+  "energy-cost": 3,
+  "properties": ["action 1", "check", "range 1-3"],
+  "effect": "Apply one of your current ailments to the target character.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Apply up to one more of your current ailments to the target character."
+    },
+    {
+      "result": "great",
+      "effect": "Apply up to two more of your current ailments to the target character."
+    },
+    {
+      "result": "perfect",
+      "effect": "Apply all of your ailments to the target character."
+    }
+  ],
+  "flavor-text": "Misery loves company."
+}

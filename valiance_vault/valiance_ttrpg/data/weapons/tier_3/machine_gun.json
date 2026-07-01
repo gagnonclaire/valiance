@@ -1,0 +1,8 @@
+{
+  "name": "machine-gun",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 3,
+  "base-item": "heavy-ranged-weapon",
+  "effect": "When you use a Machine Gun Attack ability, you may choose to double the ability's damage dealt. If you do so, remove Machine Gun from your inventory until the end of combat.",
+  "flavor-text": "It's a bit heavy, but it sure can throw out a lot of lead in a short amount of time."
+}

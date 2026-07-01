@@ -1,0 +1,8 @@
+{
+  "name": "gunsmiths-opus",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 8,
+  "base-item": "standard-ranged-weapon",
+  "effect": "Whenever you score a direct hit with a Gunsmith's Opus ability, gain one Gunsmith Point. Increase the damage of Gunsmith's Opus Attack abilities you use by your Gunsmith Points.",
+  "flavor-text": "There's always an improvement to be made."
+}

@@ -1,0 +1,8 @@
+{
+  "name": "providence",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 9,
+  "base-item": "heavy-melee-weapon",
+  "effect": "When you target a character with one of Providence's Attack abilities, you may also target up to two other characters within Range 3 of the original target. After the ability resolves, you may move instantaneously to any tile adjacent to any of the ability's targets.",
+  "flavor-text": "Move fast and with purpose."
+}

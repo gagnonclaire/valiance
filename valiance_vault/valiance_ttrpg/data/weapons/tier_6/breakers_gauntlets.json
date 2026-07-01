@@ -1,0 +1,8 @@
+{
+  "name": "breakers-gauntlets",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 6,
+  "base-item": "heavy-melee-weapon",
+  "effect": "Whenever you score a direct hit with a Breaker's Gauntlet ability, you may immediately use another Breaker's Gauntlet ability, ignoring its Action Point cost.",
+  "flavor-text": "You just don't know when to stop."
+}

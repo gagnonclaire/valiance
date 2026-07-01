@@ -1,0 +1,8 @@
+{
+  "name": "hand-of-the-empire",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 10,
+  "base-item": "standard-melee-weapon",
+  "effect": "At the beginning of your turn, you may move instantaneously to a tile adjacent to any enemy character you can see.",
+  "flavor-text": "The reach of the empire is vast."
+}

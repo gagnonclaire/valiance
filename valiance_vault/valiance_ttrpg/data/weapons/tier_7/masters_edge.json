@@ -1,0 +1,8 @@
+{
+  "name": "masters-edge",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 7,
+  "base-item": "standard-melee-weapon",
+  "effect": "Master's Edge Attack abilities may have an additional Attack Modifier ability applied to them.",
+  "flavor-text": "So, should I call a medic or a mortician?"
+}

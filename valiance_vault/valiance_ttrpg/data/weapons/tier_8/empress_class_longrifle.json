@@ -1,0 +1,8 @@
+{
+  "name": "empress-class-longrifle",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 8,
+  "base-item": "heavy-ranged-weapon",
+  "effect": "Reduce the Action Point cost of Empress Class Longrifle abilities by 1 (minimum 1).",
+  "flavor-text": "Elegance unmatched."
+}

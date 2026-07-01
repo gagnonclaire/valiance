@@ -1,0 +1,25 @@
+{
+  "name": "rallying-standard",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 4,
+  "base-item": "standard-melee-weapon",
+  "target": "character",
+  "energy-cost": 2,
+  "properties": ["action 2", "check", "range 1-3"],
+  "effect": "Target characters may move. This ability may target an additional character.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "This ability may target another additional character."
+    },
+    {
+      "result": "great",
+      "effect": "This ability may target another 2 additional characters."
+    },
+    {
+      "result": "perfect",
+      "effect": "This ability may target any number of additional characters."
+    }
+  ],
+  "flavor-text": "The soldiers surrounded their commander atop the hill, forming a wall of steel and will."
+}

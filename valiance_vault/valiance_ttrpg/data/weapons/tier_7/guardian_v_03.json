@@ -1,0 +1,12 @@
+{
+  "name": "guardian-v-03",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 7,
+  "base-item": "heavy-ranged-weapon",
+  "target": "character",
+  "energy-cost": 4,
+  "properties": ["reaction 2", "attack 2", "limited 2", "range 1-6"],
+  "effect": "Use any Guardian V-03 ability, targeting the triggering character. If you end any of your turns without using any of Guardian V-03's abilities, restore one of its Limited uses.",
+  "effect-trigger": "A character enters a tile within range",
+  "flavor-text": "You feel like you're being watched."
+}

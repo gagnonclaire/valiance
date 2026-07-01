@@ -1,0 +1,8 @@
+{
+  "name": "sunwalker-tower-shield",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 9,
+  "base-item": "standard-shield",
+  "effect": "Enemy characters that can see you cannot target any character other than you with any Attack abilities they use.",
+  "flavor-text": "How could anybody hope to be so grossly incandescent?"
+}

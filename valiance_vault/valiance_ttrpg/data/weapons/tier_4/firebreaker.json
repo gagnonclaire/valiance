@@ -1,0 +1,17 @@
+{
+  "name": "firebreaker",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 4,
+  "base-item": "standard-shield",
+  "target": "character",
+  "energy-cost": 2,
+  "properties": ["action 1", "check", "range 0-3"],
+  "effect": "Immediately resolve all Delayed abilities targeting source tiles within range.",
+  "check-effects": [
+    {
+      "result": "great",
+      "effect": "You are immune to the effects of all abilities triggered this way."
+    }
+  ],
+  "flavor-text": "\"Minesweeper\" was deemed too on the nose by imperial engineers."
+}

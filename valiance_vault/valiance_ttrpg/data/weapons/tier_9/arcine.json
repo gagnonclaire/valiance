@@ -1,0 +1,25 @@
+{
+  "name": "arcine",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 9,
+  "base-item": "heavy-ranged-weapon",
+  "target": "character",
+  "energy-cost": 4,
+  "properties": ["action 3", "attack 3", "check", "range 3-8"],
+  "effect": "Deal 4 damage. This ability cannot be used while you are engaged.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Deal an additional 4 damage."
+    },
+    {
+      "result": "great",
+      "effect": "Deal an additional 8 damage."
+    },
+    {
+      "result": "perfect",
+      "effect": "Deal an additional 12 damage. All damage dealt by this ability is piercing damage."
+    }
+  ],
+  "flavor-text": "The pride of the Order of the Sun, the arcine is an arcane rifle unrivalled in power and precision. While they're a rare sight on the battlefield due to their excessive production costs, a shot from one of these can go straight through an imperial tank."
+}

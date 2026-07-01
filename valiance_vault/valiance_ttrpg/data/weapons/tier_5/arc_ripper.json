@@ -1,0 +1,25 @@
+{
+  "name": "arc-ripper",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 5,
+  "base-item": "standard-melee-weapon",
+  "target": "character",
+  "energy-cost": 2,
+  "properties": ["action 1", "attack 1", "check", "range 1"],
+  "effect": "Deal 4 damage. If this ability deals damage to a target it has already dealt damage to this turn, all damage it deals is dealt as piercing damage. This ability can never be used more than 5 times in a single turn.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Deal an additional 1 damage. You may use this ability an additional time during this turn."
+    },
+    {
+      "result": "great",
+      "effect": "Deal an additional 2 damage. You may use this ability multiple times during this turn."
+    },
+    {
+      "result": "perfect",
+      "effect": "Deal an additional 3 damage. You may use this ability multiple times during this turn. The next time you use this ability during this turn, ignore its Action Point cost."
+    }
+  ],
+  "flavor-text": "The Arc-Ripper is an overtly brutal implement, so much so that it's hard to believe it was devised by Sunspire's idealistic arc-engineers."
+}

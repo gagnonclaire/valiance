@@ -1,0 +1,12 @@
+{
+  "name": "penance-bracer",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 5,
+  "base-item": "standard-shield",
+  "target": "self",
+  "energy-cost": 0,
+  "properties": ["reaction 1", "limited 2"],
+  "effect": "The character that used the triggering Attack ability is Exposed 1.",
+  "effect-trigger": "You take damage from an Attack ability",
+  "flavor-text": "That can be no absolution without earnest regret."
+}

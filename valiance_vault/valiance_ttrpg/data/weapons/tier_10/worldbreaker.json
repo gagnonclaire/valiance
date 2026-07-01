@@ -1,0 +1,11 @@
+{
+  "name": "worldbreaker",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 10,
+  "base-item": "standard-shield",
+  "target": "character",
+  "energy-cost": 4,
+  "properties": ["action 3"],
+  "effect": "All active characters that aren't on your team are Staggered.",
+  "flavor-text": "It shook the world to its core."
+}

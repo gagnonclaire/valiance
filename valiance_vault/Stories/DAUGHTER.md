@@ -90,7 +90,6 @@ She strained under some unseen weight before continuing.
 The sound of static once again filled the room.
 
 "liz i fucked up"
-"I'm coming over."
 
 -
 
@@ -215,3 +214,45 @@ Ceta smiled and shifted, taking pressure off of her wounds.
 The room fell silent, breathless.
 
 "i'm really happy you're here"
+
+-
+
+DO YOU SEE NOW?
+
+Flesh tears from bone.
+
+HOW SMALL YOU ARE?
+
+Bone chars to cinders.
+
+EVERY ATTEMPT MADE
+
+Cinders give way to blackened marrow.
+
+EVERY DEATH DIED
+
+Marrow melts into an abyssal sea.
+
+AND YOU LEAVE AS YOU CAME
+
+The sea settles into a muted darkness.
+
+PATHETIC
+
+From darkness emerges a single flayed hand, grasping at the edge of the void. 
+
+It shakes, unsteady but unyielding.
+
+-
+
+she flinched when she felt the attendant's breath on her neck. the two had only each other now, their previous allegiances broken. the attendant felt her way down to the daughter's waist, sharp nails tracing with intent. "you've been through so much, child. all of the corpses waded through, the blood and oil spilled." the daughter clasped her hand to her shoulder, covering her chest. she took a sharp breath but could form no words. the attendant brought her free hand to rest upon the daughter's. "taken from your home. abandoned by your empress. caged like an animal. the world holds no compassion for you." steady fingers found their way through the gaps of the daughter's shaking hand, nails found purchase in her waist. slowly, excruciatingly, they pierced the skin. for a moment, the daughter resisted. she could turn this cabin into a slaughter house in an instant, if she so wished. both of them knew it. "but I'm here now, to give you what you've needed so badly." the daughter relaxed, and the attendant's nails dug deeper. blackened blood trickled from her waist. she moaned, caught somewhere between pleasure and agony, as the flow turned to fresh crimson. "a release."
+
+-
+
+The world hemorrhaged below, reality itself churning in on itself in waves of red. the empress, hands held outward, struggled to regain control of her apocalypse. thunder crashed as her porcelain skin cracked. it fell to the ground in bloody shards, revealing a heart beating to the rhythm of the storm. crystalline razors coalesced into three sets of sanguine wings. she lifted from the surface of the imperial spire, held aloft by a bone-shattering pressure. the daughter grasped at the edge of consciousness, pulling herself up against the impossible weight of the end. a single jagged shard congealed in her hand, all she could manage. she fixed her fading sight on the six-winged silhouette of the empress. the distance seemed impossible, but the daughter dug her hands and heels and feet into the marble surface of the spire. step by excruciating step, she pulled herself closer to her counterpart. but before she could find her reach, the empress turned, just enough to catch the desperate eyes of the daughter. now upright, the daughter seized the moment ang lunged. her flesh parted as she passed through the bladed wing, but her free hand found purchase on the shoulder of the empress. in this final motion, the two found themselves face to face, the dagger's point kissing the surface of the empress' exposed heart. "daughter..." the point found little resistance. there was no fight left to be had, only a final decision to be made. the empress moved her hand over the daughter's, making no effort to change the blade's course. "you will never belong in their world." the blade's tip passed the event horizon softly, and the surface of the heart pulled apart without a sound. "I know." all at once, the world began to move once again. the force of the collision sent the two into the freefall off of the edge of the spire. they fell followed by a screaming geyser, the final cry of the dying blood. "I loved you, daughter..."
+    
+the storm quieted as the pair fell further. they between them hardly held enough breath for a single word, and the earth fast approached. "I know."
+
+-
+
+she splashed through a world inverted, watching her own body fall in cascades. she sank slowly, the sight of the surface fading softly. she saw her hand move before she could feel it. something almost imperceptible pulled at it, an invisible thread still attached to something on the other side. she reached towards it, driven by some solemn curiosity. before she had even commanded it, her hand grasped another, a mirror image of its own. it was soft, the only thing to be felt in this void. she devoted her entire self - if she even still had one - to keeping this hold. as the last lights of the world above faded, a strange sensation hit her. the subtle smell of honey, followed by a jerk that tore being back into agony.

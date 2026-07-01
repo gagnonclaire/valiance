@@ -1,0 +1,8 @@
+{
+  "name": "heirloom-blade",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 3,
+  "base-item": "standard-melee-weapon",
+  "effect": "Heirloom Blade Attack abilities are all treated as Attack 0 abilities and their damage is increased by half of your tier.",
+  "flavor-text": "How many have held this blade before you? How many of them died with it in their hands? Will you?"
+}

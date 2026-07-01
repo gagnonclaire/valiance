@@ -1,0 +1,25 @@
+{
+  "name": "blackhorn-harvester",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 8,
+  "base-item": "heavy-melee-weapon",
+  "target": "character",
+  "energy-cost": 3,
+  "properties": ["action 2", "area 3", "attack 2", "check", "limited 1", "range 2"],
+  "effect": "Deal 6 damage. Increase your Guts by the total damage dealt by this ability.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Deal an additional 2 damage."
+    },
+    {
+      "result": "great",
+      "effect": "Deal an additional 4 damage."
+    },
+    {
+      "result": "perfect",
+      "effect": "Deal an additional 6 damage. All damage dealt by this ability is piercing damage."
+    }
+  ],
+  "flavor-text": "Take what is yours."
+}

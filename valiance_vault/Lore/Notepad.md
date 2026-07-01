@@ -174,3 +174,15 @@ it shook the world to its core
 
 a petrified monolith in a sanguine sea
 it bled
+
+
+special agent calliope ennin reconnaissance and containment idcon slight of silhouette, sharp of feature. straight platinum hair, shoulder length
+
+the attendant veiled in dark wrappings, speaks softly but with an uncanny command. her braided hair, a dance of platinum white and pitch black, hangs over her shoulder. behind the veil is a face marred by unknowable hardship, worn straight to the bone in places. her clouded eyes see more than she would ever say.
+
+the empress rules the blood, the daughter is born of it
+the attendant is bound by it
+
+she felt weightless. like nothing was holding her back. like nothing was holding her back. like nothing was holding her together
+
+their nervous breaths were almost entirely masked by the storm. they shifted between every pounding sheet of rain, trying to find some space in their small lodging. they had only just finished tending to their worst wounds when the storm started. under their uneasy truce, they now mended themselves under candlelight.

@@ -1,0 +1,8 @@
+{
+  "name": "displacement-cannon",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 5,
+  "base-item": "heavy-ranged-weapon",
+  "effect": "Characters damaged by Displacement Cannon abilities are moved one tile in any direction. You choose the direction.",
+  "flavor-text": "The breaker ripped the cannon from its damaged mount. His ship might be sinking, but he was going to make sure it wasn't the only one."
+}

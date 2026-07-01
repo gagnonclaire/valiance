@@ -1,0 +1,8 @@
+{
+  "name": "fanatics-bulwark",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 7,
+  "base-item": "standard-shield",
+  "effect": "When you are downed, instead take a turn. This turn does not count against your available turns for the round and interrupts the current character's turn. At the end of this turn you are downed, and the interrupted character's turn continues if it can.",
+  "flavor-text": "The reality matters not when the belief is strong enough."
+}

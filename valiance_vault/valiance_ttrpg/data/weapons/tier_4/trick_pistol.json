@@ -1,0 +1,8 @@
+{
+  "name": "trick-pistol",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 4,
+  "base-item": "standard-ranged-weapon",
+  "effect": "Decrease the Energy cost of Attack Modifier abilities applied to Trick Pistol's Attack abilities by 1, down to a minimum of 0.",
+  "flavor-text": "Style points."
+}

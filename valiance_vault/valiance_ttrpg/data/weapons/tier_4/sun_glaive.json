@@ -1,0 +1,8 @@
+{
+  "name": "sun-glaive",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 4,
+  "base-item": "heavy-melee-weapon",
+  "effect": "Increase the minimum and maximum Range of Sun Glaive abilities by 1.",
+  "flavor-text": "An imperial scout laid her report out in front of her captain. \"A single infantry unit, sir. Standard issue Sunspire polearms.\" After a moment of thought, he turned to his lieutenant. \"Tell everyone to stay put. I'll send for reinforcements.\""
+}

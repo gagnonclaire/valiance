@@ -1,0 +1,25 @@
+{
+  "name": "arc-ballista",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 6,
+  "base-item": "heavy-ranged-weapon",
+  "target": "character",
+  "energy-cost": 3,
+  "properties": ["action 2", "area 1", "attack 2", "check", "range 1-6"],
+  "effect": "Deal 6 damage.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Deal an additional 2 damage."
+    },
+    {
+      "result": "great",
+      "effect": "Deal an additional 4 damage."
+    },
+    {
+      "result": "perfect",
+      "effect": "Deal an additional 6 damage. All damage dealt by this ability is piercing damage."
+    }
+  ],
+  "flavor-text": "As modern arcane and mundane weapon technologies matured, many eccentric artificers looked to classic implements for further inspiration."
+}

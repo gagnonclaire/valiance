@@ -1,0 +1,8 @@
+{
+  "name": "interdiction-shield",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 3,
+  "base-item": "standard-shield",
+  "effect": "Tiles you occupy count as a solid tile for enemy characters when determining line of sight.",
+  "flavor-text": "\"And why in the world do you need a shield that big?\" The valiant adjusted the straps on the hulking slab of metal before responding. \"Oh, it's not just for me.\""
+}

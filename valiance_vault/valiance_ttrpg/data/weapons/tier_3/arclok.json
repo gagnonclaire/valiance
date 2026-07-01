@@ -1,0 +1,8 @@
+{
+  "name": "arclok",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 3,
+  "base-item": "standard-ranged-weapon",
+  "effect": "Arclok abilities gain the Blitz tag.",
+  "flavor-text": "The Arclok is an arcane pistol used by Sunspire officers. Characterized by its arc-magnetic holster and hair-trigger, those wielding this sidearm leave little room for answering shots."
+}

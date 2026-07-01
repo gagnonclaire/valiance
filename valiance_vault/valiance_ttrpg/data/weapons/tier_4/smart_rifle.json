@@ -1,0 +1,8 @@
+{
+  "name": "smart-rifle",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 4,
+  "base-item": "heavy-ranged-weapon",
+  "effect": "You have Heartsense against all Elite and Boss characters within range of Smart Rifle's abilities.",
+  "flavor-text": "The number of technological mishaps has been increasing year over year, as hack engineers resort to shoving primordial hearts into even the simplest gadgets."
+}

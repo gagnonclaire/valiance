@@ -1,0 +1,25 @@
+{
+  "name": "ultra-greatsword",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 5,
+  "base-item": "heavy-melee-weapon",
+  "target": "character",
+  "energy-cost": 2,
+  "properties": ["action 2", "area 1", "attack 2", "check", "range 1"],
+  "effect": "Deal 6 damage.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Deal an additional 2 damage."
+    },
+    {
+      "result": "great",
+      "effect": "Deal an additional 4 damage."
+    },
+    {
+      "result": "perfect",
+      "effect": "Deal an additional 6 damage. All damage dealt by this ability is piercing damage."
+    }
+  ],
+  "flavor-text": "The blacksmith kept an oversized blade hanging above the entrance to his shop. It was only for show, of course, as it would be impossibly unwieldly."
+}

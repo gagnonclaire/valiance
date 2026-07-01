@@ -1,0 +1,11 @@
+{
+  "name": "singularity-carbine",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 6,
+  "base-item": "standard-ranged-weapon",
+  "target": "character",
+  "energy-cost": 0,
+  "properties": ["action 0", "range 1-4"],
+  "effect": "All damage dealt to the target character during this round is delayed until the end of this round. When the delayed damage is dealt to the character, it is dealt as one instance of piercing damage. If this total damage would deal a direct hit to the target character, excess damage is dealt to the character again in a new instance after the direct hit has resolved.",
+  "flavor-text": "They never see it coming."
+}

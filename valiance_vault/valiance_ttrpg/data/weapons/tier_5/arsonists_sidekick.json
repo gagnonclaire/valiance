@@ -1,0 +1,12 @@
+{
+  "name": "arsonists-sidekick",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 5,
+  "base-item": "standard-ranged-weapon",
+  "target": "self",
+  "energy-cost": 2,
+  "properties": ["reaction 3"],
+  "effect": "Immediately trigger all of your currently pending Delayed abilities.",
+  "effect-trigger": "Global",
+  "flavor-text": "You wanna see something cool?"
+}

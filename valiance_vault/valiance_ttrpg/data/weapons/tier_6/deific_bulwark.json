@@ -1,0 +1,12 @@
+{
+  "name": "deific-bulwark",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 6,
+  "base-item": "standard-shield",
+  "target": "self",
+  "energy-cost": 3,
+  "properties": ["reaction 1"],
+  "effect": "You are Protected 1. You can only use this ability once per round.",
+  "effect-trigger": "counter",
+  "flavor-text": "There is no physical protection that can match the perceived safety of providence."
+}

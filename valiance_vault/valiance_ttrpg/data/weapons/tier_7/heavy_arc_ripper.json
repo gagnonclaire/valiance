@@ -1,0 +1,25 @@
+{
+  "name": "heavy-arc-ripper",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 7,
+  "base-item": "heavy-melee-weapon",
+  "target": "character",
+  "energy-cost": 3,
+  "properties": ["action 2", "attack 1", "check", "range 1"],
+  "effect": "Deal 4 piercing damage.",
+  "check-effects": [
+    {
+      "result": "good",
+      "effect": "Repeat all of this ability's effects an additional time."
+    },
+    {
+      "result": "great",
+      "effect": "Repeat all of this ability's effects two additional times."
+    },
+    {
+      "result": "perfect",
+      "effect": "Repeat all of this ability's effects three additional times."
+    }
+  ],
+  "flavor-text": "Requiring an external energy source and being generally massive, this weapon was designed to be attached to larger models of Sunspire automata."
+}

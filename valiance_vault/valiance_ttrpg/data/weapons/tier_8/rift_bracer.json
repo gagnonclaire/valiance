@@ -1,0 +1,11 @@
+{
+  "name": "rift-bracer",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 8,
+  "base-item": "standard-shield",
+  "target": "self",
+  "energy-cost": 4,
+  "properties": ["stance"],
+  "effect": "You gain effect immunity and cannot use targeted abilities.",
+  "flavor-text": "Can't get hurt if you don't exist."
+}

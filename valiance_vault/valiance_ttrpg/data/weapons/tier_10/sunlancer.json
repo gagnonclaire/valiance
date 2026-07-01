@@ -1,0 +1,11 @@
+{
+  "name": "sunlancer",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 10,
+  "base-item": "heavy-ranged-weapon",
+  "target": "self",
+  "energy-cost": 4,
+  "properties": ["stance"],
+  "effect": "You are Staggered. This status cannot be cleared as long as you maintain this ability and is cleared when this ability's effects end. Double the maximum Range of all Sunlancer abilities.",
+  "flavor-text": "Stare into the sun."
+}

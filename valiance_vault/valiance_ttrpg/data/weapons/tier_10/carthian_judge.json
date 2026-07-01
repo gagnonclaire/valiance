@@ -1,0 +1,8 @@
+{
+  "name": "carthian-judge",
+  "tags": ["equipment", "weapon", "trait"],
+  "tier": 10,
+  "base-item": "standard-ranged-weapon",
+  "effect": "Carthian Judge abilities can be used multiple times per turn and have the Blitz tag. All damage dealt by Carthian Judge abilities is piercing damage. If the damage is already piercing, increase the damage dealt by 4.",
+  "flavor-text": "A sleek genesis alloy body. Entirely self-cleaning and self-repairing.\n\nA single internal chamber. Munitions generated on-demand.\n\nNo sights or triggers. The judge already knows."
+}

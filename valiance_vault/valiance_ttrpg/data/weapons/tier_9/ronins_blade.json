@@ -1,0 +1,12 @@
+{
+  "name": "ronins-blade",
+  "tags": ["equipment", "weapon", "ability"],
+  "tier": 9,
+  "base-item": "standard-melee-weapon",
+  "target": "character",
+  "energy-cost": 4,
+  "properties": ["reaction 1", "range 1-3"],
+  "effect": "After taking damage from the triggering ability, deal half of the damage taken as piercing damage to a target character.",
+  "effect-trigger": "counter",
+  "flavor-text": "Watch where you're putting those shots, or they might find their way back to you."
+}
