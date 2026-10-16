@@ -184,5 +184,3 @@ the empress rules the blood, the daughter is born of it
 the attendant is bound by it
 
 she felt weightless. like nothing was holding her back. like nothing was holding her back. like nothing was holding her together
-
-their nervous breaths were almost entirely masked by the storm. they shifted between every pounding sheet of rain, trying to find some space in their small lodging. they had only just finished tending to their worst wounds when the storm started. under their uneasy truce, they now mended themselves under candlelight.

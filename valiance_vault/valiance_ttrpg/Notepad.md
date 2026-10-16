@@ -170,3 +170,35 @@ also all equipment just costs 1 point? start with 3 and gain 1 every tier up, wi
 gameplay cycles based on seasons. contracts are short and do not span seasons. downtimes between contracts last one season per cycle, usually with two seasons (and downtimes) between contracts some costs are incurred for each downtime, such as rent for players renting housing or spaces. this is handled as an "upkeep cost" and also includes general upkeep for things the players use. this is all handled via money, with making money being a downtime activity (in addition to that made on contracts or by trading in procurement points)
 
 valiance downtime a free downtime activity "catch up". the player selects one or more other characters (pc or npc) and a location and/or activity. the chosen characters play an encounter primarily driven by the character using the downtime. useful for checking in with each other and taking some time away from the narrative to develop characters and relationships. can be done once per downtime (season), but a character can be involved in multiple scenes (can only initiate one). highly encouraged, director will ask each player for their catch up (opt out, basically) by default, each catch up grants the initiating character one contingency point. other benefits, including other game resources, can be awarded by director discretion. encounter: a narrative or battle event that plays out in a single location, usually with on primary focus. game resource: any defined thing that can influence narrative or battle, like an item or an advantage. contingency point: used at any time (combat or narrative) to reroll a check. must take the new roll. the director must block this reroll (points are not used) if the result is the best possible outcome (ie the result is good and there are no great or perfect outcomes)
+
+1. valiants have 3 endurance points, 2 valiance points. when endurance points hit 0, removed from the fight and lose 1 valiance point. when valiance points hit 0, die.
+    
+2. endurance points are not restored between combats. team has a pool of supply points and can use 1 supply point to restore 1 missing endurance point on one character, but only outside of combat
+    
+3. all endurance and valiance points are restored between jobs.
+    
+4. effects to allow characters to use limited supply points in combat
+    
+5. supply points vary, each player will have a supply point value that is summed with the others to get a team supply point pool
+    
+6. supply point pool is also used for other things, like enabling company resource effects or during non combat scenes
+    
+7. like mid roll gives "succeed but lose 1 supply point"
+	
+8. also hit points restored at end of each combat, and yeah just call them hit points
+    
+9. energy points restored too
+    
+10. and all limited, maybe some rare exceptions that require supply points to restore
+    
+11. endurance points and energy points overlap, both EP
+    
+12. need to fix that
+    
+13. we have: hp ep (x2) vp sp
+    
+14. ability points? ap?
+    
+15. explicit on what they're used for
+
+wait no valiance points should be restored specifically by downtime. also downtime is the general rp thing, things like respec, vp regen, are options of mechanical effects they can have. like a player that wants to respec an attribute point and restore 1 vp must take two downtime seasons, if only one is possible they must choose
