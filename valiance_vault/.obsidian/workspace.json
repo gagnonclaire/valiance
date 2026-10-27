@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca441aed18f16559",
+            "id": "a13fa61bef13e02f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,22 +20,28 @@
               "icon": "lucide-file",
               "title": "DAUGHTER"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6734dd154cf25f91",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ca87ff7d23b0bae0",
+            "id": "e364feb4adc6189e",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Lore/Notepad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Notepad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,16 +186,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca87ff7d23b0bae0",
+  "active": "e364feb4adc6189e",
   "lastOpenFiles": [
-    "Untitled 1.base",
-    "Untitled.base",
-    "Untitled.md",
     "Stories/DAUGHTER.md",
+    "Lore/Notepad.md",
+    "Untitled.base",
+    "Assets/Daughter.png",
+    "Assets/Empress.png",
+    "Untitled 1.base",
+    "Untitled.md",
     "Lore/Timeline.md",
     "Stories/EMPRESS.md",
     "Lore/The World.md",
-    "Lore/Notepad.md",
     "valiance_ttrpg/Notepad.md",
     "valiance_ttrpg/Equipment Compendium.md",
     "valiance_ttrpg/Enemy Archetypes.md",
@@ -201,8 +209,6 @@
     "valiance_ttrpg/Valiance.md",
     "Lore/Energy Shaping.md",
     "Lore/The Arcane.md",
-    "Assets/Daughter.png",
-    "Assets/Empress.png",
     "Assets/Shalica.png",
     "valiance_ttrpg/Combat Gameplay.md",
     "valiance_ttrpg/statuses/statuses.md",
