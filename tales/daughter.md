@@ -1,3 +1,5 @@
+# Daughter (A Heart of Broken Glass)
+
 The forest vale was foggy this autumn morning. There was a stream running through a clearing here, its soft trickling muffled by the cold blanket covering the valley.
 
 Twigs snapped and leaves crunched underfoot as a young girl skipped into the clearing. In muddy shoes and a hand-me-down coat, she surveyed the clearing, peering intently through the fog. Her cracked lips broke into a smile when she spotted an old twisting trunk on the opposite tree line. Just large enough to bear her weight, its gnarled branches formed an arboreal playground just above the forest floor.
