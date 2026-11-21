@@ -184,3 +184,37 @@ the empress rules the blood, the daughter is born of it
 the attendant is bound by it
 
 she felt weightless. like nothing was holding her back. like nothing was holding her back. like nothing was holding her together
+
+
+The Vyld were the third child's favorite, and she gifted them rather "dynamic" genetics. Mutations came easily and often, with new adaptations (or maladaptations) appearing regularly in each generation. Over time evolution calmed these aspects, but Vyld descendants still sport a genetic diversity far above the average modern population.
+
+Early humans had a handful of more animal traits. Horns were common, along with tougher hides, manes, and bone plating. Many of these were muted by evolution in early history, serving no practical purpose alongside a human intelligence. Descendants of the Vyld betray their early lineage most clearly, but both Derge and Ingra still sport horns. Derge as a clan symbol, with horn shape being a mark of one's family. Ingra as a purely aesthetic preference (they were perfect for hanging jewellry off of). Early Ingra were into horns, so horns stayed. Even modern descendants of Ingra sport thin, shapely horns. They break easily, but some see a broken horn as a mark of a great hunter or adventurer (unless they broke their own horn and tried to pass off the stolen valor, that is generally frowned upon). Manes live on to an extent for descendants of the Hjark. In the modern world, horns are the most common abnormality, but horned people are still very much a minority.
+
+Intersex rates among Vyld were notably high, in the earliest tribes it was a majority. Much, much less common in modern days, but still higher than the standard rate of the population.
+
+Hjark language was simple and practical, Girt exact and complex. The Imperial tongue that was eventually born of these found a nice middle ground. It also borrowed a lot of Vyld profanities, being close neighbors. Modern Vyld is very imperialized, with the only classical offshoots found out in the far seas, settlers that broke from the early Vyld. 
+
+--
+
+Ceta had no surname, her family were simple laborers. Still respected among their community, just not terribly special. She got her horns from her dad. They were quite uncommon for her people, her father only sporting bony stubs. Adults often doted on her tiny, pointy little horns. They never really grew much more beyond that. Her curiosity was nourished.
+
+Displaced very young. Empire decided that they wanted that little world out in the far seas. The local militia had no chance against a modern mechanized army, but sporadic conflict broke out regardless. Most people were moved into the inner empire as part of an immigration program. Move the natives out and colonists in. Simple as. Ceta spoke an offshoot of old Vyld. Couldn't even talk to local imperial Vyld speakers effectively. She had no problem picking up the imperial tongue, but her parents never quite adjusted to it.
+
+Ceta was raised rather androgynously back home, being born intersex. This was common enough where she was from. She was incorrectly identified as a boy during migration, and has spent much of her adult life arguing with imperial record keepers in an attempt to change "him" to "her". She's been moderately successful. The empire is nominally accommodating in that sense, but the cogs of bureaucracy move slowly (if at all). As an adult she underwent corrective procedures.
+
+Elizabeth Vega was the only daughter of the Vega family. Being of proud Girt heritage, this put her in line as the family matriarch. She rejected that mantle quite thoroughly. She refused to step foot in the fancy private schools she was sent to, demanding to go to "normal" schools with the "normal" kids. Her mother eventually caved, a publicly educated daughter would be better than an uneducated one. Elizabeth excelled among her peers, but regularly denounced any notion of her superiority (not out of benevolent empathy, but a strong desire to not stand out). She met Ceta in primary school, the two became close friends, spending much of their childhood together. 
+
+Sometimes Elizabeth's mother would claim (within earshot of Elizabeth, often intentionally) that Ceta was more of a daughter to her than Elizabeth, and maybe she would be the next Vega matriarch. There was nothing mother Vega could say that would anger Elizabeth more than "Ceta Vega". Ceta's parents, on the other hand, only knew Elizabeth as "Liz", Ceta's friend. Elizabeth loved this. She took the passing of Ceta's parents harder than she ever would her own (who would likely still live much longer, to her dismay).
+
+Elizabeth went to an imperial university with Ceta, not one of "the" imperials universities, just one of the standard post primary colleges. After her undergrad, while Ceta moved into the workforce as an arc-technician, Elizabeth moved onto the most prestigious institution in Alburn and attained doctorates in aberrant physiology and molecular biology. She landed a job as a lead researcher with Idcon. She refused to share these accomplishments with her family, having cut them off almost entirely in her adult life. Ceta still gets cards from mother Vega for her birthday and imperial holidays. Elizabeth does not.
+
+The two lived together throughout university, and even as Elizabeth moved on to post-grad. Elizabeth moved out to live closer to work. On a single, modest income now, Ceta moved to a poorer part of the city, at the top edge of the southeastern subcity. Elizabeth lived near the capitol ridge in the northwest. They still got together quite often.
+
+--
+
+the Marrian people (or just "the Marr") lived simple and comfortable lives. their effective use of agricultural techniques and technologies allowed them plenty of time for leisure, and they had little ambition beyond that.
+
+they built their homes in the landscape, simple triangle frames with sod roofing. their villages blended neatly into the rolling hills of the Marrian countryside, every but as plain and unassuming as the inhabitants.
+the kingdom of Carthia, established by an industrious mix of various peoples, was established at the bountiful heart of the Marrian realms. the Marr were largely unbothered. they had never considered their loose collection of communities a proper nation and thus didn't feel the least bit displaced by this new development.
+
+the utopian visage of modern Carthia does not hide any rot or corruption, at least no more than can be found anywhere else. it instead masked a deep guilt of what it had done, and a harrowing fear of how that power could again be misused

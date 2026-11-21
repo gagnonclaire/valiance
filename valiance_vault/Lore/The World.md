@@ -1,4 +1,4 @@
-Cosmos (order) above, depths (chaos) below, surface is mostly saltwater dotted with floating primordial islands. 
+Cosmos (order) above, depths (chaos) below, surface is mostly saltwater dotted with floating primordial islands.
 
 Center of the world is the anchor, extending one mile above and below sea level. 1m miles above sea level, at the center, is the sun/moon (academically referred to as the cosmic engine), with nothing but empty space above The engine acts like a spotlight on a roughly 24-hour cycle of heating and cooling It does not move.
 
@@ -14,12 +14,14 @@ Many near sea nations are regaining sovereignty and joining the modern world, wh
 
 Every year starts and ends with the Inversion, a strange celestial event that sees the cosmic core eclipsed and the sky darkened. At the end of the last day of winter, a dark spot in the center of the moon appears. It slowly grows until completely eclipsing the core, at which point no stars are visible in the sky. Time seems to stop during this period, only to start again when the process eventually reverses and the first day of spring begins.
 
-The Inversion is a significant event in nearly every culture in the world. Some host celebrations for the duration, some host somber remembrances. Others hold more esoteric rituals. The exact nature of the event is unclear, with philosophers and researchers across the ages attempting to explain it. Even measuring time during the Inversion is difficult, with attempts giving wildly different results from year to year. 
+The Inversion is a significant event in nearly every culture in the world. Some host celebrations for the duration, some host somber remembrances. Others hold more esoteric rituals. The exact nature of the event is unclear, with philosophers and researchers across the ages attempting to explain it. Even measuring time during the Inversion is difficult, with attempts giving wildly different results from year to year.
 
 Physical laws of the world are imposed by the cosmos. The strange and arcane are a consequence of the deep. Both are at play in the world between, creating a constant dance between the mundane and inexplicable. Energy shaping is considered the most stable of these phenomena, and has been extensively studied and applied in modern technology. Anything more arcane is the domain of eccentrics and occultists.
 
 # OLD STUFF
+
 ### Cruel Circumstances
+_Between the abyssal depths and the sparkling heavens lies a glassy sea dotted with slabs of living earth. From one cosmic cycle to the next, people carry themselves through their short lives. They live each anxious day entirely unaware that they are the architect’s favorites._
 
 The geopolitics of the world are driven chiefly by a severe lack of resources, an obvious consequence of a world consisting almost entirely of vast oceans. This lack of resources almost always leads to material inequalities, and for many people there is little hope of societal mobility because of this. Most individuals turn to valiancy as an escape from this fate. They risk their lives on behalf of the wealthy elite in a desperate attempt to pull themselves from a life of thankless labor. Most of them, unfortunately, die long before they achieve that goal.
 
@@ -36,8 +38,6 @@ There are other local currencies across the seas, but their value is almost alwa
 In developed regions, the median net income is around ƭ40,000, enough to afford a very modest lifestyle in an urban center. With seasonal rent averaging ƭ5,000, and a budget meal costing a few Tin a piece, most people have little to no savings and live anxiously from season to season.
 
 The lackluster standard of living is enough to placate the common person, but certain bold and desperate individuals turn to valiancy. The work is deadly, but even novices in the field are promised tens of thousands of Tin for a single contract.
-
-  
 
 ### Your Place in it All
 
@@ -65,8 +65,6 @@ There exist realms above and below the barrier. These spaces, the cosmos and the
 
 To a valiant, the exact cosmological nature of their world isn’t terribly relevant. What is relevant, however, is the danger that both chaos and order can impose when gone unchecked. When not engaging in the regular corporate sabotage, many valiants find themselves protecting remote communities from all manner of existential threats.
 
-  
-
 ### Languages
 
 There are two primary types of languages on the barrier: lineage languages and common tongues.
@@ -87,9 +85,7 @@ In order to send telepathic messages, Archians require arcane training. The abil
 
 # 1    The Original Work
 
-*Between the abyssal depths and the sparkling skies lies a thin, glassy barrier dotted with slabs of earth. On these suspended islands, the Archians go about their short lives in a cruel and uncaring world. They live each anxious day entirely unaware that they are the architect’s favorites.*
-
-The world of Valiance is one that did not come to be by circumstance, but was built with purpose and intention. It was built by a higher being that refers to themselves as the architect, being akin to a simple terrarium. It organized the world’s realms and molded beings to inhabit them. It wrote rules and created exceptions to them. And, when everything was in place, it watched.
+_Between the abyssal depths and the sparkling heavens lies a glassy sea dotted with slabs of living earth. From one cosmic cycle to the next, people carry themselves through their short lives. They live each anxious day entirely unaware that they are the architect’s favorites._
 
 ## 1.1  Space and Structure
 
@@ -113,8 +109,6 @@ In a broad sense, the barrier is mirrored over the singularity plane. These two 
 
 With existence on the deep-exposed face being transient and generally ill-defined, most of this document will focus on the cosmos-exposed face, with general references to the barrier referring to that face.
 
-  
-
 #### To the Edges of the World
 
 All of the three planes operate about the central point marked by the anchor. As one travels further form this center, the chunks of earth dotting the Barrier, the stars alighting the cosmos, and even the roiling of the deep, become sparser. The further one travels from the anchor, the less activity there is to be found.
@@ -127,31 +121,19 @@ Beyond the near seas, at 10,000 to 100,000 miles from the anchor, are the far se
 
 If one were to travel further than 100,000 miles from the center of the world, they would find themselves at the unlit seas. At this distance from the anchor, there is no day nor night, only the black glass of endless, still seas. There are rumors, however, of alien beings that make their home here, far from the sentinel gaze of the architect.
 
-  
-
 ### Outer Spaces
 
 Bordering the barrier are two opposite extremes. On one side, the cosmos imparts order and structure. On the other, the deep drive change and diversity. These two forces meet on the barrier, kept in check by the singularity plane that bisects the world.
 
-#### The Cosmos
-
-*A young man watched the sky as the blinding yellow sun cooled into the dull bluish moon. He tracked the now-visible stars, twinkling as they orbited the cooling Cosmic Engine. They were perfectly in time, as always, and he could measure their angles by eye to determine the exact day of the year. He marveled at how ancient peoples, before clocks and calendars, might have relied solely on these cosmic timekeepers.*
-
-*He stood alone in quiet awe, until his wristwatch called to him with an intrusive beeping. It was the beginning of his shift. With his mop and cart, he got to work; his eyes still fixed on the sky above the glass roof of the observatory.*
-
-The cosmos is a realm of perfect order dotted with cosmic beings and their intricate engines. Disjoint from the worlds below, the cosmos is a realm built only to persist. Exactly one million miles from the cosmos-facing tip of the anchor sits the cosmic engine. This source of infinite energy vents most of its power as both arcane and conventional radiation via a vent pointed towards the barrier. To the peoples below, it acts as both the sun and the moon as it goes through active and cooling periods. Many lesser cosmic beings and constructs dance about the engine in perfect rhythm, like sparkling clockwork dotting a black void.
-
 #### The Deep
 
-*She flipped through her notes again, scanning familiar lines of formulas. Everything was in order, no errors. She never made errors. Then why, all of a sudden, were her results changing? She triple checked, not to catch some nonexistent error, but because she had no other path.*
+_She flipped through her notes again, scanning familiar lines of formulas. Everything was in order, no errors. She never made errors. Then why, all of a sudden, were her results changing? She triple checked, not to catch some nonexistent error, but because she had no other path._
 
-*She ran the tests again. A different result than the last time, but still wrong. Even more wrong. Her anxiety grew into a splitting headache as she swept her books from the desk.*
+_She ran the tests again. A different result than the last time, but still wrong. Even more wrong. Her anxiety grew into a splitting headache as she swept her books from the desk._
 
-*It was all wrong. Something was leaking. She wiped a crimson dribble from beneath her nose. That wasn’t it. Something was leaking, from somewhere deeper. Much deeper.*
+_It was all wrong. Something was leaking. She wiped a crimson dribble from beneath her nose. That wasn’t it. Something was leaking, from somewhere deeper. Much deeper._
 
 On the surface opposite the cosmos, the barrier borders the deep. This expanse serves as a foil to the cosmos above, existing as a tumultuous, ever-warping mass. The deep is, by nature, incomprehensible. Directly below the anchor, at exactly the same (inverted) height as the cosmic engine, sits the deepheart. Less construct, and more a singularity of entropy, the deepheart serves as the eternal source of chaos from which all of the deep draws.
-
-  
 
 ## 1.2  The First Denizens of the World
 
@@ -165,33 +147,31 @@ Even the simplest primordial carries in it an intelligence and an unwavering dir
 
 #### Living Lands
 
-*There are kingdoms below you*
+_There are kingdoms below you_
 
-*That you cannot see*
+_That you cannot see_
 
-*There are beings beneath your feet*
+_There are beings beneath your feet_
 
-*That will outlive your empires*
+_That will outlive your empires_
 
-*You live on a shell*
+_You live on a shell_
 
-*Of a world much vaster*
+_Of a world much vaster_
 
-*Of the world under the barrier's surface*
+_Of the world under the barrier's surface_
 
-*A poem of non-Archian origin, roughly translated by imperial academics*
+_A poem of non-Archian origin, roughly translated by imperial academics_
 
 Every slab of earth on the barrier is a living primordial, though these ancient beings tend to be quiet and passive. In the earliest ages of the barrier, they settled into their spots and contently resigned to a mostly-stationery life as living ferries for the land-based primordials of the barrier, or great reefs for the aquatic. From the surface of the barrier to the deepest depths, these slumbering giants served as footholds for nearly every other primordial.
 
 Younger lands that still drift towards their eventual home can be found further from the anchor, where the seas are less crowded. They tend to attract similarly young and adventurous primordials, and act as a kind of nursery, rearing new guardians for the further reaches of the barrier.
 
-  
-
 #### Primordial Lifecycles and Primordial Hearts
 
-*A young hunter hummed idly as he cut the heart from the stony flesh of his quarry. The small, softly glowing pebble he now held in his hands would easily pay this season’s rent. He rolled it through his fingers, guessing at the price it would fetch. Briefly, the hunter felt some tenuous connection to a consciousness much older than the world he know. An ancient, foreign wave of somberness washed over him and soaked into his mind.*
+_A young hunter hummed idly as he cut the heart from the stony flesh of his quarry. The small, softly glowing pebble he now held in his hands would easily pay this season’s rent. He rolled it through his fingers, guessing at the price it would fetch. Briefly, the hunter felt some tenuous connection to a consciousness much older than the world he know. An ancient, foreign wave of somberness washed over him and soaked into his mind._
 
-*He quickly stowed the heart and cleared his head with a few shakes. He had tracking to get back to.*
+_He quickly stowed the heart and cleared his head with a few shakes. He had tracking to get back to._
 
 Primordials require no outside sustenance to live, instead gaining their energy from their primordials hearts. These hearts are glass-like shards found deep within each primordial, and they can be split or merged as primordials shed smaller, fledgling primordials or consume one another. The sentience of a primordial is contained within its heart, the single stone housing all of a primordial’s intelligence and memories. It also encodes the primordial’s structure and function in a crystalline genetic code.
 
@@ -203,17 +183,15 @@ In their natural state, primordial hearts are gray stones that glow dully. Their
 
 #### Deific Primordials
 
-*Rain fell upon him like perlim lances from the heavens, cooling his singed flesh. He'd seen stars die. Just fall, right out of the fucking sky. But nothing compared to this.
+\*Rain fell upon him like perlim lances from the heavens, cooling his singed flesh. He'd seen stars die. Just fall, right out of the fucking sky. But nothing compared to this.
 
-*In front of the old sailor floated the corpse of a god. A great, still leviathan shimmering in the downpour. The only visible mark upon its limp body was a titanic gash, still smoldering around the edges.*
+_In front of the old sailor floated the corpse of a god. A great, still leviathan shimmering in the downpour. The only visible mark upon its limp body was a titanic gash, still smoldering around the edges._
 
-*Back in safe harbors, the sailor sat amongst old friends. Since his return, he'd been drowned in inquiries about his journey to the unlit seas, and how much those valiants paid him to travel there. He had no answers for them, just an empty gaze and a broken mind.*
+_Back in safe harbors, the sailor sat amongst old friends. Since his return, he'd been drowned in inquiries about his journey to the unlit seas, and how much those valiants paid him to travel there. He had no answers for them, just an empty gaze and a broken mind._
 
 In the age of primordials, the barrier was ruled by hulking titans and ancient leviathans. These beings were intelligent beyond comprehensions, and their powers rivalled that of even the grandest of the cosmos’ stars.
 
 The titans of old were massive beings, large enough to stand upon the singularity plane as they waded across the world. Their aquatic equals, the leviathans, were smaller and more cunning. These rulers of the depths had the unique ability to cross the singularity plane, a skill they employed in order to hunts the dregs of chaos that assaulted the deep-facing barrier.
-
-  
 
 #### Primordial Categories
 
@@ -226,75 +204,7 @@ As most primordials exist as shards of some prime primordial, groups of them sha
 | **Ruav**                | Ruav are large six-legged beasts with incredible endurance and a mild temperament. Much larger and more intelligent than any beast, they are one of the few primordials that protect their territory passively. They will freely allow almost anything into their realms as long as a rough balance is maintained, and nothing threatens them. Their impressive size and heavy bone plating are usually mor than enough to ward off any would-be adversaries.<br><br>Very rarely, Ruav are used as pack beasts by large caravans. This can be a willing, symbiotic relationship between the primordial and the people handling it, but just as often the massive, lumbering primordials are captured and forced into servitude.<br><br>When forced into combat, ruav are able to stand their ground against overwhelming odds.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **Scoloa**              | Every spelunker and delver fears these armored primordial horrors. Scoloa have long segmented bodies resembling an arthropod. Each segment is covered in a heavy metallic carapace. Their head is fairly nondescript, save for the collection of razors at its end. Arguably more dangerous than their razor-tipped head are their spear-like legs, capable of puncturing heavy armor with ease.<br><br>Scoloa exist in underground hives, expanding existing cave systems with their drill-like maws. They are eusocial creatures, and communicate telepathically with each other, to form complex communities within their hives.<br><br>Though the swarm tactics utilized by scoloa may seem simple, the swarm directs itself with purpose of utilizing choke points and control objective locations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Nnelidae**            | Considered one of the most revolting primordial beasts, Nnelidae have a long, black, worm-like body that peels back towards the head to reveal a massive maw bearing eight needle-pointed appendages that it uses to manipulate its surroundings. At the center of the appendages is a collection of eyes protected by countless teeth-like blades that ward off any blows targeting the creature’s only weak point.<br><br>Nnelidae live in small, closely-knit families and maintain sprawling territories that span underground tunnels and beautifully maintained subterranean biospheres. They coordinate amongst each other telepathically, working to maintain their homes, which they take great pride in.<br><br>The saliva of a Nnelidae acts as an anti-coagulant, causing its victims to bleed out terrifyingly quickly. While this weapon was originally developed to counter the self-repairing fluids used by cosmics, it’s equally effective against other biological beings. The primary goal of these primordials is to ensure that any being they come across does not survive the encounter, and thus cannot relay to anything else the location of the nnelidae’s home. They keep their spear-like arms constantly coasted in their saliva, and even a scratch can result in a dangerous amount of blood loss.<br><br>In combat, nnelidae will strategically cede ground in order to set up traps and ambushes at chokepoints, all while their enemies continually bleed out. |
-| **Cultra**              | Cultra are massive predators with two pairs of powerful hind legs and a single pair of agile front legs tipped with deadly claws. Their coarse fur coat is jet-black, and they are primarily active during the night. They are among the most intelligent primordials, rivalling even the ancient simulacrum. They communicate exclusively via telepathy, which they are adept enough at reading the thoughts of even unwilling creatures.<br><br>Cultra are one of the few nomadic primordials. They travel across entire continents in small families, culling problematic creatures and maintaining balance where they can. Other primordials tend to leave Cultra alone. In certain rare cases, Cultra may ally themselves with individual people who share their goal.<br><br>In combat, cultra are capable generalists that utilize advanced strategies to ensure victory.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-
-  
-
-### Clockwork Cosmics
-
-The denizens of the cosmos are beings of pure order. Every cosmic being has their place in the hierarchy of the celestial machine, and it is within their very nature to follow this hierarchy perfectly. These beings never leave the cosmos, eternally tending to their constructs far above the barrier. They are, however, regularly decommissioned (with the exception of the cosmic engine) and replaced with a perfect copy. The decommissioned cosmic is discarded onto the barrier, where it’s left to the mercy of the local primordials.
-
-There are three classes of cosmics within the cosmic hierarchy. Each entity within a hierarchy is identical but serves their own unique process. The combined activity of all of the cosmics and they cosmic machine creates the cosmos, and it cannot exist unless every piece is perfectly in place.
-
-#### Servitors
-
-Servitors are the most numerable cosmic. They carry out the simple, eternal tasks required to keep the cosmos in proper order. They tend to machines and are the class of cosmics that carries out decommissioning, sending both their scrap and their brethren careening into the glassy seas below.
-
-Servitors are the most common caste of cosmics to find on the barrier. They are made to be simple and replaceable, as their work causes great wear on their bodies. Fortunately for the people and primordials of the barrier, these beings are rarely combat-capable, and are usually completely disabled by the time they make contact with the barrier.
-
-#### Engineers
-
-Working alongside the servitors are the engineers. These cosmics construct the cosmic machines that dot the skies. They direct the servitor’s maintenance and are constantly constructing replacements for both cosmics and machines.
-
-Engineers are decommissioned much less than servitors, as they do very little physical work and their bodies can last for thousands of years before needing to be replaced. If a decommissioned engineer survives the fall to the barrier, it becomes a high-priority target for primordials in the area. If left alone for too long, even a partially active engineer can quickly construct faulty cosmic machines that pose an extreme threat to the barrier.
-
-  
-
-#### Wardens
-
-*“Power to engines increased. Weapons systems offline.”*
-
-*Higher, faster, and further than ever before.*
-
-*“Power to Engines increased. Life support systems offline.”*
-
-*Ribs cracked and visions blurred; the edge of the cosmos loomed.*
-
-*“Engines offline. Total system failure.”*
-
-*The wardens would not stand for it.*
-
-The cosmic wardens are external sensors for the cosmos. They watch the barrier below for any signs of deep intrusions, and facilitate corrections when necessary.
-
-Wardens only require decommissioning after enacting a correction, the extreme release of energy reducing them to little more than a singed husk. Because of this, it is exceedingly rare for a warden to be sent to the barrier. And, when they are, they are almost always entirely disabled. If one were to fall to the barrier with even a fraction of its capabilities intact, it would be a deadly time bomb that could rival the power of the greatest weapons that exist on the barrier.
-
-#### Cosmic Machines
-
-The cosmos is populated chiefly of cosmic machines, serviced by the cosmic beings that inhabit the realm. These machines are made of exotic materials weaved from pure energy by cosmic engineers. Most of the stars visible in the night sky are these cosmic machines, with the greatest among them being the cosmic engine that acts as both the sun and the moon to the barrier.
-
-All cosmic machines, with the cosmic engine being the only exception, eventually suffer from wear and must be decommissioned by the cosmic servitors. Working in tandem with the servitors, cosmic engineers construct exactly-matching replacements. The perfect harmony of cosmic beings allows cosmic machines to be replaced with impossible efficiency, allowing perfectly continuous operation.
-
-#### Notable Cosmics
-
-To the people of the barrier, the cosmos is an effective timepiece. Some of the most useful and most visible cosmic entities have been named by the people of the barrier, and are widely used by navigators, oftentimes being more reliable than modern navigation technologies.
-
-Astida is one of the most prominent stars in the sky, and is one of the only stars that can be seen during the daytime. It circles Soluna counter-clockwise at a much further distance than Metora, orbiting at a much faster speed. It finishes a rotation every seven days, starting and ending to the north of Soluna.
-
-Caeda is a large, pulsating star that sits outside the orbit of Astida to the east, opposite of Felda. While it can be seen faintly during the day, it requires special instruments or an especially astute observer to make out the pulses while the cosmic engine burns. It pulses regularly, with a period of exactly one hour, being at its brightest at the beginning of a new hour.
-
-Soluna is a hue-shifting chromatic star permanently situated to the west of the cosmic engine, just outside of Astida’s orbit. It slowly shifts its hues through the visible spectrum, completing a full cycle from red to violet every 10 years.
-
-The smaller twin star to Nada, Kada rotates around Soluna at an extreme angular velocity. It completes a full rotation, starting its twin star at the south, every 24 hours. Since it can only be seen during the night, it is often used to determine the time until daybreak. Similar to Metora, Kada is a warden rather than a cosmic machine. It watches the unlit seas vigilantly, one of the few wardens watching for threats other than the deep.
-
-Lyrda is the furthest cosmic entity from the cosmic engine. It’s a small, dim star that slowly rotates clockwise around the cosmic engine, barely visible on the night sky’s horizon line. It completes its cycle once every 1000 years, and is rumored by the denizens of the Barrier to mark the edge of the lit world, and the inner boundary of the unlit seas.
-
-Metora is a small, sparkling star that patrols the inner cosmos in a tight path around Soluna. This star, a cosmic warden rather than a celestial machine. Due to its proximity to Soluna and the massive amount of energy available to it, it acts as a last resort against intrusions. A blast from Metora could scorch an area thousands of miles across.
-
-The larger of the two twin stars, Nada sits stationary far to the south of the cosmic engine, near the edge of the far seas. This star is often used by sailors and travelers to determine bearing, though it can only be seen during the night.
-
-The sun and the moon are the same cosmic engine, referred to as a singular Soluna by academics. Its properties change as it undergoes periods of heating and cooling, and the energy it sheds fuel almost all life on the barrier.
-
-Known commonly as the sentinel star, Zenda is the only star that does not have a predetermined path through the night sky. It is the subject of extensive study by astronomers, who are perplexed by its uncharacteristic behavior. this star is a specialized cosmic warden that actively positions itself above deep intrusions, and is naturally one of the most active wardens in terms of corrections enacted.
+| **Cultra**              | Cultra are massive predators with two pairs of powerful hind legs and a single pair of agile front legs tipped with deadly claws. Their coarse fur coat is jet-black, and they are primarily active during the night. They are among the most intelligent primordials, rivalling even the ancient simulacrum. They communicate exclusively via telepathy, which they are adept enough at reading the thoughts of even unwilling creatures.<br><br>Cultra are one of the few nomadic primordials. They travel across entire continents in small families, culling problematic creatures and maintaining balance where they can. Other primordials tend to leave Cultra alone. In certain rare cases, Cultra may ally themselves with individual people who share their goal.<br><br>In combat, cultra are capable generalists that utilize advanced strategies to ensure victory.
 
 #### Cosmic Corrections
 
@@ -310,8 +220,6 @@ Starfalls vary greatly in size: from a dozen objects falling over the course of 
 
 Most starfalls occur harmlessly over large stretches of ocean, but a starfall over a populated area can turn cities to ruins overnight. The cosmic beings and engines that survive the fall will quickly begin disassembling the surrounding area, constructing a more orderly realm around themselves. This is usually to the detriment of anything that might’ve been there previously. Left unchallenged, cosmics are capable of creating a veritable cosmic fortress that is extremely hostile to any creatures native to the barrier.
 
-  
-
 ### Dregs of the Deep
 
 The infinite chaos of the deep is capable of birthing impossible, indescribable horrors. These entities are known across the barrier as dregs, incomprehensible harbingers of chaos.
@@ -320,7 +228,7 @@ Dregs only exist outside of the deep, as the entropic energies and masses of the
 
 #### Incursions
 
-*The world bent away from me for a moment, space and time adjusting as if perturbed by some rolling force. When it passed, I found myself some miles off of the trail I was hiking, in an unfamiliar part of the hills.*
+_The world bent away from me for a moment, space and time adjusting as if perturbed by some rolling force. When it passed, I found myself some miles off of the trail I was hiking, in an unfamiliar part of the hills._
 
 Occasionally, the chaos of the deep bubbles up into the upper barrier, evading the leviathans below. These events, known as incursions, range from minor and harmless phenomena to self-sustaining engines of tragedy.
 
@@ -333,8 +241,6 @@ Major incursions are rare and catastrophic. They almost always begin with a larg
 After the initial blast, dregs begin to manifest near the point of incursion. These invaders, when not slaughtering each other, are a threat not only to the people around the incursion, but the structures and land itself as they ooze the chaotic energies of the deep.
 
 Major incursions can last anywhere from a day to years, with some able to subsist indefinitely. The most reliable way to close an incursion is to destroy it with a sufficient amount of energy, which usually means sending a team of explosive experts on a suicide mission through hordes of dregs. If left unchecked for too long, the cosmos will take matter into its own hands, at the cost of everything with several hundred miles of the incursion.
-
-  
 
 #### Deep-Touched Creatures and Abominations
 
@@ -362,8 +268,6 @@ The feminine aspect, as defined by the architect, is cold, pensive, and logical.
 
 When balanced with the masculine aspect, femininity is gentle and wise. It is generally associated with lithe shapes and sharp edges.
 
-  
-
 # 2    The Making of the Modern World
 
 After uncountable eons of watching the three planes interact, the architect noted that the world was decaying. This slow, drawn-out ruin of entropy would eventually see the end of its project. The architect was, however, largely unconcerned with this fated collapse. It had grown tired of the eternal, unchanging cycle its creation had fallen into. Instead, it sought only to make these last few ages more interesting.
@@ -389,7 +293,6 @@ Beyond the dominance that Tekka gave to the council, her children acted as the w
 Ithia, the Gray Titan, was the second primordial to join the council. Ithia was unlike Tekka in that it was not a singular entity, but a hivemind consisting of nearly every slab of earth suspended in the barrier. As Tekka’s children relied heavily on Ithia’s very flesh for shelter, the Mother of Beasts petitioned the first child to include Ithia on the council. Fortunately for Tekka, it was rather easy to convince the first child that the living earth itself be included on the council of primordials.
 
 With the very lands that constituted the barrier in on the architect’s grand project, the first child continued its task with a bolstered confidence.
- 
 
 #### Be’khan, the Elder Moss
 
@@ -431,33 +334,31 @@ Unlike the first child, the second child had no set expiration. It would eternal
 
 Though the second child was eternal, its power was not infinite. There are beings on the edges of the barrier that it could not slay, only deter. Among these larger-than-life leviathans and mind-bending abyssal minds existed entities such as the Pallid Mother, Weaver of the Pale Lands, and the inscrutable Outer Child of the Deep. These beings were gods in their own right, imposing entirely new realities onto the surface of the barrier. They operated far from the eyes of the council, the light of the cosmos, or even the corruption of the deep.
 
-  
-
 ### The Third Child of the Architect and the Dawn of Free Will
 
 The third and final of the architect’s children descended into a perfect canvas, carefully prepared by its two siblings. It began its work immediately, employing the council’s aid in what would be the most arduous task in this grand plan.
 
 #### The Third Child’s Custodians
 
->>*There is nothing here for you.*
+> > _There is nothing here for you._
 
-> *There is nothing here for any of us.*
+> _There is nothing here for any of us._
 
-> *Is there anything here at all?*
+> _Is there anything here at all?_
 
-*Ages passed, and the two custodians pondered their fate.*
+_Ages passed, and the two custodians pondered their fate._
 
->> *There is nothing here for you.*
+> > _There is nothing here for you._
 
-> *Then I will leave.*
+> _Then I will leave._
 
->> *There is nowhere for you to go.*
+> > _There is nowhere for you to go._
 
-> *Then I will stay.*
+> _Then I will stay._
 
->> *There is nothing here for you.*
+> > _There is nothing here for you._
 
-*The weight of eons grew unbearable, and the two custodians stayed their fate.*
+_The weight of eons grew unbearable, and the two custodians stayed their fate._
 
 The council of primordials and the creatures that served them would not be enough to enact the third child’s visions, so it created a host of custodians that acted as an extension of itself.
 
@@ -468,8 +369,6 @@ Working the forges of creation, and directed by the administrators, were the exa
 The last class of custodian, the humble recorder, were smaller and less numerous than the exalted. These creatures acted as the eyes of the third child, with nimble forms, sharp senses, and perfect recall. Though relatively few in number, they managed to keep tabs on nearly every significant corner of the barrier.
 
 All custodians, with no exception, were hand-built the third child, and given a unique name upon creation that embodied their existence.
-
-  
 
 #### Ithia Prime
 
@@ -493,25 +392,23 @@ To fulfill its prime directive, the third child looked to the deep. It was initi
 
 Though the first legions of depthborne were slight, numbering only in the thousands, they immediately broke form the third child’s will and began sowing chaos throughout the barrier. Unable to track them, the third child dispersed them indiscriminately to the far corners of the barrier so it could continue with more promising experiments.
 
-  
-
 #### The Simulacrum Project
 
-*AN_OPEN_DOOR*
+_AN_OPEN_DOOR_
 
-*A_SHARED_THOUGHT*
+_A_SHARED_THOUGHT_
 
-*THE_LAST_OF_THEM*
+_THE_LAST_OF_THEM_
 
-*LINGERING_AT_THE_END*
+_LINGERING_AT_THE_END_
 
-*WHERE_IT_WAS_LEFT*
+_WHERE_IT_WAS_LEFT_
 
-*HER_LIGHT_FROM_DYING_STARS*
+_HER_LIGHT_FROM_DYING_STARS_
 
-*A_CALL_ANSWERED*
+_A_CALL_ANSWERED_
 
-*From a genesis forge repository of local active simulacra, decoded by Carthian artificers*
+_From a genesis forge repository of local active simulacra, decoded by Carthian artificers_
 
 After ending the Depthborne project, the third child labored tirelessly in the genesis forges alongside the administrators and the exalted. After thousands of cosmic cycles, it had devised something that it was nearly content with: the simulacrum. Unlike the other creatures built in these forges, the simulacra were inorganic, inspired by the cosmics above. They resembled the custodians, with hydraulic muscles and arteries pumping a black, oily lifeforce. They were, viable prototypes and hardy enough for the third child’s experimentations. These beings, the simulacra, served as a testing platform and were used to refine the consciousness birthed by the third child.
 
@@ -526,8 +423,6 @@ Learning from its mistake with the depthborne, the third child resumed its role 
 #### The Creation of the Archians
 
 With the mind of the penultimate simulacra perfected, the third child began work on its crowning achievement. It devised an organic analog to the simulacra’s mechanical mind, and streamlined their form. It took note of the simulacra’s cumulative strength via complementing abilities, and how their flaws only drove them to higher ambitions.
-
-  
 
 When the third child finished its fevered, cycles-long design, it emerged with the first people of the barrier. These bipeds were smaller than simulacra, with only two arms and much more vulnerable bodies. Their sensory methods were more organic, with their heads hosting all manner of intricate organs. Instead of the innate psychic communication used by the primordials, custodians, and simulacra, they would communicate through gestures and noises, not unlike the simple beasts they would live alongside.
 
@@ -555,8 +450,6 @@ The third child’s right hand, like the left, was built in remembrance of the t
 
 The left and right hands of the third child appear only occasionally in the history of the barrier, always in slightly different forms, and always when the third child’s eternal project is in jeopardy.
 
-  
-
 ## 2.2  The Archian Lineages
 
 The third child had devised seven distinct lineages that it would seed on four different island continents in the central seas. To each group, it gave a gift: the name of Archian.
@@ -567,9 +460,9 @@ As the original tribes grew in number, they inevitably splintered. Internal conf
 
 ### Universal Potential
 
-*He rounded the bend, muscles crackling with arcane energy and tendons straining far beyond their natural limits. There were three others a few yards ahead of him, blocking his way forward. Time slowed as his eyes dashed from side to side, and he saw it: a slight gap in the left flank. I small opening, sure, but it was all he had. There was no other way but forward.*
+_He rounded the bend, muscles crackling with arcane energy and tendons straining far beyond their natural limits. There were three others a few yards ahead of him, blocking his way forward. Time slowed as his eyes dashed from side to side, and he saw it: a slight gap in the left flank. I small opening, sure, but it was all he had. There was no other way but forward._
 
-*His ears rang as he crossed the tape, unable to hear the cheering crowd over the pounding of his own heart.*
+_His ears rang as he crossed the tape, unable to hear the cheering crowd over the pounding of his own heart._
 
 The final form of the Archian, as wrought by the third child, was apparently meeker than its other works. These creatures, however, traded outright prowess for a near-limitless potential. While most Archians would be relegated to simple, menial lives, the greatest among them would rival even the original inhabitants of the world.
 
@@ -580,8 +473,6 @@ The body of an Archian is laced with arcane potential. While the average person 
 #### Weaponized Minds
 
 As exemplified by modern arcanists, an Archian’s mind is a powerful and dangerous tool when honed properly. The arcane-charged neurons of a well-trained brain are capable of much more than abstract thought, and allow an arcanist to enact their will directly onto the world around them. Master arcanists can generate and wield tremendous amounts of arcane energy, rivalling the destructive power of conventional ordnance.
-
-  
 
 ### Distortion of the Foundational Aspects
 
@@ -606,8 +497,6 @@ Cossim don’t age beyond adulthood and are biologically immortal. However, the 
 Inherently, Cossim are a vagrant people and have no history or language to call their own. The spontaneous circumstance of their existence drives many Cossim to solitude, where they may be lucky to meet another of their own kind. Coupled with their inability to have any children of their own, it is almost entirely unheard of for a Cossim to settle in a single place for more than a few years.
 
 Naturally, there are no traditional Cossim names. Cossim are sometimes named after the lineage of their parents, in the same way an ordinary child would be. More often, however, the parents of a Cossim will give the child a less standard name. These range from bastardizations of names from lineages exotic to the parents to abstract concepts. Some Cossim cast off their given names in adulthood, with some going as far as to live a different name in every new land they wander into.
-
-  
 
 ### Girt
 
@@ -637,8 +526,6 @@ Culturally, the original Girt were a proper people, bordering on pretentious. So
 
 The solution to this was the Vichi, a pocket of unleavened bread stuffed with preserved fruits and vegetables and dried meats. It was seen as a clean and proper way to eat a meal without dirtying one’s hands, and before long was spread across the barrier by maritime travelers.
 
-  
-
 ### Derge
 
 The original home of the stoic Derge was the northern mountain ranges of Uthren. In this freezing realm, the powerful bodies of the Derge were hardened, and their minds steeled. In spite of their short lifespans, they conquered their homeland and bent the cold stone to their will.
@@ -663,8 +550,6 @@ After the calamity that destroyed their home, most Derge clans left Uthren in se
 
 The Derge language is harsh and guttural, with each clan developing slightly different dialects. Derge names follow the natural patterns of their language, being likewise harsh and short and devised to be spoken in shouts and cries. Derge also bear clan names, which are longer names used to invoke the spirit and specialties of the clan, such as Allseer, Earthbreaker, Stonefist, or Stormcaller.
 
-  
-
 ### Hjark
 
 Sturdy and industrious, the Hjark were built to convert raw, earthly resources into wondrous and awe-inspiring constructs. The first Hjark were appropriately nestled into the south-central mountains of Shalica, where there was an abundance of natural resources.
@@ -683,8 +568,6 @@ As the Hjark begun exploring the seas around their home, the Selk of Sunspire ar
 
 By the time the Girt of Brine had arrived on Shalica and allied with the Hjark, the latter had industrialized their society and recently begun utilizing the power of steam and electricity to further mechanize. The works wrought by Hjark engineers rivalled the arcane technologies of the Selk of Sunspire, now guided more carefully under their celestial orders. While the Hjark were unconcerned with the technological competition, the Girt saw this as an opportunity to rival the Selk, who were unreceptive to Girt alliances. Thus, the matrimony of Girt ambitions and Hjark ingenuity birthed the alliance that would one day become the Brineflame Empire.
 
-  
-
 #### Robust Complexity
 
 The complexity of the Hjark’s machinations are reflected in their culture. Every individual in Hjark society acts as a component to a complicated machine. When the components of this societal machine work together in harmony, and they often do, Hjark are capable of accomplishing great feats of industry.
@@ -698,8 +581,6 @@ The Hjark language, like Hjark society, is fairly complex, utilizing base words 
 One of the greatest (and only) cultural exports of the original Hjark society is kyorshchyorv, a simple cuisine with variations found across the modern barrier. At its simplest, kyorshchyorv is a wedged tuber topped with various dressings. It was practical, hearty, and comforting, reflecting those who created it.
 
 However, as the cuisine spread and specialized, local peoples began devising more extravagant and unique forms of kyorshchyorv. It’s common to see street vendors peddling tremendous, unwieldly mounds of kyorshchyorv to tourists on busy city streets across the barrier.
-
-  
 
 ### Ingra
 
@@ -722,8 +603,6 @@ Due to their passive nature in regard to diplomacy, they often found themselves 
 The Ingra language incorporates many flourishes and body language that can be difficult to interpret by non-native speakers. Traditionally, the written language includes an almost excessive amount of improvised decoration, with each character a piece of art in and of itself. This does, however, make traditional Ingra literature difficult to read even for native speakers.
 
 As children, Ingra are almost always referred to by various nicknames. When they come of age, Ingra choose their own name. These chosen names vary wildly in style in structure, acting as a reflection of the person it labels. Among lifelong friends, Ingra may continue the user of their childhood nicknames, though in improper contexts the usage of such names may be insulting.
-
-  
 
 ### Marr
 
@@ -751,8 +630,6 @@ The Marr tongue is plain, relying heavily on body language and inflection. Non-s
 
 Marr names are as plain as their language. They rarely consist of more than a few syllables, and are easy to pronounce and remember. Marr surnames are fairly fluid, and don’t always denote family ties. These surnames are usually associated with a profession, or other notable constant in a Marr or an immediate family of Marr.
 
-  
-
 ### Selk
 
 The Selk were placed alone on the lush, mountainous continent that they would eventually come to call Sunspire. This temperate land basked in the golden rays of the cosmic engine, and was exceedingly hospitable to the fragile Selk. It was here that the great minds of these people were put to work, and their natural talent for the arcane was refined.
@@ -773,8 +650,6 @@ After many centuries on Shalica, the Selk unearthed evidence of the Shalica gene
 
 With this catastrophic failure, most Selk that still considered themselves part of the original Selk collective retreated back to Sunspire. There, Selk leaders established a new order that gave birth to the modern civilization of Sunspire. This new governance oversaw all aspects of Sunspire society to ensure that the mistakes of the past would not be repeated.
 
-  
-
 #### Roles and Hierarchies
 
 Selk society is based primarily on three roles, similar to more traditional gender roles found in other cultures. Moon Selk acted as gentle caretakers, sun Selk were stalwart defenders of Sunspire, and Selk of the eldest star were seen as outcasts and practiced fringe sciences only barely tolerated by the other roles. Within each role, individuals progress solely based on their capabilities. Since familial ties are all but disregarded when Selk reach adulthood, each individual must stand on their own merit.
@@ -782,8 +657,6 @@ Selk society is based primarily on three roles, similar to more traditional gend
 The Selk tongue is prohibitively difficult to learn, being made of tens of thousands of complex symbols, all with a very specific meanings.
 
 Selk are given a simple name at birth, and are given a more complex adult name by their peers when they are deemed an adult, which is based on their first notable accomplishment. A Selk’s name can change as they age, reflecting greater and greater accomplishments and becoming increasingly complex. One of the premier desires of a Selk is to end their lives with a grandiose name
-
-  
 
 ### Vyld
 
@@ -808,8 +681,6 @@ The Vyld tongue is simple, with the naturally empathetic Vyld traditionally comm
 Traditionally, Vyld are given a simple birth name that serves as a plain description, often invoking the most obvious physical features of the individual. As a Vyld grows into adulthood, their names are modified based on their personalities or accomplishments. Aged, accomplished Vyld can have excessively long names that act as their legacy.
 
 Among friends, Vyld tend to use simpler forms of their names. However, in more formal settings, it is considered respectful to refer to Vyld as their full, earned names.
-
-  
 
 ### The Cardinal Lands of the Central Seas
 
@@ -841,11 +712,9 @@ During the age of the third child, there existed a land wrapped around the base 
 
 Understanding the mind-shattering knowledge contained within this land, the third child sundered the land and cast it to the far seas before the projects ended, where fragments of the once-proud primordial now float aimless and abandoned.
 
-  
-
 ## 2.3  The Era of Civilization
 
-*A woman meandered through thin alleys shimmering in blues and purples. She’d just finished a late shift, an held her coat tightly to herself as she scurried home through empty streets. This part of town was relatively quiet this deep into the night, cut subtly by the muted sounds of song and drink from a dingy pub. She chanced a quick stop inside to warm up, promising herself that she wouldn’t spend too much.*
+_A woman meandered through thin alleys shimmering in blues and purples. She’d just finished a late shift, an held her coat tightly to herself as she scurried home through empty streets. This part of town was relatively quiet this deep into the night, cut subtly by the muted sounds of song and drink from a dingy pub. She chanced a quick stop inside to warm up, promising herself that she wouldn’t spend too much._
 
 The modern barrier, as it exists roughly 8,000 years after the dawn of the Archians, is vastly different from its ancient state. Whole continents have rearranged, and all manner of newly wrought life makes its home on the lands that dot the oceans. Dwarfing all of these monumental changes, however, is the crowned accomplishment of the third child: the Archians. As a collective, Archians have completely altered the seas in only a few thousand years, with their progress only accelerating over time.
 
@@ -867,8 +736,6 @@ There are other systems of currency throughout the seas, but nearly everyone has
 
 Predictably, the general scarcity of resources affected the lowest rungs of society more than any other. Common Archians traded their time for coin in the form of labor. This transaction has been tightly tuned by governments and corporations, covering the basic necessities to workers while extracting as much value as possible from each individual. While this system has many critics across the barrier, proponents argue that any less efficient system would not support modern society’s needs. This explanation, however, fails to account for the luxury lived in by the wealthy elite.
 
-  
-
 ### The Life of the Modern Archian
 
 On the barrier face exposed to the deep, there are few constants. The physical properties of one’s world can change subtly on a daily basis. On the other face, however, prevailing order makes long-term development much more feasible. There are several boons conferred onto this barrier face by both the natural order of the cosmos above, and the controlled trickle of chaos form the deep below.
@@ -883,17 +750,15 @@ These capabilities, however, are not without their consequences. Archians that d
 
 #### Modern Locomotion
 
-*I stood on the platform, staring into the threshold before me. Getting this far was no easy task, and I wondered about some alternative me that stayed here. Are they better or worse off for it? They’re probably skipping lunch again right now. I hope they’ll be alright.*
+_I stood on the platform, staring into the threshold before me. Getting this far was no easy task, and I wondered about some alternative me that stayed here. Are they better or worse off for it? They’re probably skipping lunch again right now. I hope they’ll be alright._
 
-*“Train’s gotta leave in two minutes kid, you stayin’ or leavin’?”*
+_“Train’s gotta leave in two minutes kid, you stayin’ or leavin’?”_
 
 In developed regions of the barrier, getting from one place to another tends to be simple and quick. High-speed trains send goods and people across continents in mere hours, with the most advanced arcane engines capable of travelling and hundreds of miles per hour. In cities and towns, slower tram systems move people about both over and underground, freeing city streets up for pedestrians and personal motor vehicles.
 
 On the seas, massive ships make intercontinental logistics possible. Crews and goods are constantly sent across the central and near seas, often utilizing trade protected routes to avoid becoming a meal for a wandering leviathan.
 
 Above the barrier, in the skies reaching towards the cosmos, aeroplanes survey the lands and oceans below. While there are few passenger plane services, private pilots will often offer trips across the sea at steep prices. Sharing the airspace with these private pilots are military craft, including experimental projects such as Sunspire’s faster-than-sound arcjets.
-
-  
 
 ### Keeping Time on the Barrier
 
@@ -915,8 +780,6 @@ The most commonly used calendar across the barrier is the Imperial Calendar, whi
 
 The Imperial Calendar standardized the breakdown of cosmic cycles into seasons, weeks, and days. Other calendars exist across the barrier, but none are as widely adopted as the Imperial Calendar.
 
-  
-
 #### Bearings in Time and Space
 
 There are a collection of stars, some even visible during the day, that orbit the cosmic engine with intervals dictating every moment of the cosmic cycle. Using extremely precise instruments, it is possible to use the current position of these stars to locate oneself exactly in time and space. A learned astronomer or experienced traveler with the right tools and a clear view of the night sky can determine the current time along with their position on the barrier with startling precision.
@@ -925,23 +788,21 @@ Simpler instruments exist to quickly give the time along with one’s rough bear
 
 ### Mobility via Valiancy
 
-*"I'm tired, Pike…"*
+_"I'm tired, Pike…"_
 
-*A large, sweaty man looked up from a smoking engine block. The scars crisscrossing his sun-kissed skin caught the day's last rays of light. He sighed at the woman. Her tangled hair and blood-stained suit blew lazily in the soft breeze.*
+_A large, sweaty man looked up from a smoking engine block. The scars crisscrossing his sun-kissed skin caught the day's last rays of light. He sighed at the woman. Her tangled hair and blood-stained suit blew lazily in the soft breeze._
 
-*"You can be tired later, right now we have to move. Truck's not startin' and we have another ten miles to go before dark'."*
+_"You can be tired later, right now we have to move. Truck's not startin' and we have another ten miles to go before dark'."_
 
-*The man began moving to the back of the truck, towards the woman. He stopped at the passenger door, stealing one last glimpse of an old friend, now riddled with holes. He continued to the truck bed, collected their belongings, and turned westward toward the endless coastal highway.*
+_The man began moving to the back of the truck, towards the woman. He stopped at the passenger door, stealing one last glimpse of an old friend, now riddled with holes. He continued to the truck bed, collected their belongings, and turned westward toward the endless coastal highway._
 
-*"Fig's dead, and we'll be too if we stay here. I know I always say this, but this is our last job. Honest this time, please just walk with me."*
+_"Fig's dead, and we'll be too if we stay here. I know I always say this, but this is our last job. Honest this time, please just walk with me."_
 
-*The woman lowered her shoulders with a shaky breath. She looked backwards towards the truck, as if she was expecting something, or someone, to be there. She turned back towards the man.*
+_The woman lowered her shoulders with a shaky breath. She looked backwards towards the truck, as if she was expecting something, or someone, to be there. She turned back towards the man._
 
-*"I'm so fucking tired, Pike."*
+_"I'm so fucking tired, Pike."_
 
 While valiants and their work exist mostly outside of the public eye, they are considered a necessary profession in modern times. To most people, they are considered akin cargo ship crew or civil engineers: many people have never met one and could scarcely say what they do, but society could not properly exist without them
-
-  
 
 #### The Birth of Valiancy
 
@@ -953,13 +814,11 @@ As modern societies congealed, valiants evolved to meet modern needs. They becam
 
 #### The Modern Valiant
 
-*A close call and fading adrenaline brought their battered bodies home*
+_A close call and fading adrenaline brought their battered bodies home_
 
-*A brief exchange of blood and spit lulled their broken minds to sleep*
+_A brief exchange of blood and spit lulled their broken minds to sleep_
 
 When most common folk think of valiants, they will inevitably conjure an image of the rare veteran: a powerful and worldly individual that commands fear and respect. In reality, however, most valiants, are barely more than regular people trying to claw their way out of the rat-race that is their daily lives. Many valiants take on one, maybe two contracts a year in an attempt to supplement their income or cover expenses. Very few will take on more than a few jobs in their lives. Many die, most are scarred physically and mentally, and some got what they wanted out of it and simply have no need to go back to valiancy. Ultimately, very few valiants become career valiants, and even less veteran valiants.
-
-  
 
 ### The Arcane
 
@@ -987,8 +846,6 @@ The world attempts to exert balancing forces on the net amount of arcane energy 
 
 The abundance of arcane energy in the world means that, even with its innate inefficiencies, it finds many practical uses across the barrier. Arcane lights can be powered indefinitely by tiny fragments of primordial hearts, and smaller gadgets and gizmos can operate in the same way without requiring external power sources. Heavy cargo containers are manipulated at ports by massive arcane pylons that exert simple (albeit large) kinetic forces to move good about. More often than not, however, arcane power is harvested and converted to electrical energy, for use in more efficient mundane technologies.
 
-  
-
 #### The Arcane Art of Teleportation
 
 One of the most exotic application of arcane energy is the act of nearly-instantly translocating matter from one location to another. Proper execution of arcane teleportation can move matter across the barrier at light-speeds (the same speed at which arcane energy is maximally able to propagate) without the requirement infrastructure anywhere but the source of the teleportation.
@@ -1007,9 +864,8 @@ Primordial hearts serve as endless wells of tappable energy. Engineers must take
 
 Unfortunately for the entrepreneurial hunters of the barrier, most primordials found near civilizations are little more than embryos in an aging process that takes place on the scale of millennia. Their hearts would keep a few lights on, at best.
 
-  
-
 # 3    The Brineflame Empire
+
 ![[Empire.png]]
 
 Originally an alliance between the Girt of Saphis and the Hjark of Southstar, the Brineflame Empire is the marriage of two masteries. The seafaring Girt’s commercial dominion over the vast oceans, when combined with the industrious Hjark’s mastery over land and forge, created a veritable force that has since expanded across the barrier magnitudes further than any other nation.
@@ -1033,8 +889,6 @@ The city of Saphis, crowned as the jewel of Brine only a few hundred years after
 Then, more than 2,000 years after the Dawn, the Selk-established the colony of Avana in northern Shalica. At this time, the Brineflame Pact had grown to a powerful military alliance. As Avana grew and expanded due to technologies unearthed from Shalica’s genesis forge, relations between Brineflame and Avana strained. These tenuous relations were at their most stressed 1,000 years later, when Avana sat as the capital of a Selk-led nation that spanned Shalica and overshadowed the Pact in every metric.
 
 In response to outbreaks of skirmishes and subterfuge, Avana brought the full weight of its nation upon the Pact. Forces mechanized by advanced arcane tech crushed the Pact’s military forces across the central seas, and the alliance had effectively collapsed under this unbearable weight. However, after nearly 500 years of barely sustained Brineflame resistance Avana was no more. In a single, gross act of hubris, the ambitious Selk had pushed their stolen technology beyond its limits and sunk their capital into the sea.
-
-  
 
 #### The Dark Ages of Brineflame
 
@@ -1060,23 +914,21 @@ Heading a nation of many million subjects is no small task. To accomplish this, 
 
 The empire also established the Brineflame Common tongue and a common currency, tying together disparate lands. The far-reaching influence of the empire means those they seek to assimilate often speak their language and use their coinage long before official diplomatic contact is had.
 
-  
-
 #### The Industrialization of a World
 
-*A grinding mechanical abyss. A single point of failure.*
+_A grinding mechanical abyss. A single point of failure._
 
-*Her lacerated hand tightened around the exposed rebar.*
+_Her lacerated hand tightened around the exposed rebar._
 
-*Another blast. A shake and a slip. A rush of adrenaline.*
+_Another blast. A shake and a slip. A rush of adrenaline._
 
-*She felt for another hold among the debris.*
+_She felt for another hold among the debris._
 
-*A stable protrusion of serrated scrap. A bloody shred of hope.*
+_A stable protrusion of serrated scrap. A bloody shred of hope._
 
-*With one sharp, final breath she reached upwards.*
+_With one sharp, final breath she reached upwards._
 
-*A dimming of sound and light. An end.*
+_A dimming of sound and light. An end._
 
 The technological and societal developments of the Brineflame Empire influenced peoples across the barrier sea, with even Sunspire and Carthia adopting various imperial constructs. Now, all but the most remote corners of the world operate on Brineflame time and trade in Brineflame Tins. Even Carthia and Sunspire reluctantly employ imperial constructs, with the Brineflame tongue acting as the unofficial international language.
 
@@ -1088,15 +940,11 @@ Whether one agrees or not with the empire’s methods, it is undeniable that the
 
 With many of the lands worth taking already under imperial control, the empire has shifted its focus. Now, it spends most of its resources desperately attempting to maintain control. At any given time, there are at least a dozen famines and twice as many rebellions across the vast Brineflame Empire, and even the most comfortable imperial citizen is uncertain of their great nation’s future.
 
-  
-
 #### Figurehead of the Empire
 
 The Brineflame empire maintains a ceremonial head of state role. This emperor or empress has no real power and serves as the face of the council for public relations. Eras of the empire are often defined by their leader at the time, regardless of how responsible they were for the happenings of the time.
 
 When a standing emperor dies or abdicates their position, the council convenes to elect a new one. This new emperor can technically be any imperial citizen but is almost always a retired member of the council. Because of this, the emperor tends to carry a fair bit of political clout.
-
-  
 
 ## 3.2  Imperial Institutions
 
@@ -1114,11 +962,9 @@ The imperial intelligence agents have a simple, if not insurmountably difficult 
 
 Imperial intelligence agents are known for being everywhere rather than the skill of individual agents. Every nation knows they have an infestation, and that they could easily root out dozens of imperial actors given if they just allocated the resources. They also know that, in doing so, they would have achieved little more than drawn the empire’s ire.
 
-  
-
 #### IN, the Imperial Navy
 
-*Sinew tore and bones cracked under a heavy gauntlet as the breaker caught the retreating rebel. Under the powered armor there was, allegedly, a living person. This person, however, felt nothing as they tore an arm from the socket of the screaming rebel fighter. The cries were cut short when the other gauntlet reduce the fighter’s head to a fleshy paste. Without a second thought, the breaker found its next targets: a wounded rebel and a panicking medic tending to them. There was always more work to be done.*
+_Sinew tore and bones cracked under a heavy gauntlet as the breaker caught the retreating rebel. Under the powered armor there was, allegedly, a living person. This person, however, felt nothing as they tore an arm from the socket of the screaming rebel fighter. The cries were cut short when the other gauntlet reduce the fighter’s head to a fleshy paste. Without a second thought, the breaker found its next targets: a wounded rebel and a panicking medic tending to them. There was always more work to be done._
 
 There are no dedicated land forces in the empire. All military activities are carried out by the imperial navy, a force with almost 1,000 ships in service. In addition to long-range sea-to-land weapons and carrier-based aerial forces, the navy employs a seemingly endless swathe of amphibious mechanized troops. While Sunspire and Carthia may boast better technology, there is no force in the world that can outmatch the sheer number of steel-clad marines employed by the imperial navy.
 
@@ -1128,24 +974,21 @@ Most imperial forces are deployed far from the empire, in the near and far seas.
 
 The IN is the only imperial corp legally allowed to hold detainees. It maintains countless military prisons across imperial waters (and allegedly sites outside of its jurisdiction) that hold prisoners of war, domestic terrorists, and all manner of enemies to the state. They often work closely with the II, detaining high-value assets for the intelligence agency.
 
-  
-
 #### IM, the Imperial Medical Department
 
-*“That’s a lotta blood, chief.”*
+_“That’s a lotta blood, chief.”_
 
-*A pale-faced sentinel forced a choked laugh as his partner desperately attempted to plug his wounds. “And I think you missed a few spots…”*
+_A pale-faced sentinel forced a choked laugh as his partner desperately attempted to plug his wounds. “And I think you missed a few spots…”_
 
-*“Fuck off. And keep your eyes open. I’m not wasting supplies on a damned corpse.”*
+_“Fuck off. And keep your eyes open. I’m not wasting supplies on a damned corpse.”_
 
-*A few more feverish moments passed before she realized she was, in fact, wasting supplies on a damned corpse.*
+_A few more feverish moments passed before she realized she was, in fact, wasting supplies on a damned corpse._
 
 Imperials medics receive extensive training and are renowned for their ability to keep Archians alive against the grimmest of odds. They are obviously deployed to battlefields, but are also employed in international disaster relief efforts. These serve to improve international relations, especially with smaller nations that may one day serve as vassals to the growing empire.
 
 In the recent centuries, heads of the IM had begun deploying permanent hospitals in major imperial cities. These hospitals may be freely used by any imperial citizen, and employ the same physicians that are posted on the front lines. While cold, efficient, and largely uncaring, these hospitals have addressed a long-ignored gap in civilian healthcare. Until their deployment, private hospitals, though offering a much more comprehensive and pleasant experience, catered only to the wealthy.
 
 Public IM establishments have immensely increased the quality of life and life span of the average imperial citizen, and have been regarded as an immense success. Even the harshest critics cannot deny the impact they’ve had on the common people, though their existence does blue the line between international relations and internal affairs.
-  
 
 ### Imperial Bureaus
 
@@ -1163,8 +1006,6 @@ The IP, similarly to the IN, has legal allowance to hold prisoners, but only for
 
 The imperial reserve, often simply referred to as the bank of the empire, manages and issues Tins. They are, surprisingly, the least contentious institution of the empire. There is ultimately little to criticize them for. They do their job fairly well, and refrain from the expansions of institutional power that the other corps and bureaus are known for.
 
-  
-
 #### IC, the Imperial Containment Committee
 
 Though technically an internal committee dedicated to the safety and security of imperial citizens, little of publicly known about this committee. This has led to all sorts of conspiracy theories focused on the IC and its true nature, most of which are true.
@@ -1179,17 +1020,15 @@ Much of the success of the Brineflame Empire is due to its robust public educati
 
 The IE covers everything from primary school to university academics, but it’s not the only player in academia. Private colleges and universities boast far more prestige than the public IE schools.
 
-  
-
 ## 3.3  The Lands of the Empire
 
 ### Shalica, the Sundered Land
 
-*A young valiant stared across the blue haze of a valley awash in moonlight. He was maybe twenty, accompanied by another man many years his elder.*
+_A young valiant stared across the blue haze of a valley awash in moonlight. He was maybe twenty, accompanied by another man many years his elder._
 
-*"You know I won't live forever. We've been over this." The older valiant scanned their surroundings, taking note of every shadowed bluff and skittering critter. "I'm heading down now; this might be the last chance I get. You take care of yourself, kid."*
+_"You know I won't live forever. We've been over this." The older valiant scanned their surroundings, taking note of every shadowed bluff and skittering critter. "I'm heading down now; this might be the last chance I get. You take care of yourself, kid."_
 
-*The veteran descended into the valley and was quickly swallowed by the thick fog. The boy remained on the precipice, as if his mentor might emerge again. But the day broke, and the haze cleared, and the valley was quiet and empty.*
+_The veteran descended into the valley and was quickly swallowed by the thick fog. The boy remained on the precipice, as if his mentor might emerge again. But the day broke, and the haze cleared, and the valley was quiet and empty._
 
 ![[Shalica.png]]
 
@@ -1215,8 +1054,6 @@ Dominating Shalica’s southwestern peninsula is a jet-black peak that towers ov
 
 The mountain and its surrounding foothills harbor very little life, inhabited only by a few specialized primordials. As such, efforts to harvest the valuable blackhorn from the mountain are extremely high-risk, with the air itself capable of completely paralyzing most creatures within minutes. Those with specialized equipment capable of filtering the toxic atmosphere must then contend with some of the most vicious primordials on Shalica.
 
-  
-
 #### The Ruptured Northwest
 
 The lands of northeast Shalica are permanently marred, more so than any other region of the continent. At the northernmost point of the continent sits the epicenter of this ruin: the Sea of Madness. This crater sea marks what was once the site of Avana. Now, it’s little more than a whirling vortex, constantly leaking chaos form the deep into the world.
@@ -1239,8 +1076,6 @@ Twin valleys make up the southwestern region of Shalica. The western valley, sti
 
 The eastern valley, isolated by some of the most aggressive ridges Shalica’s Spine has to offer, cradles a ruined Selk city. Though only a fraction of the size of Avana’s city center, this ruined metropolis sports legions of automata similar to those found in patrolling the Cosmic Spire. Many plunderers and researchers have braved the streets of this ruined city, it’s decaying storefronts still aglow with arcane signage. Very few of these brave individuals, however, have returned from the remote valley.
 
-  
-
 #### The Lowlands of Southeast Shalica
 
 The gentlest, most accommodating lands in Shalica lie between the southern portion of Shalica’s Spine and the foreboding Blackhorn Peak. These lowlands are covered in fields and forests, and dotted with quaint and comfortable villages. This region was almost entirely spared the reckoning that came with the destruction of Avana.
@@ -1249,17 +1084,17 @@ Covering the southern coast of this low-lying region are the Floodbarrens. This 
 
 #### Alburn and the Lowland Settlements
 
-*Two stargazers sat together on a beach. An easterly wind had carried Alburn’s smog to their sky, so they instead watched the tide come in.*
+_Two stargazers sat together on a beach. An easterly wind had carried Alburn’s smog to their sky, so they instead watched the tide come in._
 
-*“You know, the water’s not actually rising.”*
+_“You know, the water’s not actually rising.”_
 
-*“Yeah, yeah, you’ve told me before. We’re sinking, or whatever.”*
+_“Yeah, yeah, you’ve told me before. We’re sinking, or whatever.”_
 
-*“No, not sinking, floating. Up and down, every day and night.”*
+_“No, not sinking, floating. Up and down, every day and night.”_
 
-*Some time passed, and the tide rose up to meet their feet.*
+_Some time passed, and the tide rose up to meet their feet._
 
-*“Do you think we’ll ever sink?”*
+_“Do you think we’ll ever sink?”_
 
 Alburn is the capitol city of Shalica, and one of the greatest cities on the Brineflame Empire. It serves as trade capital of the known world, dealing in both the exchange of physical goods and widely sought-after knowledge. The latter product coalesces within the Imperial Records library, one of the grandest collections of information on the barrier.
 
@@ -1268,8 +1103,6 @@ Due to its strategic position near the borders of Sunspire waters, Alburn houses
 Most of the city benefits from sophisticated creature comforts, from electric appliances to arcane automata. Streets are lined with all manner of amenities, from elegant boutiques and upscale cafes to secondhand markets and corner store delis. Alburn is also home to the original valiant guild hall, which serves as the operating base for some of the most well-known valiant companies on the barrier. Many artisan shops specializing in adventuring gear earn nearly all of their revenue providing equipment to these valiants.
 
 In the lowlands overseen by Alburn are many smaller settlements. While most of these are farming towns or trade settlements situated on the main roads, there are a handful of notable cities between Alburn and Southstar. The town of Cromst, situated almost exactly between Alburn and Southstar, is a farming town recently turned burgeoning city, it’s growth driven by those attempting to escape the bustle of Alburn and Southstar. Situated far to the south of Alburn is the quiet walled city of Getsan. This city, once a Hjark outpost, is home primarily to agricultural barons, with most of its population consisting of seasonal workers.
-
-  
 
 #### Southstar and the Settlements of the Valley
 
@@ -1295,8 +1128,6 @@ In the larger Blackmaw Bay, the Brineflame Empire controls the strategic ports o
 
 Established by independent explorers for the purpose of exploring northeastern Shalica is the port of Blackbeach. It was quickly found that the region hosted only harsh deserts occupied by vicious primordials. However, when explorers made contact with the Ingra commune of Eris, the port settlement of Blackbeach grew into a moderately prosperous trading center. Here, the dreg hunters of Eris trade rare, unstable materials taken from their quarries for tools and supplies.
 
-  
-
 # 4    The Contending Nations
 
 Keeping the Brineflame Empire in check are the nations of Carthia and Sunspire. Though both nations are dwarfed by the expansiveness of the empire, each boasts their own respective prowess and accomplishments.
@@ -1304,6 +1135,7 @@ Keeping the Brineflame Empire in check are the nations of Carthia and Sunspire. 
 While direct conflict is often far too costly to be considered by any major power on the barrier, these three nations are no strangers to proxy wars and skirmishes over territories outside of the central seas.
 
 ## 4.1  Carthia
+
 ![[Pasted image 20241024223137.png]]
 
 Carthia is an exceedingly neutral nation built upon genesis forge technology, Generally speaking, Carthia is a nation that is largely content with its current state, having little ambition to grow or to conquer. With most aspects of daily life automated by ancient technologies, the citizens of Carthia want for nothing and are free to pursue their individual passions.
@@ -1319,8 +1151,6 @@ Carthia, beginning as a small settlement founded by some of the first Marr durin
 For the first several hundred years of its existence, the hamlet of Carthia was quaint and comfortable. Marr went about their lives with ease, cradled in the lush forested valleys of central Uthren. It wasn’t until the arrival of other Archian lineages introduced some semblance of ambition that the city began growing in earnest.
 
 It didn’t take long for explorers to discover the sprawling genesis forges buried under the mountain around Carthia, and by the end of the first millennium after the Dawn, Carthia had grown into a proper metropolis, governed as a city-state by a small council of bold Archians, only a few of which bore any Marr ancestry.
-
-  
 
 #### The Genesis of Superweapons
 
@@ -1343,8 +1173,6 @@ The new council of Carthia understood that a passive role would not prevent futu
 The council also took this time to establish themselves as an official nation. They marked borders, codified governance, and marked themselves as a powerful neutral nation on the barrier. The Carthian tongue was also devised during this period, acting as a simplified common denominator of the now-diverse Carthian people. It is likely that this language would have spread across the barrier and become the common tongue of the seas, were it not for the new, isolationism of Carthia.
 
 The nation of Carthia continued on this course to the present day, keeping to itself for several stable millennia. The only time the Carthian defense forces left their borders was during the Avana disaster, roughly 3,500 years after the Archian Dawn. Carthian forces were dispatched to aid the survivors of the calamity, leveraging their advanced technology to help stabilize the dying land. This act helped to greatly improve their image, replacing their past transgressions in the minds of the international community.
-
-  
 
 #### Carthia’s Modern International Relations
 
@@ -1370,8 +1198,6 @@ The deity-class Watchers are responsible for the direct control of every other u
 
 Carthian Watch units are uniquely capable against the forces of the deep. Due to their construction of components from the genesis forge, they are extremely resistant to deep influences and have protected Carthia from many incursions throughout its history. They are not, however, immune to corruption, and in a few cases deep-touched Watchers have been put down by the Carthian Watch.
 
-  
-
 ## 4.2  Sunspire
 
 ![[Sunspire.png]]
@@ -1394,8 +1220,6 @@ This purity, however, bordered on xenophobia. Foreign diplomats were the only pe
 About 2,000 years after the Archian Dawn, Selk hailing form Sunspire established Avana. In the new city’s early days, it acted as a colony of Sunspire. Resources were funneled to the small port city, and Avana grew slowly and steadily. Then, a routine dig unearthed the entrance to Shalica’s genesis forge. Having no forge under Sunspire, this resource was new to the people of Sunspire. And, by this time, almost a thousand years had passed since the superweapon unleashed by Carthia had shaken the central seas.
 
 The Selk handled this technology responsibly for over a thousand years. During this time, Avana grew to dwarf Sunspire. Things continued in this way until roughly 3,500 years after the Dawn, when Avana pushed its genesis technology to its limits in an attempt to finally wipe out their rivals on Shalica. The resulting arcane fallout fractured the continent and annihilated the greatest civilization on the barrier overnight.
-
-  
 
 ### The Orders of Sunspire
 
@@ -1422,8 +1246,6 @@ Above all else, the Order of the Sun demands stoicism in the face of a world tha
 A natural counterpart to the Order of the Sun, the Order of the Moon provides spiritual aid and governance to the people of Sunspire. This includes some services that bridge into the material, such as healthcare and history-keeping. This was the first order to be properly established after the catastrophe at Avana and is responsible for much of the rescue efforts on Shalica.
 
 Those that belong to the Order of the Moon hold compassion in the highest regard. To be a member of this order means to put the well-being of those in need above all else. Members of this order are the only Sunspire citizens allowed to regularly interact with foreigners outside of combat scenarios, as it is their duty to extend a gracious, healing hand to the lowly and needy peoples outside of Sunspire’s borders.
-
-  
 
 #### The Order of the Eldest Star
 
@@ -1453,19 +1275,17 @@ In contrast to the sun order’s tools of war, the order of the moon’s researc
 
 The people of Sunspire have a very unique relationship with the primordials of the barrier. Sunspire is the only nation able to consider itself generally allied with primordials, and is the only nation where Archians working alongside primordials as equals is commonplace. It’s not uncommon for Sunspire’s arc-engineers to implant the heart of a willing primordial into various types of critical arcane machinery, with the most interesting example being arcjets, where primordials act as both the power source and as a co-pilot for an Archian operator.
 
-  
-
 # 5    International Institutions and Organizations
 
 On the modern barrier, traditional borders are little more than suggestions, and allegiances and ideas are easily spread to even the most isolated and remote of places.
 
 ## 5.1  Major Faiths of the World
 
-*An imperial inquisitor kneeled behind a desk in a pool of his own blood, his right hand pushing hard against a hole is his gut. One of his hands lay limp, several feet away. With a deep gasp, he summoned his remaining courage and spoke:*
+_An imperial inquisitor kneeled behind a desk in a pool of his own blood, his right hand pushing hard against a hole is his gut. One of his hands lay limp, several feet away. With a deep gasp, he summoned his remaining courage and spoke:_
 
-*"Heretic, you only bring upon yourself an unimaginable suffering! Your dark deeds here will be buried, and righteous retribution will singe your flesh eternal! There is no hope for you! No amount of repentance shall save your soul! I wanted only your salvation, but with the lives you have ended this night, I fear that will never come for you."*
+_"Heretic, you only bring upon yourself an unimaginable suffering! Your dark deeds here will be buried, and righteous retribution will singe your flesh eternal! There is no hope for you! No amount of repentance shall save your soul! I wanted only your salvation, but with the lives you have ended this night, I fear that will never come for you."_
 
-*Muffled laughter blended with the sound of soft, squelching footsteps approaching the desk. Having spent all he had; the inquisitor could only manage a whimper before his skull was caved in.*
+_Muffled laughter blended with the sound of soft, squelching footsteps approaching the desk. Having spent all he had; the inquisitor could only manage a whimper before his skull was caved in._
 
 In the roughly eight millennia the Archians have existed on the barrier, they have established all manner of faiths and religious doctrines. Most of these never grow beyond small, regional beliefs. There are, however, a handful of these faiths that have found a foothold internationally. These major faiths serve to further complicate the already twisted webs of culture that span the barrier.
 
@@ -1480,8 +1300,6 @@ Ancient followers of the way understood that the health their world and the prim
 As groups of Hjark left Shalica to settle in faraway lands, they began mingling with the other peoples of the barrier. Everywhere they settled, their masterful crafts inspired indigenous peoples. It wasn’t long before the basic principles encoded by ancient Hjark long ago became commonplace in blossoming industries throughout the seas.
 
 From Sunspire to Carthia, engineers studied the methods of the first Hjark. In every major city, universities dedicated to the teachings of the way could be found. This code, focused more on the material, was able to coexist with the myriad other spiritual beliefs found across the barrier.
-
-  
 
 #### The Modern Corruption of The Way
 
@@ -1503,8 +1321,6 @@ The new Church operates under two branches. The first branch is devoted to the t
 
 The second branch of the Church focuses on the safe study of the genesis forges across the barrier, employing all matter of specialists to facilitate the extracting and research of genesis forge artifacts. This branch operates in relative confidentiality, with Church knowledge being closely guarded to avoid it falling into nefarious hands. The Church often finds itself at odds with Sunspire’s Order of the Eldest Star, with the two forces regularly coming into conflict.
 
-  
-
 #### The Rogue Splinters of the Carthian Church
 
 As the technological branch of the Church employs many individuals, it is inevitable that it suffers the eventual defector. These individuals often escape with small, key technologies, usually with the intention of a black-market payday. Most of the technology these agents escape with eventually ends up in the hands of government research agencies or hot-shot valiants with too much coin to spend.
@@ -1525,8 +1341,6 @@ The second principle of the faith is the principle of the moon. This principle i
 
 The third and final principle, the principle of the eldest star, is often omitted in common practice. This principle states that it is the responsibility of every faithful to scorn the unfaithful. This concept is seen as mostly unpalatable, with no place in the modern world. Some fundamentalists still cling to this principle, believing that the ascension of all Archians relies on a total unification through the celestial faith.
 
-  
-
 ### The Deep Creed of Anarchy
 
 The deep, while not inherently evil, is feared across the barrier. The uncaring chaos it spawns is an annoyance to even the luckiest folk. However, there are those that embrace the unpredictability of the abyss below. Some of these people act as individuals, while others form loose organizations with like-minded cohorts. Regardless, they all posit that chaos is necessary, perhaps even more so than order.
@@ -1545,8 +1359,6 @@ While very few identify with the vehemently anti-establishment ideology of the c
 
 Unfortunately for the champions of personal freedoms, they often find resistance on multiple fronts. Their secondhand association with the deep causes most folk to disregard them, and their softening of creed tenets draws ire from staunch anarchistic adherents.
 
-  
-
 ## 5.2  International Organizations
 
 While most organizations across the barrier are not technically limited by national borders, there are only a few that can be considered truly and practically international. These groups wield significant power and influence across the seas, operating under the protection of neutrality. This neutrality, however, is often brought into question for the largest organizations.
@@ -1563,27 +1375,23 @@ The trade union began as a coalition disgruntled Girt merchants who felt disenfr
 
 The modern trade union is a well-established and trusted third party, serving the barrier in trade and logistics. They act as the primary mediators in the commodity market, and their vaults and banks are among the most trusted in all of the seas.
 
-  
-
 ### Valiants
 
-*A lone figure, bearing heavy grenadier armor draped in gray cloth, sifted through rubble. She shifted, adjusting the massive blade slung over her shoulder, and brushed the ash from the insignia of a fallen soldier. A Sunspire officer. Her objective was nearby.*
+_A lone figure, bearing heavy grenadier armor draped in gray cloth, sifted through rubble. She shifted, adjusting the massive blade slung over her shoulder, and brushed the ash from the insignia of a fallen soldier. A Sunspire officer. Her objective was nearby._
 
-*The scout’s radio buzzed as he peered through the heavy smog. “I found the officer. Meet me at the flare, and watch out for scavengers.” The scout took a deep breath of fresh air, the last he’d get before heading into the city below. He fiddled with his rifle idly, peering into the labyrinthian streets from his perch. After a few brief moments, he spotted a red glow through the fog and shook awake a well-dressed man lying next to him. “It’s time to go, doctor.” The two collected their things and descended into the fog below.*
+_The scout’s radio buzzed as he peered through the heavy smog. “I found the officer. Meet me at the flare, and watch out for scavengers.” The scout took a deep breath of fresh air, the last he’d get before heading into the city below. He fiddled with his rifle idly, peering into the labyrinthian streets from his perch. After a few brief moments, he spotted a red glow through the fog and shook awake a well-dressed man lying next to him. “It’s time to go, doctor.” The two collected their things and descended into the fog below._
 
 Beneath the webs of geopolitics, independent mercenary-adventurers work for the highest bidder. They operate in small groups with visceral efficiency, demanding a high price for their dangerous line of work. While many valiants are maimed, killed, or otherwise forced to retire young, veteran valiants are among the most powerful (and sometimes influential) individuals in the Barrier.
 
 The original valiant guild house was established in Alburn, Shalica, thousands of years before it became the heart of the modern Brineflame Empire. Since then, a franchised network of guild houses has spread throughout the central seas and into the more populated regions of the near seas. These guild houses act as middlemen between potential clients and valiant companies.
 
-  
-
 # 6    The Blurred Edges of the World
 
-*“I’m tellin ya, friend, there’re things out there, more than water and darkness. I can take ya to the edge, but I ain’t goin no further than that.”*
+_“I’m tellin ya, friend, there’re things out there, more than water and darkness. I can take ya to the edge, but I ain’t goin no further than that.”_
 
-*Wordlessly, the valiant dropped hefty pouch of coin in front of the old seadog. Paper money wasn’t any good this far out, but the clinging of coin caught the old man’s attention.*
+_Wordlessly, the valiant dropped hefty pouch of coin in front of the old seadog. Paper money wasn’t any good this far out, but the clinging of coin caught the old man’s attention._
 
-*“Ok, I can take ya a little bit past the edge, but I turn around at the first sign of trouble”*
+_“Ok, I can take ya a little bit past the edge, but I turn around at the first sign of trouble”_
 
 Far from the gaze of the cosmic engine, alien beings from beyond the veil of the world poke and prod at the Architect’s quaint little creation. The boldest of these beings push closer to the center of the world, their existence a stain on realms they disgrace with their presence.
 
@@ -1602,8 +1410,6 @@ Avatars appear rarely on the barrier, as physical manifestations of higher-order
 Gore avatars are mostly featureless beings with white heads baring two red eyes. Their heads are tucked deeply into their torsos, with the tops of their scalp flush with their shoulders. They are large and very physically capable, sporting a pair of long arms that end in simple stubs. While their size varies, the smallest among them easily dwarf the largest archians.
 
 When left to whatever inscrutable task they are attending to, gore avatars are docile and inattentive. Any interruption to this sends them into an unstoppable rage. They will tear through anything and everything that moves, until they are eventually satisfied. While indestructible, they can be stilled by overwhelming force such that it’s clear they have met their match.
-
-  
 
 #### Type-2 “Gore” Avatars
 
@@ -1629,13 +1435,11 @@ As devourers feed, they rapidly mutate into larger, more dangerous forms, inheri
 
 If left to finish its feast, a devourer will eventually leave the world just as suddenly as it arrived. Only young devourers have been observed to enter the world.
 
-  
-
 ### Singulars
 
-*It walked from room to room, stepping carefully over smoldering bodies. On its way to the front door, it passed a crooked painting to its left. The work was scorched beyond recognition, but something about it drew the intruder's gaze. It touched a single soot-stained finger to the surface of the blackened canvas. For a moment, it felt regret. Then, like a spent ember, it was gone.*
+_It walked from room to room, stepping carefully over smoldering bodies. On its way to the front door, it passed a crooked painting to its left. The work was scorched beyond recognition, but something about it drew the intruder's gaze. It touched a single soot-stained finger to the surface of the blackened canvas. For a moment, it felt regret. Then, like a spent ember, it was gone._
 
-*It stepped out of the still-burning doorway as the structure began collapsing behind it. There was much more work to be done.*
+_It stepped out of the still-burning doorway as the structure began collapsing behind it. There was much more work to be done._
 
 There are individual entities that exist outside of the edges of the world with powerful influences. These beings differ from avatars in that they are not higher-order entities manifesting physical forms, but individual and unique beings capable of intruding upon the world.
 
@@ -1656,8 +1460,6 @@ As higher-order beings, like the architect, cannot interact directly with the wo
 The prions are simple creatures, small enough that they are invisible to the naked eye. Their biology is alien to this world, and they are unable to reproduce. Thus, once seeded by their master unto the world, their number cannot grow any further.
 
 Requiring no sustenance of any sort, these beings act more as passive machines that living creatures. They are able to lay dormant indefinitely, and if ingested, will work their way towards their hosts brain. There, they will sit, still dormant, until the electrical activity of the brain ceases. At this point, the prion activates, jolting the mind back to life and taking full control of the host. These prions have an uncanny familiarity with the biology of barrier creatures and can manipulate them to an extreme degree. Even functions that were once autonomous, such as the healing of wounds or the release of hormones, can be exactly controlled by the body’s new master.
-
-  
 
 #### Empowered Hosts
 
@@ -1685,19 +1487,17 @@ The IC, through a long series of arguably unethical tests, was able to determine
 
 The order of the eldest star recorded the onset of this seed long before the official initial contact but abstained from any sort of intervention.
 
-  
-
 ## 6.2  Anomalies
 
-*"If anyone can hear me, this is lieutenant Grale of the 14th Imperial Scouts. Our patrol ran into something weird - possible deep activity. We've already lost a few soldiers. I have no idea how, they're just - they're just not here anymore. I'm requesting support, whatever this is it's keeping us from leaving this position."*
+_"If anyone can hear me, this is lieutenant Grale of the 14th Imperial Scouts. Our patrol ran into something weird - possible deep activity. We've already lost a few soldiers. I have no idea how, they're just - they're just not here anymore. I'm requesting support, whatever this is it's keeping us from leaving this position."_
 
-*The radio transmission played again over the hum of the truck engine before they arrived. Only three transports, supported by a single biplane overhead. The warders back at headquarters couldn't detect any sort of intrusion, and this small radio support unit was deemed sufficient for an initial reconnaissance.*
+_The radio transmission played again over the hum of the truck engine before they arrived. Only three transports, supported by a single biplane overhead. The warders back at headquarters couldn't detect any sort of intrusion, and this small radio support unit was deemed sufficient for an initial reconnaissance._
 
-*In tall grass fields, miles and miles away from civilization, the radio operator fiddled with his instruments while his officer sighed impatiently. "So are we just gonna sit here and listen to that damned broadcast, or do you have something for me?" The operator, confused and frustrated, searched for an explanation. "Ma'am, it's right here - this is where the signal's coming from." Unamused, the officer started rousing the drivers. "Just ghost signals, we'll report back and head home. There's nothing out here." The operator, however, was unsatisfied. "These aren't ghost signals! I mean - ma'am, these signals are fresh. Actively transmitted. From right here!" Over the familiar hum of engines, the officer gave one final command. "Pack your things up, we're leaving."*
+_In tall grass fields, miles and miles away from civilization, the radio operator fiddled with his instruments while his officer sighed impatiently. "So are we just gonna sit here and listen to that damned broadcast, or do you have something for me?" The operator, confused and frustrated, searched for an explanation. "Ma'am, it's right here - this is where the signal's coming from." Unamused, the officer started rousing the drivers. "Just ghost signals, we'll report back and head home. There's nothing out here." The operator, however, was unsatisfied. "These aren't ghost signals! I mean - ma'am, these signals are fresh. Actively transmitted. From right here!" Over the familiar hum of engines, the officer gave one final command. "Pack your things up, we're leaving."_
 
-*The operator sat sullen in the back of his transport, searching his mind for some explanation. A burst of static drew him out of his stupor as the radio briefly came to life. "This is lieutenant Grale of the 14th Imperial Scouts. Please don't leave us here."*
+_The operator sat sullen in the back of his transport, searching his mind for some explanation. A burst of static drew him out of his stupor as the radio briefly came to life. "This is lieutenant Grale of the 14th Imperial Scouts. Please don't leave us here."_
 
-*Imperial report on the loss of the 14th Imperial Scouts*
+_Imperial report on the loss of the 14th Imperial Scouts_
 
 There are several manifestations of otherworldly forces that do not materialize in identifiable entities. These aberrant events, known generally as anomalies, are observed across the barrier at varying degrees of uncanniness.
 

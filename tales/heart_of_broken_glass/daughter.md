@@ -446,3 +446,118 @@ The storm quieted as the pair fell further. They between them hardly held enough
 She splashed through a world inverted, watching her own body fall in cascades. She sank slowly, the sight of the surface fading softly. She saw her hand move before she could feel it. Something imperceptible pulled at it, an invisible thread still attached to the other side.
 
 She reached towards it, driven by some solemn curiosity. Before she had even commanded it, her hand grasped another, a mirror image of its own. It was soft, the only thing to be felt in this void. She devoted her entire self - if she even still had one - to this hold. As the last lights of the world above faded, a strange sensation hit her. The subtle smell of honey, cutting the agony as the world dimmed.
+
+-
+
+"i don't want any of your gifts, i'm just here for-"
+"For what? A pleasant chat? It's never that simple-"
+"stop interrupting me, please. i get it, you've got this whole thing going on, your grand schemes and whatever. but you need to chill with this, i'm not one of your weird little abominations"
+
+The priestess stood tall and still, momentarily stunned. A dry smile cut her face as she wrapped her monstrous form around Ceta. She touched her hand to Ceta's trembling chest.
+
+"Your body betrays you. The fear you hold from your works piles in your heart."
+
+She continued, coiling tighter around Ceta. Frost accumulated at her fingertips. Ceta struggled, each twist giving the priestess a tighter hold. As her lungs compressed, the Priestess pushed a hand deep into Ceta's pale chest.
+
+The priestess retreated as slowly as she advanced. Ceta's shivering body collapsed as she forced a gutteral scream, no longer supported by crushing limbs. The priestess leaned low to reach Ceta with a whisper.
+
+"Oh, daughter, there is nothing to protest. It only marks you as you are..."
+
+Ceta raised her eyes to the towering priestess. She opened her mouth, but only blood sputtered forward. Lifting herself to her hands and knees, she met a cold gaze. The priestess giften her one last cold breath.
+
+"Unwanted."
+
+-
+
+Ceta's lightless apartment hung in stasis. dust covered every surface, save for a bloody trail between the entrance and the desk where the telephone sat. It beeped softly as a bony finger dialed a rehearsed number.Then a cold dial tone, the only sound in the dead space.
+
+A click.
+
+"Hello?"
+"liz, it's me"
+"Ceta? Where the fuck have you been?"
+"i'm sorry, i just-"
+"No, Ceta, stop. You can't just dissapear for weeks ata time and expect me to keep picking up where we left off, like nothing happened."
+"can you just-"
+"No. I've got shit going on. I don't have time to deal with any of your problems."
+"just-"
+"No."
+
+Another click. Then a pause, followed by a steady tone. Ceta dropped the phone, the tone still playing. She stood up, forcing straight her broken back. With a tight fist and a shiver on her lower lip, she turned towards the door.
+
+-
+
+Files lay haphazardly about the archives. Several rows deep, a lone researcher scanned through envelope after envelope. Her darkening eyes had grown unattentive, and she continued unaware of a quiet observer.
+
+She continued for some time here, moving from envelope to envelope. Matching strange symbols, cross referencing case numbers. There was something to it, just at the edge of her reach. Her spectator spoke, freezing her.
+
+"Isn't it a bit late, doctor?"
+
+She took a moment to catch her breath, to find her voice.
+
+"Ennin- how long have you been there?"
+"You need to go home. You're going to get yourself hurt."
+"I'm fine, I just have some things I need to piece together."
+
+Agent Ennin made a show of scanning the racks of raided documents.
+
+"Just a few things?"
+"Ok, yeah, I'll clean it up when I'm done."
+"Or right now."
+
+The two traded gazes. Ennin crossed her arms, raising her head. The doctor slouched in response, resigning to exhaustion. With a sigh, she began to sort her mess of papers back into their cases.
+
+[...]
+
+"Stay safe, Dr. Vega"
+"It's not my first late night, I can handle myself."
+"That's not what I meant."
+
+-
+
+"your smell, it's kind of airy"
+"what?"
+"airy, like it's light, and sort of flor-
+"i know what airy is, i- it's just blood, ceta."
+
+ceta pulled away, dropping her gaze. the two sat for a quiet moment. calliope moved to rest a hand on her shoulder, and ceta spoke softly
+
+"just blood"
+
+-
+
+there it stood. what appeared to be a tall woman, with off white skin and draped in runed black cloth. its smile stretched too wide, flashing rows of pointed teeth
+it's arms lay still at its sides, yet flashes and crimson clawed hands flashed at its flanks, fading in and out of the uncanny darkness surrounding it
+it moved fast and without warning with a swipe towards Ceta's face. she scarcely managed to catch it with her right arm, suffering a set of deep lacerations. the wounds burned cold, seizing the severed muscles. a mess of heavy blows followed, collapsing into her chest from all directions. a final shove sent her straight into the nate concrete wall. agony flowed from her crushed spine into every inch of her body.
+the space around her warped, and time with it. the edge of death granted one final boon, and Ceta wielded it with fervor, shaping razors into her icy fists.
+the creature's form seemed to spill out and fill the room, but this only gave more opportunities to eviscerate. the two traded wounds, neither giving in to their failing flesh.
+in short time, an impossible amount of blood had been spilled, pooling on the floor and dripping from the walls. Ceta was teaching her limit, each new cut sending her stumbling closer to death's threshold. then, as suddenly as it began, the violence ceased. the strange figure shrunk away, its form collapsing back into something more human. Ceta withdrew, redirecting her last mote of strength to steady herself.
+
+in a breeze of chilled air, the figure spoke.
+"please excuse my means, child"
+Ceta staggered back, falling back once again toward the bloodstained concrete. her eyes fell low, losing focus.
+"but there can be no birth with blood"
+darkness crept into the edges of Ceta's vision. the voice grew distant.
+"rest now, child. i will see to your broken body"
+ceta fell forward into a pool of cold blood.
+"we will have much to do when you awaken,"
+the voice held at the final word, as if to savor it, to cradle it.
+"daughter"
+
+/\*
+//^ it starts slow, drawn out. then hits hard and fast with violence before stopping suddenly. it's fade out is dragged again, even more the fade in. it's a birth scene, not literally but narratively
+//^ a very important scene as it separates stage setting from the beginning of the narrative proper. up until now it's been a series of vignettes. slices of life that establish the people and places, foreshadow the conflicts.
+this first part is told like somebody who's about to tell a big story but attempts to give the context first. but it's broad and unwieldy and they don't exactly tell it all in order. beginnings middles and ends are all mixed together, and by the time it's alk said you're kind of confused.
+
+so these little intro stories have to hold their own, be interesting enough to get through. then the birth scene hits, and that acts as the transition from establishing past and present and finally moving forward into future. so it has to hit hard, take someone that's a bit exhausted and convince them to buckle up for the rest of the ride.
+
+this ride goes pretty much nonstop through the end of book one. then it takes a slower intermission at the start of boon two, but does not stop. boon two gains speed after it reconciles with the end of book one, and the narrative speeds up on a collision course with the final climax.
+
+there is no final falling action. no comfort granted in the end. just one last hard hit and then you're on your own to post process
+(ok there's like one paragraph of falling action just to let you know that yeah it's over but that's all)
+//^ after that scene she gets the mark of the priestess (mark of blood), a sliver moon with a single slash down the center (the one from the cover art) eventually progresses to the mark of the daughter/empress towards the latter half of book one and the beginning of book two (its own birth/rebirth scene)
+\*/
+
+--
+
+in another life, born into a more powerful family, she would have made for an imposing matriarch. but here, far from the traditions of Brine, those familial roles were relaxed.
