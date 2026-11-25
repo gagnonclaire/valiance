@@ -89,7 +89,7 @@ Elizabeth broke into a tired smile, the tension melting away. She returned the n
 
 "what the fuck?"
 
-Dark shapes murmured at the edges of the lamplight. The sound reverberated throughout the empty space, accompanied by a metallic stench. Ceta drew steel, eyes shifting between the Priestess and the circling crowd. Unsatisfied with the Priestess's demeanor, she turned from questions to demands.
+Dark shapes murmured at the edges of the lamplight. The sound reverberated throughout the empty space, accompanied by a metallic stench. Ceta drew steel, eyes shifting between the keeper and the circling crowd. Unsatisfied with the keeper's demeanor, she turned from questions to demands.
 
 "just tell me what the fuck is-"
 
@@ -129,17 +129,17 @@ One level down, on the walkway opposite theirs, a figure shot through the entry 
 "For what? A pleasant chat? It's never that simple-"
 "stop interrupting me, please. i get it, you've got this whole thing going on, your grand schemes and whatever. but you need to chill with this, i'm not one of your weird little abominations"
 
-The priestess stood tall and still, momentarily stunned. A dry smile cut her face as she wrapped her monstrous form around Ceta. She touched her hand to Ceta's trembling chest.
+The keeper stood tall and still, momentarily stunned. A dry smile cut her face as it wrapped her monstrous form around Ceta. It touched its hand to Ceta's trembling chest.
 
 "Your body betrays you. The fear you hold from your works piles in your heart."
 
-She continued, coiling tighter around Ceta. Frost accumulated at her fingertips. Ceta struggled, each twist giving the priestess a tighter hold. As her lungs compressed, the Priestess pushed a hand deep into Ceta's pale chest.
+She continued, coiling tighter around Ceta. Frost accumulated at her fingertips. Ceta struggled, each twist giving the keeper a tighter hold. As her lungs compressed, the keeper pushed a hand deep into Ceta's pale chest.
 
-The priestess retreated as slowly as she advanced. Ceta's shivering body collapsed as she forced a gutteral scream, no longer supported by crushing limbs. The priestess leaned low to reach Ceta with a whisper.
+The keeper retreated as slowly as it advanced. Ceta's shivering body collapsed as she forced a gutteral scream, no longer supported by crushing limbs. The keeper leaned low to reach Ceta with a whisper.
 
 "Oh, daughter, there is nothing to protest. It only marks you as you are..."
 
-Ceta raised her eyes to the towering priestess. She opened her mouth, but only blood sputtered forward. Lifting herself to her hands and knees, she met a cold gaze. The priestess giften her one last cold breath.
+Ceta raised her eyes. She opened her mouth, but only blood sputtered forward. Lifting herself to her hands and knees, she met a cold gaze.
 
 "Unwanted."
 
