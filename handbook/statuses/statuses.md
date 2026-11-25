@@ -12,18 +12,6 @@ Status immunities prevent a certain status or statuses from being applied to the
 
 Positive statuses, usually applied to yourself or allies. Some boons allow their points to be spent, granting powerful effects and clearing the spent points. These statuses still have a point cleared at the end of the character's turn.
 
-```dataview
-TABLE effect as "Effect"
-FROM #boon
-SORT file.name ASC
-```
-
 ## Ailments
 
 Negative statuses, usually applied to your enemies.
-
-```dataview
-TABLE effect as "Effect"
-FROM #ailment
-SORT file.name ASC
-```
